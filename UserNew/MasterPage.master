@@ -1,0 +1,271 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <%--浏览器代码兼容模式--%>
+
+    <meta name="renderer" content="|webkit|ie-comp|ie-stand">
+    <%--360浏览器样式兼容--%>
+    <meta http-equiv="X-UA-Compatible" content="IE=8"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7; IE=EmulateIE9">
+     <link rel="icon" sizes="any"  href="images/vb.jpg" />
+    <link href="css/user.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="wrap">
+        <!------------------------------------------最顶层开始------------------------------------------------>
+        <div class="dingceng">
+            <table align="center" class="dingceng_1">
+                <tbody> 
+                    <tr>
+                        <td class="td_1">
+                            <ul>
+                                <%--招商客服  --%>
+                                <li class="li_1">
+                                    <!-- WPA Button Begin -->
+                                       <script charset="utf-8" type="text/javascript" src="http://wpa.b.qq.com/cgi/wpa.php?key=XzkzODA0NDA4NV80MDM0MDdfNDAwMDA4MjYxOF8"></script>
+                                    <!-- WPA Button End -->
+                                </li>
+                                <%-- 接待客服 --%>
+                               <%-- <li class="li_1"><script charset="utf-8" type="text/javascript" src="http://wpa.b.qq.com/cgi/wpa.php?key=XzkzODA0NDA4NV8zNzUzOTBfNDAwMDA4MjYxOF8"></script></li>--%>
+                                <li class="li_2">|</li>
+                                <li class="li_3"><a href="<%=wwwpath %>Help.aspx" target="_blank" class="dingcheng_12">帮助中心</a></li>
+                                <li class="li_2">|</li>
+                                <li class="li_4"><a href="<%=wwwpath %>Helper.aspx" target="_blank" class="dingcheng_12">试用流程</a></li>
+                               <li class="li_2">|</li>
+                                <li class="li_14"><a class="dingcheng_12" id="t1" onMouseOver="javascript:show(this,'mydiv1');" onMouseOut="hide(this,'mydiv1')">收藏</a></li>
+                            </ul>
+                        </td>
+                        <td class="td_2">
+                            <ul>
+                                
+                                <%if (id == 0)
+                                  { %>
+                                <li class="li_8"><a href="<%=wwwpath %>Registere.aspx?rolerd=0" class="dingcheng_12">免费注册</a></li>
+                                <li class="li_9"><a href="<%=path %>login.aspx" class="dingcheng_12">您好,请登录</a>
+                              
+                                </li>
+                                <%}
+                                  else
+                                  { %>
+                                <li class="li_12"><a href="<%=path %>users/TradelistShi.aspx" class="dingcheng_12">我的试用记录</a></li>
+                                <li class="li_7">-</li>
+                                <li class="li_8"><a href="<%=path %>users/index.aspx" class="dingcheng_12">会员中心</a></li>
+                                <li class="li_7">|</li>
+                                <li class="li_10"><a href="<%=path %>logout.aspx" class="dingcheng_12">&nbsp;&nbsp;&nbsp;退出</a></li>
+                                <li class="li_11">欢迎您,<a href="<%=path %>users/index.aspx" class="dingcheng_12"> <%=name %></a></li>
+                                <%} %>
+                            </ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <div id="mydiv1" style="position:absolute;display:none;border:1px solid #ff0032;background:#f7f7f7;margin-top:5px;color:#ff0032;padding:2px;font-size:14px;">快捷键：Ctrl+D</div> 
+        </div>
+        <!------------------------------------------最顶层结束------------------------------------------------>
+
+        <!------------------------------------------logo和信息开始------------------------------------------------>
+        <div class="logo_1">
+            <div class="logo_1_1">
+                <a href="<%=wwwpath %>home.aspx">
+                    <img src="../images/pt-logo.png" alt="折品购" class="logo_img" style="width:370px"/></a>
+            </div>
+          
+            <div class="logo_1_2">
+                <span class="logo_1_2_1">正品保障</span><br />
+                <span class="logo_1_2_2">100%正品</span>
+            </div>
+            <div class="logo_1_3">
+                <img src="../images/t.png" alt="" />
+            </div>
+            <div class="logo_1_4">
+                <span class="logo_1_4_1">问答任务</span><br />
+                <span class="logo_1_4_2">提交答案直接到账</span>
+            </div>
+
+            <div class="logo_1_7">
+                <img src="../images/s.png" alt="" />
+            </div>
+            <div class="logo_1_8">
+                <span class="logo_1_8_1">超高性价比</span><br />
+                <span class="logo_1_8_2">品牌低价折扣</span>
+            </div>
+            <div class="logo_1_9">
+                <img src="../images/f.png" alt="" />
+            </div>
+           
+        </div>
+        <!------------------------------------------logo和信息结束------------------------------------------------>
+
+        <!------------------------------------------导航开始------------------------------------------------>
+        <div id="nav" class="daohang">
+            <div id="com-nav" class="com-nav1">
+                <div class="inner">
+                    <ul>
+                        <li><a href="<%=wwwpath %>home.aspx" class="active" rel="nofollow">首页</a></li>
+                        <li><a href="<%=wwwpath %>DetailsList.aspx" class="">免费试用</a></li>
+                        <li><a href="<%=wwwpath %>quan/YouHuiQuan.aspx" class="">优惠券</a></li>
+                       <%-- <li><a href="<%=wwwpath %>CommList.aspx" class="">佣金任务</a></li>--%>
+                        <li><a href="<%=wwwpath %>QaTaskList.aspx" class="">问答任务</a></li>
+                        <li><a href="<%=wwwpath %>Yaoqing.aspx" target="_blank" class="" rel="nofollow">邀请有奖</a></li>
+                        <li><a href="<%=wwwpath %>Helper.aspx" target="_blank" class="" rel="nofollow">新手入门</a></li>
+                        <li><a href="<%=wwwpath %>sellerIn.html" target="_blank" class="" rel="nofollow">商家入驻</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!------------------------------------------导航结束------------------------------------------------>
+     
+    <div class="sec_main">
+        
+
+        <div class="grid_c3 grid_c3a sec_mainA">
+            <div class="mainbar">
+                <div class="mainbar_wrap">
+                   <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+                   </asp:ContentPlaceHolder>
+                </div>
+            </div>
+            <div class="sidebar">
+            <!-- 个人信息-->
+                <div class="gr_mod_box1 clearfix">
+                    <div class="usr_info">
+                        <div class="mod_userinfo_gb">
+                            <!-- 已登录 -->
+                            <div class="mod_userinfo_basic">
+                                <div class="mod_userinfo_avatar">
+		                             <img class="uinfo_avatar" src="<%=herd %>" onerror="this.src='../images/mt.jpg';" alt="头像"/>
+                                </div>
+                                <div class="mod_userinfo_name"><span id="id_nickname"><%=name.ToString().ToString().Length>6?name.ToString().Substring(0,6)+"…":name%></span></div>
+                                <%--<div class="mod_userinfo_mark">
+                                    <a href="javascript:void(0);" target="_blank">
+                                        <span class="ico_h0"></span>
+                                    </a>
+                                    <a href="#" title="您已经认证了淘宝帐号。">
+                                        <span class="ico_cft"></span>
+                                    </a>
+                                </div>--%>
+                            </div>
+	                        <%--<div class="mod_userinfo_orderRate">下单率：<strong id="orderRate">0%</strong></div>--%>
+                            <div class="usr_growth_total" >注册日期:<strong class="c_tx1" id="id_total_growvalue"><%=addtime.ToString().ToString().Split(' ')[0] %></strong></div>
+                            <%if(bindbuy !=0){ %>
+                            <div class="usr_taobao" style="padding-top: 6px;"><a href="../users/BindBuyer.aspx">您绑定了<strong class="c_tx1"><%=bindbuy %></strong>个淘宝帐号</a></div>
+                            <%}else{ %>
+                            <div class="usr_taobao" style="padding-top: 6px;"><a href="../users/BindBuyer.aspx"><strong class="c_tx1">您还没有绑定淘宝帐号</strong></a></div>
+                            <%} %>
+                        </div>
+                    </div>
+                </div>
+                <div class="info_nav g_b">
+                
+                    <%-- 左侧菜单 --%>
+                     <%=menu %>
+                </div>
+                <!--客服专员-->
+            <%--    <div style="height: 200px;display: inline-table;">
+                    <div class="i_mod_boxA lbox_2">
+                    <div class="i_mod_boxA_hd">
+                        <h3>邀请好友,500万等你来拿</h3>
+                    </div>
+                    <div class="i_mod_boxA_bd">
+                        <ul class="tb_uinfo">
+                            <li class="clearfix"><a href="#" target="_blank"><img style="_width:100%;" src="../images/User/yaoqing.gif" width="158" height="160"></a></li>
+                        </ul>
+                    </div>
+                    </div>
+                </div>--%>
+            <!--客服专员-->
+            </div>
+            <!--/lert end-->
+            
+            <!--/extrabar-->
+        </div>
+         
+           <!--底部-->
+            <div class="style_shenhui_11">
+                  <div class="diceng">
+                    <table align="center" class="diceng_1">
+                        <tbody>
+                            <tr>
+                                <td class="td_1">
+                                    <ul>
+                                        <li class="li_3"><a href="<%=wwwpath %>help.aspx?id=10" target="_blank" class="dingcheng_12">公司介绍</a></li>
+                                        <li class="li_2">|</li>
+                                        <li class="li_3"><a href="<%=wwwpath %>help.aspx?id=1" target="_blank" class="dingcheng_12">联系我们</a></li>
+                                        <li class="li_2">|</li>
+                                        <li class="li_3"><a href="<%=wwwpath %>sellerIn.html" target="_blank" class="dingcheng_12">商家入驻</a></li>
+                                        <li class="li_2">|</li>
+                                        <li class="li_1"><script charset="utf-8" type="text/javascript" src="http://wpa.b.qq.com/cgi/wpa.php?key=XzkzODA0NDA4NV8zNzUzOTBfNDAwMDA4MjYxOF8"></script></li>
+                                        <li class="li_2">|</li>
+                                        <li class="li_5"><a href="<%=wwwpath %>Helper.aspx" target="_blank" class="dingcheng_12">试用流程</a></li>
+                                        <li class="li_2">|</li>
+                                        <li class="li_5"><a href="<%=wwwpath %>Help.aspx" target="_blank" class="dingcheng_12">试客帮助</a></li>
+                                         <li class="li_2">|</li>
+                                        <li class="li_5"><a href="<%=path %>users/RecordShi.aspx" target="_blank" class="dingcheng_12">试用记录</a></li>
+                                    </ul>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+               
+                <div  style="width:1090px;margin:0 auto;text-align:center;font-size:14px;">
+                折品购隶属于济南微丰信息技术有限公司&nbsp;&nbsp; 通信地址：济南市二环东路&nbsp;&nbsp; 邮政编码：250000&nbsp;&nbsp;联系电话：4000082618
+                     <img src="../images/备案图标.png"  style="margin-top: 10px;"/>
+		 		<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=37010202000384" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+                   <img src="" style="float:left;"/><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">鲁公网安备 37010202000384号</p>
+		 		</a>
+                </div>
+            </div> 
+        </div>
+    </div>
+        <script>
+            function show(obj, id) {
+                var objDiv = $("#" + id + "");
+                $(objDiv).css("display", "block");
+                $(objDiv).css("left", event.clientX);
+                $(objDiv).css("top", event.clientY + 10);
+            }
+            function hide(obj, id) {
+                var objDiv = $("#" + id + "");
+                $(objDiv).css("display", "none");
+            }
+        </script>
+<%--        <script src="js/jquery-1.7.2.min.js"></script>
+        <script src="../layer/layer.js"></script>
+        <script>
+            $(function () {
+                var bindbuy = "<%=bindbuy%>";
+                if (bindbuy !=0)
+                {
+                    layer.confirm('您是如何看待前端开发？', {
+                        area: ['330px', '120px'],
+                        btn: ['确定', '取消'], //按钮
+                        title: '',
+                        content: '<div style="margin-left:20px" class="kuaididan">'
+                                  + '<span style="color:red">你还没有绑定淘宝买号，快去绑定吧！</span>'
+                                 + '</div>',
+                    },
+                    function () {//确定后
+                        window.location.href = "../users/BindBuyer.aspx";
+                    },
+                     function () {//取消后
+
+                     });
+                }
+                else
+                {
+
+                }
+            })
+        </script>--%>
+    </form>
+</body>
+</html>

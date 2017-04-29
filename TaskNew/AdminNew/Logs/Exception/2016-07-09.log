@@ -1,0 +1,866 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:08:54,897 
+【线程编号】[46] 
+【执行时间】[2983891]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160709000854886.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:08:55,081 
+【线程编号】[46] 
+【执行时间】[2984075]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:08:55,082 
+【线程编号】[46] 
+【执行时间】[2984076]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160709000854886.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:08:55,263 
+【线程编号】[46] 
+【执行时间】[2984257]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:08:55,264 
+【线程编号】[46] 
+【执行时间】[2984258]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160709000854886.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:08:55,572 
+【线程编号】[46] 
+【执行时间】[2984566]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:09:06,369 
+【线程编号】[46] 
+【执行时间】[2995364]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160709000906358.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:09:06,495 
+【线程编号】[46] 
+【执行时间】[2995490]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:09:06,495 
+【线程编号】[46] 
+【执行时间】[2995490]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160709000906358.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:09:06,595 
+【线程编号】[46] 
+【执行时间】[2995590]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:09:06,595 
+【线程编号】[46] 
+【执行时间】[2995590]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160709000906358.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:09:06,717 
+【线程编号】[46] 
+【执行时间】[2995712]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:09:18,601 
+【线程编号】[34] 
+【执行时间】[3007596]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】288 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateshiyongtask,taskid:1352userid:4,platForm:1,activeMethod:|platform:1|activetype:3|activename:aaa|activeMethod:1|isEvaluate:0|isMessage:0|productType:2|productNum:2|productUrl:https://item.taobao.com/item.htm?spm=a21bo.50862.201875.23.6cfC8v&scm=1007.12493.38146.100200300000001&id=526972268750&pvid=f7f54efa-1e05-459f-a712-94fea4cc8541|Message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p>|listImage:http://localhost:59415/upimg/20160709000906358.jpg|ProductImage:http://localhost:59415/upimg/20160709000854886.jpg|commissionPrice:0.00|activeNum:5|GuaranteePrice:2.00|price:1.00|seller:4||Platformk:1|Orderbyk:1|Price1:1.00|Price2:1.00|Location:|Keywordk1:1|Keywordk2:dsfe|Keywordk3:werw|Keywordk4:wer|Keywordk5:|pingtai:淘宝网|dianpu:8号旺铺2012|ActiveType:0|,isEvaluate:0,isMessage:0,activeName:aaa,url:https://item.taobao.com/item.htm?spm=a21bo.50862.201875.23.6cfC8v&scm=1007.12493.38146.100200300000001&id=526972268750&pvid=f7f54efa-1e05-459f-a712-94fea4cc8541,guanjianci:1,1,1,1.00,1.00,guanjianci:1,1,dsfe,1.00,1.00,guanjianci:1,1,werw,1.00,1.00,guanjianci:1,1,wer,1.00,1.00,guanjianci:1,1,,1.00,1.00,seller:4,productType:2,price:1.00,productNum:4,activeNum:5,commissionPrice:0,guaranteePrice:4,productImage:http://localhost:59415/upimg/20160709000854886.jpg,listImage:http://localhost:59415/upimg/20160709000906358.jpg,activeType:3,message: 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:09:18,630 
+【线程编号】[34] 
+【执行时间】[3007625]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】351 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateshiyongtask,userid:4|输入字符串的格式不正确。|   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 data_data.updateshiyongtask(String taskid, String platForm, String activeMethod, String isEvaluate, String isMessage, String activeName, String url, String guanjianci, String guanjianci2, String guanjianci3, String guanjianci4, String guanjianci5, String seller, String productType, Decimal price, String productNum, String activeNum, Decimal commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs:行号 295 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:09:22,729 
+【线程编号】[8] 
+【执行时间】[3011724]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】288 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateshiyongtask,taskid:1352userid:4,platForm:1,activeMethod:|platform:1|activetype:3|activename:aaa|activeMethod:1|isEvaluate:0|isMessage:0|productType:2|productNum:2|productUrl:https://item.taobao.com/item.htm?spm=a21bo.50862.201875.23.6cfC8v&scm=1007.12493.38146.100200300000001&id=526972268750&pvid=f7f54efa-1e05-459f-a712-94fea4cc8541|Message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p>|listImage:http://localhost:59415/upimg/20160709000906358.jpg|ProductImage:http://localhost:59415/upimg/20160709000854886.jpg|commissionPrice:0.00|activeNum:5|GuaranteePrice:2.00|price:1.00|seller:4||Platformk:1|Orderbyk:1|Price1:1.00|Price2:1.00|Location:|Keywordk1:1|Keywordk2:dsfe|Keywordk3:werw|Keywordk4:wer|Keywordk5:|pingtai:淘宝网|dianpu:8号旺铺2012|ActiveType:0|,isEvaluate:0,isMessage:0,activeName:aaa,url:https://item.taobao.com/item.htm?spm=a21bo.50862.201875.23.6cfC8v&scm=1007.12493.38146.100200300000001&id=526972268750&pvid=f7f54efa-1e05-459f-a712-94fea4cc8541,guanjianci:1,1,1,1.00,1.00,guanjianci:1,1,dsfe,1.00,1.00,guanjianci:1,1,werw,1.00,1.00,guanjianci:1,1,wer,1.00,1.00,guanjianci:1,1,,1.00,1.00,seller:4,productType:2,price:1.00,productNum:4,activeNum:5,commissionPrice:0,guaranteePrice:4,productImage:http://localhost:59415/upimg/20160709000854886.jpg,listImage:http://localhost:59415/upimg/20160709000906358.jpg,activeType:3,message: 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:09:22,732 
+【线程编号】[8] 
+【执行时间】[3011727]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】351 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateshiyongtask,userid:4|输入字符串的格式不正确。|   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 data_data.updateshiyongtask(String taskid, String platForm, String activeMethod, String isEvaluate, String isMessage, String activeName, String url, String guanjianci, String guanjianci2, String guanjianci3, String guanjianci4, String guanjianci5, String seller, String productType, Decimal price, String productNum, String activeNum, Decimal commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs:行号 295 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:09:46,533 
+【线程编号】[8] 
+【执行时间】[3035527]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】288 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateshiyongtask,taskid:1352userid:4,platForm:1,activeMethod:|platform:1|activetype:3|activename:aaa|activeMethod:1|isEvaluate:0|isMessage:0|productType:2|productNum:4|productUrl:https://item.taobao.com/item.htm?spm=a21bo.50862.201875.23.6cfC8v&scm=1007.12493.38146.100200300000001&id=526972268750&pvid=f7f54efa-1e05-459f-a712-94fea4cc8541|Message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p>|listImage:http://localhost:59415/upimg/20160709000906358.jpg|ProductImage:http://localhost:59415/upimg/20160709000854886.jpg|commissionPrice:0.00|activeNum:5|GuaranteePrice:4|price:1.00|seller:4||Platformk:1|Orderbyk:1|Price1:1.00|Price2:1.00|Location:|Keywordk1:1|Keywordk2:dsfe|Keywordk3:werw|Keywordk4:wer|Keywordk5:|pingtai:淘宝网|dianpu:8号旺铺2012|ActiveType:0| activeNum:5|,isEvaluate:0,isMessage:0,activeName:aaa,url:https://item.taobao.com/item.htm?spm=a21bo.50862.201875.23.6cfC8v&scm=1007.12493.38146.100200300000001&id=526972268750&pvid=f7f54efa-1e05-459f-a712-94fea4cc8541,guanjianci:1,1,1,1.00,1.00,guanjianci:1,1,dsfe,1.00,1.00,guanjianci:1,1,werw,1.00,1.00,guanjianci:1,1,wer,1.00,1.00,guanjianci:1,1,,1.00,1.00,seller:4,productType:2,price:1.00,productNum:5,activeNum:5,commissionPrice:0,guaranteePrice:5,productImage:http://localhost:59415/upimg/20160709000854886.jpg,listImage:http://localhost:59415/upimg/20160709000906358.jpg,activeType:3,message: 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:09:46,537 
+【线程编号】[8] 
+【执行时间】[3035531]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】351 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateshiyongtask,userid:4|输入字符串的格式不正确。|   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 data_data.updateshiyongtask(String taskid, String platForm, String activeMethod, String isEvaluate, String isMessage, String activeName, String url, String guanjianci, String guanjianci2, String guanjianci3, String guanjianci4, String guanjianci5, String seller, String productType, Decimal price, String productNum, String activeNum, Decimal commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs:行号 295 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:12:51,305 
+【线程编号】[12] 
+【执行时间】[52]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】288 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateshiyongtask,taskid:1352userid:4,platForm:1,activeMethod:|platform:1|activetype:3|activename:aaa|activeMethod:1|isEvaluate:0|isMessage:0|productType:2|productNum:5|productUrl:https://item.taobao.com/item.htm?spm=a21bo.50862.201875.23.6cfC8v&scm=1007.12493.38146.100200300000001&id=526972268750&pvid=f7f54efa-1e05-459f-a712-94fea4cc8541|Message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p>|listImage:http://localhost:59415/upimg/20160709000906358.jpg|ProductImage:http://localhost:59415/upimg/20160709000854886.jpg|commissionPrice:0.00|activeNum:5|GuaranteePrice:5|price:1.00|seller:4||Platformk:1|Orderbyk:1|Price1:1.00|Price2:1.00|Location:|Keywordk1:1|Keywordk2:dsfe|Keywordk3:werw|Keywordk4:wer|Keywordk5:|pingtai:淘宝网|dianpu:8号旺铺2012|ActiveType:0| activeNum:5|,isEvaluate:0,isMessage:0,activeName:aaa,url:https://item.taobao.com/item.htm?spm=a21bo.50862.201875.23.6cfC8v&scm=1007.12493.38146.100200300000001&id=526972268750&pvid=f7f54efa-1e05-459f-a712-94fea4cc8541,guanjianci:1,1,1,1.00,1.00,guanjianci:1,1,dsfe,1.00,1.00,guanjianci:1,1,werw,1.00,1.00,guanjianci:1,1,wer,1.00,1.00,guanjianci:1,1,,1.00,1.00,seller:4,productType:2,price:1.00,productNum:5,activeNum:5,commissionPrice:0,guaranteePrice:5,productImage:http://localhost:59415/upimg/20160709000854886.jpg,listImage:http://localhost:59415/upimg/20160709000906358.jpg,activeType:3,message: 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:12:51,330 
+【线程编号】[12] 
+【执行时间】[77]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】351 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateshiyongtask,userid:4|输入字符串的格式不正确。|   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 data_data.updateshiyongtask(String taskid, String platForm, String activeMethod, String isEvaluate, String isMessage, String activeName, String url, String guanjianci, String guanjianci2, String guanjianci3, String guanjianci4, String guanjianci5, String seller, String productType, Decimal price, String productNum, String activeNum, Decimal commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs:行号 295 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:13:39,757 
+【线程编号】[16] 
+【执行时间】[48503]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】288 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateshiyongtask,taskid:1352userid:4,platForm:1,activeMethod:1,isEvaluate:0,isMessage:0,activeName:aaa,url:https://item.taobao.com/item.htm?spm=a21bo.50862.201875.23.6cfC8v&scm=1007.12493.38146.100200300000001&id=526972268750&pvid=f7f54efa-1e05-459f-a712-94fea4cc8541,guanjianci:1,1,1,1.00,1.00,guanjianci:1,1,dsfe,1.00,1.00,guanjianci:1,1,werw,1.00,1.00,guanjianci:1,1,wer,1.00,1.00,guanjianci:1,1,,1.00,1.00,seller:4,productType:2,price:1.00,productNum:5,activeNum:5,commissionPrice:0,guaranteePrice:5,productImage:http://localhost:59415/upimg/20160709000854886.jpg,listImage:http://localhost:59415/upimg/20160709000906358.jpg,activeType:3,message: 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:13:39,852 
+【线程编号】[16] 
+【执行时间】[48598]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】342 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateshiyongtask,tmp:1352 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:16:03,812 
+【线程编号】[20] 
+【执行时间】[192559]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:59415/TaskNew/|platform:1|seller:4|pingtai:淘宝网|dianpu:8号旺铺2012|ActiveType:0|
+错误信息：从客户端(:)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:16:30,287 
+【线程编号】[16] 
+【执行时间】[219033]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:59415/TaskNew/|platform:1|seller:4|pingtai:淘宝网|dianpu:8号旺铺2012|ActiveType:0|
+错误信息：从客户端(:)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:16:37,596 
+【线程编号】[20] 
+【执行时间】[226342]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:59415/TaskNew/|platform:1|seller:4|pingtai:淘宝网|dianpu:8号旺铺2012|ActiveType:0|
+错误信息：从客户端(:)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:16:40,166 
+【线程编号】[12] 
+【执行时间】[228913]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:59415/TaskNew/|platform:1|seller:4|pingtai:淘宝网|dianpu:8号旺铺2012|ActiveType:0|
+错误信息：从客户端(:)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:16:49,960 
+【线程编号】[20] 
+【执行时间】[238706]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:59415/TaskNew/|platform:1|seller:4|pingtai:淘宝网|dianpu:8号旺铺2012|ActiveType:0|
+错误信息：从客户端(:)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:16:52,741 
+【线程编号】[19] 
+【执行时间】[241487]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:59415/TaskNew/|platform:1|seller:4|pingtai:淘宝网|dianpu:8号旺铺2012|ActiveType:0|
+错误信息：从客户端(:)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:17:49,049 
+【线程编号】[12] 
+【执行时间】[297796]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:59415/TaskNew/|platform:1|seller:4|pingtai:淘宝网|dianpu:8号旺铺2012|ActiveType:0|
+错误信息：从客户端(:)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:17:54,913 
+【线程编号】[19] 
+【执行时间】[303660]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:59415/TaskNew/|platform:1|seller:4|pingtai:淘宝网|dianpu:8号旺铺2012|ActiveType:0|
+错误信息：从客户端(:)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:18:12,726 
+【线程编号】[11] 
+【执行时间】[321473]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:59415/TaskNew/|platform:2|seller:18|pingtai:天猫|dianpu:212|ActiveType:0|
+错误信息：从客户端(:)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:23:26,411 
+【线程编号】[17] 
+【执行时间】[635158]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160709002326316.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:23:26,660 
+【线程编号】[17] 
+【执行时间】[635407]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:23:26,660 
+【线程编号】[17] 
+【执行时间】[635407]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160709002326316.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:23:26,759 
+【线程编号】[17] 
+【执行时间】[635506]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:23:26,759 
+【线程编号】[17] 
+【执行时间】[635506]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160709002326316.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:23:26,888 
+【线程编号】[17] 
+【执行时间】[635635]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:25:03,484 
+【线程编号】[19] 
+【执行时间】[732230]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160709002503473.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:25:03,856 
+【线程编号】[19] 
+【执行时间】[732602]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:25:03,857 
+【线程编号】[19] 
+【执行时间】[732603]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160709002503473.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:25:03,954 
+【线程编号】[19] 
+【执行时间】[732700]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:25:03,955 
+【线程编号】[19] 
+【执行时间】[732701]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160709002503473.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:25:04,052 
+【线程编号】[19] 
+【执行时间】[732798]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:25:19,660 
+【线程编号】[7] 
+【执行时间】[748406]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】228 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addshiyongtask,userid:4,platForm:2,activeMethod:2,isEvaluate:1,isMessage:1,activeName:测试,url:https://wuhaiweiyanbgyp.tmall.com/p/rd145543.htm?id=33,guanjianci:2,2,ui,5,6,guanjianci:2,2,ui,5,6,guanjianci:2,2,yu,5,6,guanjianci:2,2,yu,5,6,guanjianci:2,2,yu,5,6,seller:18,productType:2,price:10,productNum:5,activeNum:5,commissionPrice:0,guaranteePrice:50,productImage:http://localhost:59415/upimg/20160709002326316.jpg,listImage:http://localhost:59415/upimg/20160709002503473.jpg,activeType:|platform:2|seller:18|pingtai:天猫|dianpu:212|ActiveType:0|productUrl:https://wuhaiweiyanbgyp.tmall.com/p/rd145543.htm?id=33|activename:测试|ProductImage:http://localhost:59415/upimg/20160709002326316.jpg|activeMethod:2|isEvaluate:1|isMessage:1|price:10|productType:2|Keywordk1:ui|Keywordk2:ui|Keywordk3:yu|Keywordk4:yu|Keywordk5:yu|listImage:http://localhost:59415/upimg/20160709002503473.jpg|Orderbyk:2|Price1:5|Price2:6|,message: 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:25:19,662 
+【线程编号】[7] 
+【执行时间】[748408]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】252 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addshiyongtask,userid:4|输入字符串的格式不正确。|   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 data_data.addshiyongtask(String platForm, String activeMethod, String isEvaluate, String isMessage, String activeName, String url, String guanjianci, String guanjianci2, String guanjianci3, String guanjianci4, String guanjianci5, String seller, String productType, Decimal price, String productNum, String activeNum, Decimal commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs:行号 231 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:25:23,044 
+【线程编号】[7] 
+【执行时间】[751791]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】228 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addshiyongtask,userid:4,platForm:2,activeMethod:2,isEvaluate:1,isMessage:1,activeName:测试,url:https://wuhaiweiyanbgyp.tmall.com/p/rd145543.htm?id=33,guanjianci:2,2,ui,5,6,guanjianci:2,2,ui,5,6,guanjianci:2,2,yu,5,6,guanjianci:2,2,yu,5,6,guanjianci:2,2,yu,5,6,seller:18,productType:2,price:10,productNum:5,activeNum:5,commissionPrice:0,guaranteePrice:50,productImage:http://localhost:59415/upimg/20160709002326316.jpg,listImage:http://localhost:59415/upimg/20160709002503473.jpg,activeType:|platform:2|seller:18|pingtai:天猫|dianpu:212|ActiveType:0|productUrl:https://wuhaiweiyanbgyp.tmall.com/p/rd145543.htm?id=33|activename:测试|ProductImage:http://localhost:59415/upimg/20160709002326316.jpg|activeMethod:2|isEvaluate:1|isMessage:1|price:10|productType:2|Keywordk1:ui|Keywordk2:ui|Keywordk3:yu|Keywordk4:yu|Keywordk5:yu|listImage:http://localhost:59415/upimg/20160709002503473.jpg|Orderbyk:2|Price1:5|Price2:6|,message: 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:25:23,045 
+【线程编号】[7] 
+【执行时间】[751792]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】252 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addshiyongtask,userid:4|输入字符串的格式不正确。|   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 data_data.addshiyongtask(String platForm, String activeMethod, String isEvaluate, String isMessage, String activeName, String url, String guanjianci, String guanjianci2, String guanjianci3, String guanjianci4, String guanjianci5, String seller, String productType, Decimal price, String productNum, String activeNum, Decimal commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs:行号 231 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:26:29,193 
+【线程编号】[9] 
+【执行时间】[51]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】228 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addshiyongtask,userid:4,platForm:2,activeMethod:2,isEvaluate:1,isMessage:1,activeName:测试,url:https://wuhaiweiyanbgyp.tmall.com/p/rd145543.htm?id=33,guanjianci:2,2,ui,5,6,guanjianci:2,2,ui,5,6,guanjianci:2,2,yu,5,6,guanjianci:2,2,yu,5,6,guanjianci:2,2,yu,5,6,seller:18,productType:2,price:10,productNum:2,activeNum:6,commissionPrice:0,guaranteePrice:20,productImage:http://localhost:59415/upimg/20160709002326316.jpg,listImage:http://localhost:59415/upimg/20160709002503473.jpg,activeType:|platform:2|seller:18|pingtai:天猫|dianpu:212|ActiveType:0|productUrl:https://wuhaiweiyanbgyp.tmall.com/p/rd145543.htm?id=33|activename:测试|ProductImage:http://localhost:59415/upimg/20160709002326316.jpg|activeMethod:2|isEvaluate:1|isMessage:1|price:10|productType:2|Keywordk1:ui|Keywordk2:ui|Keywordk3:yu|Keywordk4:yu|Keywordk5:yu|listImage:http://localhost:59415/upimg/20160709002503473.jpg|Orderbyk:2|Price1:5|Price2:6|productNum:5| activeNum:5|GuaranteePrice:50|,message: 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:26:29,235 
+【线程编号】[9] 
+【执行时间】[93]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】252 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addshiyongtask,userid:4|输入字符串的格式不正确。|   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 data_data.addshiyongtask(String platForm, String activeMethod, String isEvaluate, String isMessage, String activeName, String url, String guanjianci, String guanjianci2, String guanjianci3, String guanjianci4, String guanjianci5, String seller, String productType, Decimal price, String productNum, String activeNum, Decimal commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs:行号 231 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:28:33,656 
+【线程编号】[7] 
+【执行时间】[124514]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】228 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addshiyongtask,userid:4,platForm:2,activeMethod:2,isEvaluate:1,isMessage:1,activeName:测试,url:https://wuhaiweiyanbgyp.tmall.com/p/rd145543.htm?id=33,guanjianci:2,2,ui,5,6,guanjianci:2,2,ui,5,6,guanjianci:2,2,yu,5,6,guanjianci:2,2,yu,5,6,guanjianci:2,2,yu,5,6,seller:18,productType:2,price:10,productNum:5,activeNum:5,commissionPrice:0,guaranteePrice:50,productImage:http://localhost:59415/upimg/20160709002326316.jpg,listImage:http://localhost:59415/upimg/20160709002503473.jpg,activeType:|platform:2|seller:18|pingtai:天猫|dianpu:212|ActiveType:0|productUrl:https://wuhaiweiyanbgyp.tmall.com/p/rd145543.htm?id=33|activename:测试|ProductImage:http://localhost:59415/upimg/20160709002326316.jpg|activeMethod:2|isEvaluate:1|isMessage:1|price:10|productType:2|Keywordk1:ui|Keywordk2:ui|Keywordk3:yu|Keywordk4:yu|Keywordk5:yu|listImage:http://localhost:59415/upimg/20160709002503473.jpg|Orderbyk:2|Price1:5|Price2:6|productNum:2| activeNum:6|GuaranteePrice:20|,message: 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:28:33,715 
+【线程编号】[7] 
+【执行时间】[124573]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】252 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addshiyongtask,userid:4|输入字符串的格式不正确。|   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 data_data.addshiyongtask(String platForm, String activeMethod, String isEvaluate, String isMessage, String activeName, String url, String guanjianci, String guanjianci2, String guanjianci3, String guanjianci4, String guanjianci5, String seller, String productType, Decimal price, String productNum, String activeNum, Decimal commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs:行号 231 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:29:53,814 
+【线程编号】[11] 
+【执行时间】[192]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】228 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addshiyongtask,userid:4,platForm:2,activeMethod:2,isEvaluate:1,isMessage:1,activeName:测试,url:https://wuhaiweiyanbgyp.tmall.com/p/rd145543.htm?id=33,guanjianci:2,2,ui,5,6,guanjianci:2,2,ui,5,6,guanjianci:2,2,yu,5,6,guanjianci:2,2,yu,5,6,guanjianci:2,2,yu,5,6,seller:18,productType:2,price:10,productNum:5,activeNum:6,commissionPrice:0,guaranteePrice:50,productImage:http://localhost:59415/upimg/20160709002326316.jpg,listImage:http://localhost:59415/upimg/20160709002503473.jpg,activeType:|platform:2|seller:18|pingtai:天猫|dianpu:212|ActiveType:0|productUrl:https://wuhaiweiyanbgyp.tmall.com/p/rd145543.htm?id=33|activename:测试|ProductImage:http://localhost:59415/upimg/20160709002326316.jpg|activeMethod:2|isEvaluate:1|isMessage:1|price:10|productType:2|Keywordk1:ui|Keywordk2:ui|Keywordk3:yu|Keywordk4:yu|Keywordk5:yu|listImage:http://localhost:59415/upimg/20160709002503473.jpg|Orderbyk:2|Price1:5|Price2:6|productNum:5| activeNum:5|GuaranteePrice:50|,message: 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:29:53,869 
+【线程编号】[11] 
+【执行时间】[247]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】252 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addshiyongtask,userid:4|输入字符串的格式不正确。|   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 data_data.addshiyongtask(String platForm, String activeMethod, String isEvaluate, String isMessage, String activeName, String url, String guanjianci, String guanjianci2, String guanjianci3, String guanjianci4, String guanjianci5, String seller, String productType, Decimal price, String productNum, String activeNum, Decimal commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs:行号 231 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:34:32,322 
+【线程编号】[29] 
+【执行时间】[278699]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160709003432203.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:34:32,511 
+【线程编号】[29] 
+【执行时间】[278888]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:34:32,512 
+【线程编号】[29] 
+【执行时间】[278889]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160709003432203.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:34:32,627 
+【线程编号】[29] 
+【执行时间】[279004]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:34:32,627 
+【线程编号】[29] 
+【执行时间】[279004]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160709003432203.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:34:32,732 
+【线程编号】[29] 
+【执行时间】[279109]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:34:41,477 
+【线程编号】[29] 
+【执行时间】[287855]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160709003441466.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:34:41,594 
+【线程编号】[29] 
+【执行时间】[287972]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:34:41,595 
+【线程编号】[29] 
+【执行时间】[287973]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160709003441466.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:34:41,694 
+【线程编号】[29] 
+【执行时间】[288072]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:34:41,694 
+【线程编号】[29] 
+【执行时间】[288072]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160709003441466.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:34:41,803 
+【线程编号】[29] 
+【执行时间】[288181]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:35:25,922 
+【线程编号】[22] 
+【执行时间】[332300]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】228 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addshiyongtask,userid:4,platForm:2,activeMethod:2,isEvaluate:1,isMessage:1,activeName:nanzhjuan,url:http://baidu.com?id=22,guanjianci:2,2,rt,10,20,guanjianci:2,2,ert,10,20,guanjianci:2,2,er,10,20,guanjianci:2,2,er,10,20,guanjianci:2,2,er,10,20,seller:18,productType:3,price:10,productNum:2,activeNum:5,commissionPrice:0,guaranteePrice:20,productImage:http://localhost:59415/upimg/20160709003432203.jpg,listImage:http://localhost:59415/upimg/20160709003441466.jpg,activeType:3,message: 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:35:26,007 
+【线程编号】[22] 
+【执行时间】[332385]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】243 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addshiyongtask,tmp:1384 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:35:28,951 
+【线程编号】[21] 
+【执行时间】[335329]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】228 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addshiyongtask,userid:4,platForm:2,activeMethod:2,isEvaluate:1,isMessage:1,activeName:nanzhjuan,url:http://baidu.com?id=22,guanjianci:2,2,rt,10,20,guanjianci:2,2,ert,10,20,guanjianci:2,2,er,10,20,guanjianci:2,2,er,10,20,guanjianci:2,2,er,10,20,seller:18,productType:3,price:10,productNum:2,activeNum:5,commissionPrice:0,guaranteePrice:20,productImage:http://localhost:59415/upimg/20160709003432203.jpg,listImage:http://localhost:59415/upimg/20160709003441466.jpg,activeType:3,message: 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:35:29,009 
+【线程编号】[21] 
+【执行时间】[335387]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】243 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addshiyongtask,tmp:1385 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:35:31,175 
+【线程编号】[16] 
+【执行时间】[337553]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】228 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addshiyongtask,userid:4,platForm:2,activeMethod:2,isEvaluate:1,isMessage:1,activeName:nanzhjuan,url:http://baidu.com?id=22,guanjianci:2,2,rt,10,20,guanjianci:2,2,ert,10,20,guanjianci:2,2,er,10,20,guanjianci:2,2,er,10,20,guanjianci:2,2,er,10,20,seller:18,productType:3,price:10,productNum:2,activeNum:5,commissionPrice:0,guaranteePrice:20,productImage:http://localhost:59415/upimg/20160709003432203.jpg,listImage:http://localhost:59415/upimg/20160709003441466.jpg,activeType:3,message: 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:35:31,248 
+【线程编号】[16] 
+【执行时间】[337626]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】243 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addshiyongtask,tmp:1386 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:52:27,129 
+【线程编号】[33] 
+【执行时间】[1353507]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】288 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateshiyongtask,taskid:1386userid:4,platForm:2,activeMethod:1,isEvaluate:0,isMessage:1,activeName:nanzhjuan,url:http://baidu.com?id=22,guanjianci:2,2,rt,10.00,20.00,guanjianci:2,2,,10.00,20.00,guanjianci:2,2,er,10.00,20.00,guanjianci:2,2,,10.00,20.00,guanjianci:2,2,,10.00,20.00,seller:18,productType:3,price:20,productNum:2,activeNum:5,commissionPrice:0,guaranteePrice:40,productImage:http://localhost:59415/upimg/20160709003432203.jpg,listImage:http://localhost:59415/upimg/20160709003441466.jpg,activeType:3,message: 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-09 00:52:27,193 
+【线程编号】[33] 
+【执行时间】[1353571]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】342 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateshiyongtask,tmp:1386 
+【错误详情】

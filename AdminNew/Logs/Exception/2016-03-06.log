@@ -1,0 +1,34 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-06 18:18:06,919 
+【线程编号】[9] 
+【执行时间】[449]毫秒 
+【出错文件】e:\localhost_6108\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:6108/busines/TaskShi.aspx
+错误信息：索引和长度必须引用该字符串内的位置。
+参数名: length
+堆栈內容：
+   在 System.String.Substring(Int32 startIndex, Int32 length)
+   在 ASP.busines_taskshi_aspx.__DataBind__control4(Object sender, EventArgs e) 位置 e:\localhost_6108\busines\TaskShi.aspx:行号 61
+   在 System.Web.UI.Control.OnDataBinding(EventArgs e)
+   在 System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   在 System.Web.UI.Control.DataBind()
+   在 System.Web.UI.Control.DataBindChildren()
+   在 System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   在 System.Web.UI.Control.DataBind()
+   在 System.Web.UI.WebControls.Repeater.CreateItem(Int32 itemIndex, ListItemType itemType, Boolean dataBind, Object dataItem)
+   在 System.Web.UI.WebControls.Repeater.AddDataItemsIntoItemsArray(IEnumerable dataSource, Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.PostGetDataAction(IEnumerable dataSource)
+   在 System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   在 System.Web.UI.WebControls.Repeater.DataBind()
+   在 user_TaskShi.BindData() 位置 e:\localhost_6108\busines\TaskShi.aspx.cs:行号 91
+   在 user_TaskShi.Page_Load(Object sender, EventArgs e) 位置 e:\localhost_6108\busines\TaskShi.aspx.cs:行号 45
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】

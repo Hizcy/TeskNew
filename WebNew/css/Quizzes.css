@@ -1,0 +1,55 @@
+﻿* {margin:0px;padding:0px;}
+#g_container {height:100%; width:100%; border:1px solid #2b3747;}
+.che {font-size:22px;  font-family:"微软雅黑"; font-weight:bold; height:25px; line-height:30px; margin: 20px 20px;}
+#border {width:1000px;height:900px;border:1px solid #2b3747; margin:30px auto; border-style:none}
+.d-diva {width:auto;height:350px;border:1px solid #2b3747; margin:20px;border-style:none}
+.d-pad-1 {width:auto;height:50px;border:1px solid #2b3747; margin:10px;border-style:none}
+.d-pad-2 {width:auto;height:260px;border:1px solid #2b3747; margin:10px;border-style:none}/*border-style:none;*/
+.qaDescription {width: 600px;font-size: 18px;line-height: 40px;color: rgb(51, 51, 51);}
+.f-fl {float: left;}
+.f-cb .g-container {zoom: 1;}
+.qaCate {    font-size: 14px;margin-right: 10px;color: rgb(102, 102, 102);}
+.position {width: 38px;font-size: 22px;line-height:40px;color: rgb(51, 51, 51);}
+.dan {font-size: 12px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin-right: 5px;
+    background: rgb(227, 248, 255);
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(191, 223, 255);
+    border-radius: 2px;
+    padding: 2px 4px;}
+li {list-style: none;}
+body li{clear: none;   height: 38px;
+}
+ .optionPos {width: 20px;font-weight: bold;font-size: 17px;color: #666;line-height: 24px;}
+.f-fl {float: left;}
+li input {
+    width: 15px;
+    height: 15px;
+    float: left;
+    margin: 5px 18px 0 9px;
+}
+.f-cb {float:left; margin:20px;}
+.u-btn {margin: 20px 0 0 0;}
+
+.u-btn-default {border-color: #719F00;color: #fff;    background-image: linear-gradient(#8FC200, #84B700);    background-color: #84B700;
+    background-repeat: repeat-x;
+}
+.u-btn {
+    display: inline-block;
+    padding: 4px 9px;
+    font-size: 14px;
+    line-height: 28px;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    min-width: 80px;
+    font-family: "Arial","Hiragino Sans GB","Microsoft YaHei", \5fae\8f6f\96c5\9ed1, "Helvetica", "sans-serif";
+    border: 1px solid #999;
+   margin:5px 5px 12px 430px;
+}

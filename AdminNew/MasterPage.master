@@ -1,0 +1,171 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <%--浏览器代码兼容模式--%>
+    <meta name="renderer" content="|webkit|ie-comp|ie-stand">
+    <%--360浏览器样式兼容--%>
+    <meta http-equiv="X-UA-Compatible" content="IE=8"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7; IE=EmulateIE9">
+    <link rel="icon" sizes="any" href="images/vb.jpg" />
+    <link href="css/task.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="wrap">
+            <div class="sec_topnav">
+                <div class="grid_c1">
+                    <div class="mod_toolbar col_r">
+                        <ul class="mod_hlist">
+                            <li>
+                                <div class="mod_logininfo clearfix">
+                                    <%=name==""?"您还未登录，请 <a class=\"lnk_nav lnk_login\" href=\""+path +"login.aspx\">登录</a><span class=\"nav_split\">|</span>":" 欢迎您：<span class=\"u_nickname c_em1_1\">"+name +"</span>，<a href=\""+path+"logout.aspx\" class=\"lnk_logout\">退出</a><span class=\"nav_split\">|</span>" %>
+                                </div>
+                            </li>
+                            <li><a href="../user/ApplyOne.aspx" class="lnk_nav lnk_tcb">充值</a> <span class="nav_split">|</span></li>
+                            <li><a href="../user/Withdraw.aspx" class="lnk_nav lnk_tcb">提现</a></li>
+                        </ul> 
+                    </div>
+                    <div class="mod_topmenu col_l">
+                        <ul class="mod_hlist">
+                            <li><a href="<%=zhepingou %>">折品购</a></li>
+                            <li class="menu_on"><a href="#">商家管理</a></li>
+                            <li class="li_1"><div style="margin:5px 10px"><script charset="utf-8" type="text/javascript" src="http://wpa.b.qq.com/cgi/wpa.php?key=XzkzODA0NDA4NV8zNzUzOTBfNDAwMDA4MjYxOF8"></script></div></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="sec_header">
+                <div class="grid_c1">
+                    <div class="mod_banner clearfix">
+                        <!--logo-->
+                        <div class="col_l mod_logo">
+                            <h1><a href="<%=zhepingou %>" title="折品购"><span class="hidden">折品购</span><span class="mod_logo_sub">商家管理</span></a></h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="sec_menu">
+                <div class="grid_c1">
+                    <div class="mod_menu clearfix">
+                        <div class="col_l mod_menu_hd mod_menu_hd_on"><a href="<%=path %>user/index.aspx"><span class="ico_gb ico_gb_businav">
+                        </span><span class="lbl_m">商家管理中心</span></a></div>
+                        <div class="col_l mod_menu_bd">
+                            <ul class="mod_hlist menu_main">
+                                <li><a href="<%=path %>user/Guide.aspx"><span class="lbl_m">商家引导</span></a></li>
+                                <li><a href="#"><span class="lbl_m">商家推广</span></a></li>
+                                <li><a href="<%=path %>user/Course.aspx"><span class="lbl_m">图文教程</span></a></li>
+                            </ul>
+                        </div>
+                        <div class="col_l mod_menu_ext">
+                            <ul class="mod_hlist">
+                                <li><a href="<%=path %>busines/addGoods.aspx"><span class="lbl_m">发布商品</span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="sec_main">
+                <div class="wrap-cont">
+                    <div class="grid_c3 grid_c3a sec_mainA">
+                        <div class="mainbar">
+                            <div class="mainbar_wrap">
+                                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                                </asp:ContentPlaceHolder>
+                            </div>
+                        </div>
+                        <div class="sidebar">
+                            <!-- 个人信息-->
+                            <div class="i_mod_boxA i_mod_boxA0 lbox_1">
+                                <div class="i_mod_boxA_hd i_mod_boxA_hd0">
+                                    <div class="mod_mlogin">
+                                        <div class="mod_mlogin_bd mod_mlogin_bd1" id="v:logout_user_detail" style="display: none;">
+                                            <a href="javascript:void(0);" onclick="javascript:openLoginWindow();" class="mod_btnfix mod_btn_loginA"><span class="hidden">用户登录</span></a>
+                                        </div>
+                                        <div class="mod_mlogin_bd">
+                                            <div class="mod_uinfo">
+                                                <div class="mod_ptl mod_uinfo_bd" id="v:login_user_detail" style="height:60px">
+                                                        <img class="uinfo_avatar" src="<%=herd %>" onerror="this.src='../images/touxiang.jpg';" style="width:50px;height:50px;" alt="头像"/>
+                                                    <div class="uinfo_main">
+                                                        <div class="c_sub2 uinfo_wc"><span class="c_sub2 uinfo_name"><%=name.ToString().ToString().Length>6?name.ToString().Substring(0,6)+"…":name%></span></div>
+                                                        
+                                                    </div>
+                                                </div>
+                                                <%if (seller != 0){ %>
+                                                 <div class="usr_taobao" style="padding:10px 0px;"><a href="../user/head.aspx">您绑定了<strong style="color:#CA1A00;margin:0 3px;"><%=seller %></strong>个旺旺店铺</a></div>
+                                                 <%}else{ %>
+                                                <div class="usr_taobao" style="padding:10px 0px;"><a href="../user/head.aspx"><strong style="color:#CA1A00;margin:0 3px;">您还没有绑定旺旺店铺</strong></a></div>
+                                                <%} %>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="i_mod_boxA lbox_2" style="padding: 0;">
+                                
+                                <%-- 左侧菜单 --%>
+                                <%=menu %>
+                            </div>
+                            <div class="i_mod_boxA lbox_2">
+                                <div class="i_mod_boxA_hd">
+                                    <h3>诚信保证,放心91折品购</h3>
+                                </div>
+                                <div class="i_mod_boxA_bd">
+                                    <ul class="tb_uinfo">
+                                        <li class="clearfix"><a href="#" target="_blank">
+                                            <img style="_width: 100%;" src="../images/attestation.gif" width="158" height="160"></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="i_mod_boxA lbox_2">
+                                <div class="i_mod_boxA_hd">
+                                    <h3>投诉/举报/建议/更换专员</h3>
+                                </div>
+                                <div class="i_mod_boxA_bd">
+                                    <ul class="tb_uinfo">
+                                        <li class="clearfix">
+                                            <div class="col_l col_txt_le">邮箱：mail@91zhepingou.com</div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="bottom01">
+                    <div class="g_foot">
+                        <div class="g_foot-nav">
+                            <a rel="nofollow" href="<%=zhepingou %>help.aspx?id=10" target="_blank">公司介绍</a>
+                            <a rel="nofollow" href="<%=zhepingou %>help.aspx?id=1" target="_blank">联系我们</a>
+                            <a rel="nofollow" href="<%=zhepingou %>sellerIn.html" target="_blank">商家入驻</a>
+                            <a rel="nofollow" href="<%=path %>Help.aspx" target="_blank">帮助中心</a>
+                            [<a rel="nofollow" target="_blank" href="http://www.miibeian.gov.cn/">鲁ICP备14017689号-4</a>]
+                        <span>© 2016 91zhepingou.com 济南微丰信息技术有限公司旗下网站</span>
+
+                        </div>
+                        <div class="foot_govvc">
+                            <a >
+                                <img src="../images/sm_124x47.gif" width="127" height="47" /></a>
+                            <a >
+                                <img src="../images/cnnic.gif" width="127" height="47" /></a>
+                            <a >
+                                <img src="../images/gov_zjgs.gif" width="124" height="47" /></a>
+                            <a><img src="../images/360.png" width="124" height="47" /></a>
+                        </div>
+                        <span class="g_foot-toy"></span>
+                        <span class="g_foot-line"></span>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </form>
+</body>
+</html>

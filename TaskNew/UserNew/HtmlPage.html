@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <script src="js/jquery-1.7.2.min.js"></script>
+</head>
+<body>
+    <p><input type="radio" name="sex" value="1" />男</p>
+    <p><input type="radio" name="sex" value="2" checked="checked"/>女</p>       
+    <script>
+        $("input:radio[name='sex']").click(function () {
+            if ($(this).val() === "1") {
+                $("body").html("1");
+            }
+            else {
+
+            }
+        })
+    </script>
+</body>
+</html>

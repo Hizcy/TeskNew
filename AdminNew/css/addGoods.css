@@ -1,0 +1,445 @@
+﻿body {
+        font: 12px/1.5 "Microsoft YaHei","微软雅黑","黑体",Tahoma,Helvetica,Arial,sans-serif;
+        color:#888
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0 none;
+    background: transparent;
+    font-size: 100%;
+}
+select
+{
+    border:1px solid
+}
+.grid_c2d .mainbar_wrap {
+    margin-left: 190px;
+    min-height: 1px;
+}
+
+.hot_ico {
+    display: inline-block;
+    width: 10px;
+    height: 12px;
+    vertical-align: middle;
+    margin-left: -15px;
+    position: absolute;
+    margin-top: 5px;
+    background: url(../images/sprite.png)no-repeat;
+    z-index: 10;
+}
+
+.i_mod_boxC_hd, .i_mod_boxC_if, .i_mod_boxC_tr {
+    padding: 0 20px 15px 85px;
+}
+.i_mod_boxC_hd, .i_mod_boxC_if, .i_mod_boxC_tr, .i_mod_topaddr {
+    background: url(../images/sprite.jpg) no-repeat;
+}
+.i_mod_boxC_icohd {margin-top: 20px;}
+.i_mod_boxC {
+    padding: 0px;
+    /*padding-bottom: 14px;*/
+    background: #fff;
+    width:790px
+}
+.mbox_1 .i_mod_boxC_hd {
+    background-position: 20px 0;
+    margin-top:20px;
+}
+.i_mod_boxC h2 {
+    margin-bottom: 5px;
+}
+.mod_taber_hd {
+    position: relative;
+    border-bottom: 1px solid #dbdbdb;
+}
+.mod_taber_menu {
+    margin-left: 10px;
+    _position: relative;
+}
+.i_mod_boxC_bd .mod_taber_page_sec {
+    margin-bottom: 15px;
+    padding: 0 20px;
+}
+.ipt_box {
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.ipt_ul li {
+    min-height: 34px;
+    margin-bottom: 15px;
+}
+.faq_ico {
+    margin-left: 10px;
+    background: url(../images/faq_ico.gif) no-repeat;
+    padding-left: 20px;
+    color: #888;
+}
+.title_lbl {
+    float: left;
+    height: 34px;
+    line-height: 34px;
+    width: 55px;
+    text-align: left;
+}
+.ipt_inform_120 {
+    border: 1px solid #d0d2d4;
+    width: 400px;
+    height: 16px;
+    line-height: 17px;
+    _line-height: 13px;
+    padding: 8px;
+    color: #888;
+    background-color: #FFF;
+}
+.ipt_inform_192 {
+    border: 1px solid #d0d2d4;
+    width: 80px;
+    height: 16px;
+    line-height: 17px;
+    _line-height: 13px;
+    padding: 8px;
+    color: #888;
+    background-color: #FFF;
+    margin-right: 8px;
+}
+
+.ipt_inform_193 {
+    border: 1px solid #d0d2d4;
+    width: 110px;
+    height: 16px;
+    line-height: 17px;
+    _line-height: 13px;
+    padding: 8px;
+    color: #888;
+    background-color: #FFF;
+    margin-right: 8px;
+}
+.sell_day_t {
+    border: 1px solid #CCC;
+    padding: 6px 5px;
+    width: 90px;
+    color: #777;
+    margin-right: 8px;
+}
+input, select {
+    vertical-align: middle;
+}
+.f_checkbox, .f_radio {
+    float: left;
+    background-position: 3px center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    display: block;
+    height: 16px;
+    line-height: 120%;
+    padding: 1px 24px;
+}
+.form_task_add {
+    background: #3DC054;
+    border-radius: 3px 3px 3px 3px;
+    color: white;
+    margin-top: 6px;
+    height: 20px;
+    margin-left: 8px;
+    padding: 4px 6px 1px;
+    z-index: 999;
+    position: absolute;
+}
+.form_task_del {
+    background: #d45252;
+    border-radius: 3px 3px 3px 3px;
+    color: white;
+    margin-top: 6px;
+    height: 20px;
+    margin-left: 65px;
+    padding: 4px 6px 1px;
+    z-index: 999;
+    position: absolute;
+}
+.sell_cate_t {
+    border: 1px solid #CCC;
+    padding: 6px 5px;
+    width: 127px;
+    color: #777;
+}
+.form_hint_tip {
+    background: #3DC054;
+    border-radius: 3px 3px 3px 3px;
+    color: white;
+    height: 20px;
+    margin-left: 8px;
+    padding: 4px 6px 4px;
+    z-index: 999;
+}
+.form_hint {
+    background: #d45252;
+    border-radius: 3px 3px 3px 3px;
+    color: white;
+    margin-top: 6px;
+    height: 20px;
+    margin-left: 8px;
+    padding: 4px 6px 1px;
+    z-index: 999;
+    position: absolute;
+}
+.form_hint {
+    background: #d45252;
+    border-radius: 3px 3px 3px 3px;
+    color: white;
+    margin-top: 6px;
+    height: 20px;
+    margin-left: 8px;
+    padding: 4px 6px 1px;
+    z-index: 999;
+    position: absolute;
+}
+.mod_btn_gr2 .mod_btn_bd {
+    background-position: right -85px;
+    padding-right: 10px;
+}
+
+.f_tx1 {
+    font-family: "Microsoft YaHei","微软雅黑","黑体";
+}
+.mod_btn_bd {
+    display: inline-block;
+    right: -2px;
+    top: 0;
+    overflow: hidden;
+    height: 100%;
+    cursor: pointer;
+    text-align: center;
+}
+/*.mod_btn,*/ .mod_btn_bd {
+    position: relative;
+    display: inline-block;
+    background: url(../images/btn.png) no-repeat;
+    zoom: 1;
+}
+/*PC下单导购*/
+ #goodsimg {
+    background: url("../images/cover.png") no-repeat;
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: absolute;
+}
+ /*手机下单导购*/
+  #goodshouji {
+    background: url("../images/shouji.png") no-repeat;
+    width: 600px;
+    height: 580px;
+    display: block;
+    position: absolute;
+    margin-left:30px;
+}
+.selected {
+    background-image: url(../images/rdo_on.png);
+}
+.unselected {
+    background-image: url(../images/rdo_off.png);
+}
+
+.ipt_inform_500 {
+    border: 1px solid #d0d2d4;
+    width: 400px;
+    height: 16px;
+    line-height: 17px;
+    _line-height: 13px;
+    padding: 8px;
+    color: #888;
+    background-color: #FFF;
+}
+
+input, select {
+    vertical-align: middle;
+}
+.formt {
+    padding: 10px;
+}
+.ipt_ul li {
+    min-height: 34px;
+    margin-bottom: 15px;
+}
+.form_name_ser {
+    background: #3DC054;
+    border-radius: 3px 3px 3px 3px;
+    color: white;
+    /*height: 34px;
+    line-height: 34px;*/
+    padding: 4px 6px 4px;
+    z-index: 999;
+}
+a:link, a:visited {
+    text-decoration: none;
+}
+.faq_icobd {
+    margin-left: 10px;
+    background: url(../images/faq_ico.gif) no-repeat;
+    padding-left: 20px;
+    color: #888;
+    margin-top: 12px;
+}
+.faq_icobh {
+    margin-left: 10px;
+    background: url(../images/faq_ico.gif) no-repeat;
+    padding-left: 20px;
+    color: #888;
+    float: right;
+    margin-right: 500px;
+    margin-top: 12px;
+}
+.faq_icozj{
+    margin-left: 10px;
+    background: url(../images/faq_ico.gif) no-repeat;
+    padding-left: 20px;
+    color: #888;
+    margin-top: 12px;
+}
+.faq_ico {
+    margin-left: 10px;
+    background: url(../images/faq_ico.gif) no-repeat;
+    padding-left: 20px;
+    color: #888;
+}
+.faq_icoico {
+    margin-left: 10px;
+    background: url(../images/faq_ico.gif) no-repeat;
+    padding-left: 20px;
+    color: #888;
+    float: right;
+    margin-right: 180px;
+    margin-top: 12px;
+}
+.ipt_ul li {
+    min-height: 34px;
+    margin-bottom: 15px;
+}
+input, select {
+    vertical-align: middle;
+}
+.hb_box {
+	padding: 6px 5px;
+}
+
+.hb_box .add, .hb_box .min, .hb_box .zero {
+	float: left;
+	margin-right: -1px;
+	position: relative;
+	z-index: 0;
+}
+
+.hb_box .add, .hb_box .min, .hb_box .zero {
+	height: 25px;
+	width: 30px;
+	border: 1px solid #e5e5e5;
+	background: #f0f0f0;
+	text-align: center;
+	line-height: 23px;
+	color: #FF6600;
+}
+
+.hb_box .add:hover, .hb_box .min:hover, .hb_box .zero:hover {
+	color: #FF6600;
+	z-index: 3;
+	border-color: #FF6600;
+	cursor: pointer;
+}
+
+.hb_box .text_box {
+	width: 50px;
+	height: 15px;
+	line-height: 15px;
+	border: 1px solid #e5e5e5;
+	color: #FF6600;
+	text-align: center;
+	padding: 4px 0;
+	background-color: #fff;
+	z-index: 2;
+}
+
+.hb_box .add, .hb_box .text_box, .hb_box .min, .hb_box .zero {
+	float: left;
+	position: relative;
+	margin-left: -1px;
+	z-index: 0;
+}
+
+.hb_box .zero {
+	padding: 0 5px;
+	width: 60px;
+}
+
+.some-class {
+	display: inline-block;
+}
+ .aui_state_focus .aui_content {
+                                color: #000;
+                            }
+
+                            .aui_content {
+                                color: #666;
+                            }
+
+                            .aui_content {
+                                display: inline-block;
+                                text-align: left;
+                                border: none 0;
+                            }
+
+                            .operate-log {
+                                max-width: 520px;
+                                _width: 520px;
+                                max-height: 420px;
+                                _height: 420px;
+                                padding: 1px;
+                                overflow: auto;
+                            }
+
+                            .ui-table {
+                                border: 1px solid #ccc;
+                                table-layout: fixed;
+                                width: 100%;
+                            }
+
+                            colgroup {
+                                display: table-column-group;
+                            }
+
+                            col {
+                                display: table-column;
+                            }
+
+                            .ui-table th {
+                                font-size: 12px;
+                                color: #4c4c4c;
+                                text-shadow: 0 1px 1px #fff;
+                                background-color: #CCCCCC;
+                                background-image: linear-gradient(#eaeaea, #eaeaea 25%, #CCCCCC);
+                                }
+
+                            .ui-table th, .ui-table td {
+                                vertical-align: middle;
+                                text-align: center;
+                            }
+
+                            .ui-table td {
+                                border: 1px solid #ccc;
+                                border-bottom-style: dotted;
+                                border-top: none;
+                                padding: 12px 0;
+                                word-break: break-all;
+                                word-wrap: break-word;
+                            }
+
+                            .ui-table th, .ui-table td {
+                                vertical-align: middle;
+                                text-align: center;
+                            }
+
+                            .ui-table th {
+                                height: 35px;
+                            }

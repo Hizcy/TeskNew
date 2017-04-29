@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<rewriteRules>
+  <!--商品详情-->
+  <rewrite url="^~/details/([\d]+)/$" to="~/Details.aspx?id=$1" />
+  <!--问答详情-->
+  <rewrite url="^~/qadetails/([\d]+)/$" to="~/QaDetails.aspx?id=$1" />
+
+
+	<!--试客帮助-->
+	<rewrite url="^~/help/([\d]+)/$" to="~/Help.aspx?id=$1" />
+
+	<!--邀请有奖-->
+  <rewrite url="^~/promotion/$" to="~/promotion/Promotion.aspx" />
+  <!--新手帮助-->
+  <rewrite url="^~/buypoint/$" to="~/core/BuyPoint.aspx" />
+
+	<!--精品折扣-->
+	<rewrite url="^~/Super/$" to="~/Super.aspx" />
+  <!--免费试用-->
+  <rewrite url="^~/detailsList/$" to="~/DetailsList.aspx" />
+  <!--佣金任务-->
+  <rewrite url="^~/commlist/$" to="~/CommList.aspx" />
+  <!--问答任务-->
+  <rewrite url="^~/qaTaskList/$" to="~/QaTaskList.aspx" />
+	<!--邀请帮助-->
+	<rewrite url="^~/helpyq/$" to="~/helpyq.aspx" />
+	<!--新手入门-->
+	<rewrite url="^~/New/$" to="~/New.aspx" />
+  <!--试客帮助-->
+  <rewrite url="^~/help/$" to="~/Help.aspx" />
+  <!--首页-->
+  <rewrite url="^~/$" to="~/home.aspx" />
+
+</rewriteRules>
+
+
+ 
+
+<!--首页
+		http://shiyong.webf.com.cn/home.aspx			    //首页
+		http://shiyong.webf.com.cn/DetailsList.aspx   		//免费试用
+http://shiyong.webf.com.cn/QaTaskList.aspx          //问答任务
+http://shiyong.webf.com.cn/promotion/Promotion.aspx //邀请有奖
+http://shiyong.webf.com.cn/core/buypoint.aspx	    //新手帮助
+http://shiyong.webf.com.cn/Help.aspx				//试客帮助
+http://shiyong.webf.com.cn/login.aspx			    //登录页
+		http://shiyong.webf.com.cn/Registere.aspx?id=9994 //注册页带参数 /不带参数
+会员中心
+http://shiyong.webf.com.cn/core/Overview.aspx //总览
+http://shiyong.webf.com.cn/core/CoreList.aspx  //维护资料
+		http://shiyong.webf.com.cn/core/Task.aspx?status=1  //已接任务带参数 / 不带参数
+http://shiyong.webf.com.cn/core/bindBuyer.aspx  //绑定买号
+http://shiyong.webf.com.cn/core/ApplyThree.aspx  //账号充值  支付宝手动充值
+http://shiyong.webf.com.cn/core/ApplyOne.aspx  账号充值  网银充值
+http://shiyong.webf.com.cn/core/ApplyTwo.aspx  //账号充值  支付宝手动充值
+
+
+http://shiyong.webf.com.cn/core/TaskList.aspx  //收支明细  交易记录
+http://shiyong.webf.com.cn/core/RechargeList.aspx  //收支明细  充值记录
+http://shiyong.webf.com.cn/core/WithdrawList.aspx    //收支明细  提现记录
+http://shiyong.webf.com.cn/core/RechargeOne.aspx  //申请提现  支付宝提现
+http://shiyong.webf.com.cn/core/RechargeTwo.aspx  //申请提现  提现账户
+http://shiyong.webf.com.cn/promotion/promotion.aspx  //我的推广
+http://shiyong.webf.com.cn/busines/bindseller.aspx  //绑定掌柜
+商家中心
+http://shiyong.webf.com.cn/busines/sendTask.aspx  //已发普通任务
+		http://shiyong.webf.com.cn/busines/sendTask.aspx?status=-6  //发布任务 普通任务
+http://shiyong.webf.com.cn/busines/wentiTask.aspx  //已发问答任务
+		http://shiyong.webf.com.cn/busines/wentiTask.aspx?status=-6  //发布任务 问答任务
+		http://shiyong.webf.com.cn/busines/releaseProcess.aspx?id=28&type=2 //付款页面
+		http://shiyong.webf.com.cn/busines/paymentSuccess.aspx?id=28&type=2 //付完款
+http://shiyong.webf.com.cn/busines/BuyerList.aspx   //普通任务  /买家列表
+http://shiyong.webf.com.cn/busines/OrderList.aspx   //普通任务  /订单列表
+http://shiyong.webf.com.cn/busines/buyerquestiontasklist.aspx //问答任务 /订单列表-->
+<!--商品详情-->
+<!--Details.aspx?id=57-->

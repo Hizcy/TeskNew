@@ -1,0 +1,55 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-30 10:30:50,748 
+【线程编号】[12] 
+【执行时间】[127]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-30 11:10:18,009 
+【线程编号】[20] 
+【执行时间】[47]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zhangli|29||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-30 12:35:30,690 
+【线程编号】[51] 
+【执行时间】[5112727]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-30 15:38:56,540 
+【线程编号】[27] 
+【执行时间】[209]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-30 15:39:24,517 
+【线程编号】[28] 
+【执行时间】[28185]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:2 
+【错误详情】

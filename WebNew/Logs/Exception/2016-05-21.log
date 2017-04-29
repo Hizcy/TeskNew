@@ -1,0 +1,406 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 09:59:32,182 
+【线程编号】[20] 
+【执行时间】[175]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/admin/audittask.aspx
+错误信息：未知的服务器标记“webdiyer:AspNetPager”。
+堆栈內容：
+   在 System.Web.UI.TemplateParser.ProcessError(String message)
+   在 System.Web.UI.TemplateParser.ProcessBeginTag(Match match, String inputText)
+   在 System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 10:00:11,226 
+【线程编号】[12] 
+【执行时间】[39220]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/admin/audittask.aspx
+错误信息：d:\zhanglixiangmu\威小宝刷单\Web\admin\AuditTask.aspx.cs(57): error CS0103: 当前上下文中不存在名称“identity”
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 10:01:18,032 
+【线程编号】[19] 
+【执行时间】[106025]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/admin/audittask.aspx
+错误信息：请在配置文件的appSettings中配置'xiangqingye'的值。
+堆栈內容：
+   在 Jnwf.Utils.Config.ConfigurationUtil.GetAppSettingValue(String configKey, Boolean isThrowExceptionIfNotExist)
+   在 Jnwf.Utils.Config.ConfigurationUtil.GetAppSettingValue(String configKey)
+   在 admin_AuditTask..ctor() 位置 d:\zhanglixiangmu\威小宝刷单\Web\admin\AuditTask.aspx.cs:行号 11
+   在 ASP.admin_audittask_aspx..ctor() 位置 c:\Users\v\AppData\Local\Temp\Temporary ASP.NET Files\vs\b602b707\a294b5ab\App_Web_b5gvdpgk.0.cs:行号 0
+   在 __ASP.FastObjectFactory_app_web_b5gvdpgk.Create_ASP_admin_audittask_aspx() 位置 c:\Users\v\AppData\Local\Temp\Temporary ASP.NET Files\vs\b602b707\a294b5ab\App_Web_b5gvdpgk.2.cs:行号 0
+   在 System.Web.Compilation.BuildResultCompiledType.CreateInstance()
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 10:02:22,541 
+【线程编号】[14] 
+【执行时间】[64]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/admin/audittask.aspx
+错误信息：d:\zhanglixiangmu\威小宝刷单\Web\admin\AuditTask.aspx(44): error CS0103: 当前上下文中不存在名称“url”
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 10:30:34,017 
+【线程编号】[10] 
+【执行时间】[1691540]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\admin\AuditShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 10:31:16,260 
+【线程编号】[10] 
+【执行时间】[1733782]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\admin\AuditShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 10:31:51,692 
+【线程编号】[9] 
+【执行时间】[1769215]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\admin\AuditShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 10:32:03,632 
+【线程编号】[26] 
+【执行时间】[1781155]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\admin\AuditShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:3 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 10:32:05,371 
+【线程编号】[26] 
+【执行时间】[1782894]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/admin/AuditShilist.aspx?id=150
+错误信息：Could not cast or convert from System.Int64 to Task.Entity.area.
+堆栈內容：
+   在 Newtonsoft.Json.Utilities.ConvertUtils.EnsureTypeAssignable(Object value, Type initialType, Type targetType)
+   在 Newtonsoft.Json.Utilities.ConvertUtils.ConvertOrCast(Object initialValue, CultureInfo culture, Type targetType)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(Object value, Type targetType) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 10:33:06,447 
+【线程编号】[18] 
+【执行时间】[261]毫秒 
+【出错文件】 
+【出错行号】0 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:3 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 10:37:01,734 
+【线程编号】[26] 
+【执行时间】[126]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\admin\AuditShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:3 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 10:37:36,295 
+【线程编号】[27] 
+【执行时间】[34687]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\admin\AuditShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:3 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 10:38:45,311 
+【线程编号】[26] 
+【执行时间】[103703]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\admin\AuditShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:3 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 10:39:07,111 
+【线程编号】[26] 
+【执行时间】[125503]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\admin\AuditShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:3 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 10:40:06,764 
+【线程编号】[24] 
+【执行时间】[185156]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/admin/TaskShi.aspx?type=150
+错误信息：文件“/admin/TaskShi.aspx”不存在。
+堆栈內容：
+   在 System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 10:46:06,383 
+【线程编号】[22] 
+【执行时间】[544775]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/admin/AuditTaskShi.aspx?type=150
+错误信息：d:\zhanglixiangmu\威小宝刷单\Web\admin\AuditTaskShi.aspx.cs(300): error CS1513: 应输入 }
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.PostProcessFoundBuildResult(BuildResult result, Boolean keyFromVPP, VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetBuildResultFromCacheInternal(String cacheKey, Boolean keyFromVPP, VirtualPath virtualPath, Int64 hashCode, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultFromCacheInternal(VirtualPath virtualPath, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 10:46:22,843 
+【线程编号】[27] 
+【执行时间】[561235]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/admin/AuditTaskShi.aspx?type=150
+错误信息：请在配置文件的appSettings中配置'shezhitime'的值。
+堆栈內容：
+   在 Jnwf.Utils.Config.ConfigurationUtil.GetAppSettingValue(String configKey, Boolean isThrowExceptionIfNotExist)
+   在 Jnwf.Utils.Config.ConfigurationUtil.GetAppSettingValue(String configKey)
+   在 admin_AuditTaskShi..ctor() 位置 d:\zhanglixiangmu\威小宝刷单\Web\admin\AuditTaskShi.aspx.cs:行号 11
+   在 ASP.admin_audittaskshi_aspx..ctor() 位置 c:\Users\v\AppData\Local\Temp\Temporary ASP.NET Files\vs\b602b707\a294b5ab\App_Web_d4lfsdni.10.cs:行号 0
+   在 __ASP.FastObjectFactory_app_web_d4lfsdni.Create_ASP_admin_audittaskshi_aspx() 位置 c:\Users\v\AppData\Local\Temp\Temporary ASP.NET Files\vs\b602b707\a294b5ab\App_Web_d4lfsdni.22.cs:行号 0
+   在 System.Web.Compilation.BuildResultCompiledType.CreateInstance()
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 10:53:35,118 
+【线程编号】[11] 
+【执行时间】[133]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\admin\AuditShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 11:23:04,287 
+【线程编号】[32] 
+【执行时间】[1769301]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\admin\AuditShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:3 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 11:23:10,546 
+【线程编号】[11] 
+【执行时间】[1775560]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\admin\AuditShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:3 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 11:23:11,973 
+【线程编号】[30] 
+【执行时间】[1776987]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\admin\AuditShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:3 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 11:24:14,304 
+【线程编号】[6] 
+【执行时间】[1839319]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\admin\AuditShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:3 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 11:37:06,144 
+【线程编号】[29] 
+【执行时间】[2611158]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\admin\AuditShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 11:53:24,172 
+【线程编号】[18] 
+【执行时间】[1213]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\admin\AuditShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 11:55:47,639 
+【线程编号】[29] 
+【执行时间】[144680]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/admin/AuditYonglist.aspx?id=162
+错误信息：未知的服务器标记“webdiyer:AspNetPager”。
+堆栈內容：
+   在 System.Web.UI.TemplateParser.ProcessError(String message)
+   在 System.Web.UI.TemplateParser.ProcessBeginTag(Match match, String inputText)
+   在 System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 13:37:49,694 
+【线程编号】[14] 
+【执行时间】[2696]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\admin\AuditShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:3 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 13:38:10,453 
+【线程编号】[23] 
+【执行时间】[23455]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\admin\AuditShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 15:41:33,595 
+【线程编号】[74] 
+【执行时间】[195]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/busines/Require.aspx?id=165&buy=44
+错误信息：文件“/busines/Require.aspx”不存在。
+堆栈內容：
+   在 System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】

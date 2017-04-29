@@ -1,0 +1,33 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-06 14:02:33,619 
+【线程编号】[6] 
+【执行时间】[110]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zhangli|29||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-06 14:02:46,246 
+【线程编号】[7] 
+【执行时间】[12736]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-06 18:02:32,003 
+【线程编号】[59] 
+【执行时间】[14398494]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】

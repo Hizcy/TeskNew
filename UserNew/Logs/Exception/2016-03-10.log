@@ -1,0 +1,19 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-10 19:34:29,763 
+【线程编号】[7] 
+【执行时间】[210]毫秒 
+【出错文件】e:\User\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:51696/users/RecordShi.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 users_RecordShi.BindData() 位置 e:\User\users\RecordShi.aspx.cs:行号 32
+   在 users_RecordShi.Page_Load(Object sender, EventArgs e) 位置 e:\User\users\RecordShi.aspx.cs:行号 27
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】

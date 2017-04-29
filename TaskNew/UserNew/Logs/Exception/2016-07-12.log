@@ -1,0 +1,44 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-12 09:52:03,672 
+【线程编号】[5] 
+【执行时间】[83]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Details.aspx.cs 
+【出错行号】127 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-12 09:52:09,762 
+【线程编号】[5] 
+【执行时间】[6173]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Details.aspx.cs 
+【出错行号】127 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-12 09:52:16,454 
+【线程编号】[7] 
+【执行时间】[12865]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Details.aspx.cs 
+【出错行号】127 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-12 09:52:21,767 
+【线程编号】[5] 
+【执行时间】[18178]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Details.aspx.cs 
+【出错行号】127 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:1 
+【错误详情】

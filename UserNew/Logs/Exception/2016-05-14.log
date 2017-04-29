@@ -1,0 +1,323 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-14 11:12:27,432 
+【线程编号】[45] 
+【执行时间】[100]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】85 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:29 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-14 11:14:19,435 
+【线程编号】[39] 
+【执行时间】[112102]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】85 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:29 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-14 11:16:11,918 
+【线程编号】[39] 
+【执行时间】[224585]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】85 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:29 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-14 14:52:34,843 
+【线程编号】[8] 
+【执行时间】[289]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:51696/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\User\data\data.aspx.cs:行号 62
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-14 14:52:36,084 
+【线程编号】[46] 
+【执行时间】[1529]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:51696/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\User\data\data.aspx.cs:行号 62
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-14 14:52:37,009 
+【线程编号】[8] 
+【执行时间】[2454]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:51696/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\User\data\data.aspx.cs:行号 62
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-14 14:52:37,872 
+【线程编号】[38] 
+【执行时间】[3318]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:51696/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\User\data\data.aspx.cs:行号 62
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-14 14:52:39,296 
+【线程编号】[46] 
+【执行时间】[4741]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:51696/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\User\data\data.aspx.cs:行号 62
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-14 14:53:37,073 
+【线程编号】[38] 
+【执行时间】[62518]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:51696/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\User\data\data.aspx.cs:行号 62
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-14 14:53:37,577 
+【线程编号】[8] 
+【执行时间】[63022]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:51696/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\User\data\data.aspx.cs:行号 62
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-14 14:53:38,069 
+【线程编号】[41] 
+【执行时间】[63514]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:51696/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\User\data\data.aspx.cs:行号 62
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-14 14:53:38,576 
+【线程编号】[46] 
+【执行时间】[64021]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:51696/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\User\data\data.aspx.cs:行号 62
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-14 14:53:39,276 
+【线程编号】[31] 
+【执行时间】[64722]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:51696/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\User\data\data.aspx.cs:行号 62
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-14 15:07:01,796 
+【线程编号】[25] 
+【执行时间】[867241]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】85 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:29 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-14 15:24:59,629 
+【线程编号】[28] 
+【执行时间】[1945074]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】85 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:29 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-14 15:44:16,037 
+【线程编号】[34] 
+【执行时间】[68]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】85 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:29 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-14 15:44:18,750 
+【线程编号】[20] 
+【执行时间】[2781]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】85 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:29 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-14 15:44:28,066 
+【线程编号】[20] 
+【执行时间】[12097]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】85 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:29 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-14 15:56:51,641 
+【线程编号】[20] 
+【执行时间】[755672]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】85 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:29 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-14 15:59:01,218 
+【线程编号】[34] 
+【执行时间】[885249]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】85 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:29 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-14 16:06:54,723 
+【线程编号】[28] 
+【执行时间】[1358754]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】85 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:29 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-14 16:07:20,014 
+【线程编号】[28] 
+【执行时间】[1384045]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】85 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:29 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-14 16:07:23,302 
+【线程编号】[34] 
+【执行时间】[1387333]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】85 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:29 
+【错误详情】

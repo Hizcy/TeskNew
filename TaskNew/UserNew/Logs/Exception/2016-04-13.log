@@ -1,0 +1,18 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-13 16:48:06,812 
+【线程编号】[33] 
+【执行时间】[227]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:51696/logout.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 Logout.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\User\Logout.aspx.cs:行号 14
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】

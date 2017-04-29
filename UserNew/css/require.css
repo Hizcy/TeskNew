@@ -1,0 +1,107 @@
+﻿@charset "utf-8";
+
+body, div, h1, h2, h3, h4, h5, h6, hr, p, blockquote,dl, dt, dd, ul, ol, li,pre, code,form, fieldset, legend, button, textarea,table, tbody, tfoot, thead, th, td,article, aside, dialog, figure, footer, header, hgroup, menu, nav, section, time, mark, audio, video{margin:0;padding:0;outline:0;background:transparent;}
+
+article, aside, dialog, figure, footer, header, hgroup, nav, section{display:block;}
+
+body,button, input, select, textarea{font: 12px/1.5 "Microsoft YaHei","微软雅黑","黑体",Tahoma,Helvetica,Arial,sans-serif;}
+
+h1, h2, h3, h4, h5, h6{font-size:100%;}
+
+address, cite, dfn, var{font-style:normal;}
+
+em{ color:#C00;font-style: normal;margin: 0 5px;}
+
+code, kbd, pre, samp{font-family:courier new, courier, monospace;}
+
+small{font-size:12px;}
+
+ul, ol, li{list-style:none;}
+
+a{text-decoration:none;outline:thin none;}
+
+a:hover{text-decoration:underline;text-decoration:none;}
+
+blockquote:before, blockquote:after,
+
+q:before, q:after{content:'';content:none;}
+
+abbr,acronym{border:0;font-variant:normal;}
+
+ins{background-color:#ff9;color:#000;text-decoration:none;}
+
+mark{background-color:#ff9;color:#000;font-style:italic;font-weight:bold;}
+
+del{text-decoration:line-through;}
+
+abbr[title], dfn[title]{border-bottom:1px dotted #000;cursor:help;}
+
+sup{vertical-align:text-top;}
+
+sub{vertical-align:text-bottom;}
+
+legend{color:#000;}
+
+fieldset, img{border:0;}
+
+button, input, select, textarea{font-size:100%;}
+
+table{border-collapse:collapse;border-spacing:0;}
+
+.jd_tips{width:980px;font-family:"Microsoft YaHei","微软雅黑","黑体",Tahoma,Helvetica,Arial,sans-serif;box-shadow: 0 0 4px #999;margin:0 auto;margin-top:20px;}
+
+.jd_tips .div-tit{height: 40px;background:#f65e91;padding:0 15px;}
+
+.jd_tips .div-tit span{line-height: 40px;color: #fff;font-size: 16px; font-weight:bold;}
+
+.jd_tips .div-tit a.close{float: right;margin-top:10px;display:none;}
+
+.jd_tips .div-column{border:1px solid #b4b4b4;border-top: 0;padding:35px 30px;color: #666666;}
+
+.jd_tips .div-column .taobao_so{width: 450px;height: 60px;margin-top: 20px;background:url(../images/taobao_so.gif) no-repeat;padding-left: 270px;padding-top: 12px;font-size: 14px;}
+
+.jd_tips .div-column .jd_so{width: 630px;height: 60px;margin-top: 20px;background:url(../images/jd_so.png) no-repeat;padding-left: 375px;padding-top: 20px;font-size: 14px;}
+
+.jd_tips .div-column .so_1688{width: 630px;height: 60px;margin-top: 20px;background:url(../images/1688_so.png) no-repeat;padding-left: 275px; padding-top: 15px;font-size: 14px;}
+
+.jd_tips .div-column .tianmao_so{width: 450px;height: 60px;margin-top: 20px;background:url(../images/tianmao_so.gif) no-repeat;padding-left: 270px;padding-top: 12px;font-size: 14px;}
+
+.jd_tips .div-column .soso_inpig{width: 355px;height: 34px;margin-top: 10px;background: url(../images/soso_inpig.gif) no-repeat;padding-left: 15px;padding-top: 8px;font-size: 12px;color: #2B2B2B;}
+
+.jd_tips .div-column .form_name {background: #F25F55;border-radius: 5px 5px 5px 5px;color: white;margin-top: 6px;height: 20px;padding: 5px 10px 8px;margin-left: 10px;width: 560px;font-size: 16px;font-weight: bold;text-align: center;}
+
+.div_p_cour{border-bottom: 1px dashed #DDD;padding-bottom: 30px;font-size: 14px;font-weight: bold;}
+
+.cour_p_font{font-size: 16px;font-weight: bold;height: 34px;line-height: 34px;}
+
+.cour_p_span_16{font-size:16px; font-weight:bold;color:#f25f55;}
+
+.cour_p_span{font-size:24px; font-weight:bold;color:#f25f55;}
+
+.cour_p_heig_34{font-size: 14px;font-weight: bold;height:auto;line-height: 34px;}
+
+.cour_p_heig_24{font-size: 14px;font-weight: bold;height: 24px;line-height: 24px; color:#C00;}
+
+.cour_p_heig_24_t10{font-size: 14px;font-weight: bold;height: 24px;line-height: 24px; color:#C00; margin-top:10px;}
+
+.cour_div{margin-top:20px;border-bottom: 1px dashed #DDD;padding-bottom: 30px;}
+
+.cour_div_p38{font-size: 16px;font-weight: bold;height: 38px;line-height: 38px;}
+
+.cour_div_top_10{margin-top:10px;}
+
+.cour_div_top_20{margin-top:20px;}
+
+.cour_div_top_30{margin-top:30px;}
+
+.ter_box{line-height: 2;font-weight: 700;color: #FF4E00;border: 1px solid #FF4E00;margin-top: 15px;text-align: center;}
+
+
+
+.jd_tips .div-column .so_taobao_phone{width:500px;height:40px;margin-top: 20px;background:url(../images/so_taobao_phone.gif) no-repeat;padding-left: 135px;padding-top:41px;font-size: 16px;}
+
+.jd_tips .div-column .so_tmall_phone{width:500px;height:40px;margin-top: 20px;background:url(../images/so_tmall_phone.gif) no-repeat;padding-left: 76px;padding-top: 38px;font-size: 16px;}
+
+.jd_tips .div-column .so_jd_phone{width:500px;height:60px;margin-top: 20px;background:url(../images/so_jd_phone.png) no-repeat;padding-left: 140px;padding-top: 70px;font-size: 16px;}
+
+.jd_tips .div-column .so_1688_phone{width:500px;height:60px;margin-top: 20px;background:url(../images/so_1688_phone.png) no-repeat;padding-left: 150px;padding-top: 68px;font-size: 16px;}

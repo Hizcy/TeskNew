@@ -1,0 +1,154 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 10:18:47,345 
+【线程编号】[11] 
+【执行时间】[143]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】125 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 13:36:02,492 
+【线程编号】[102] 
+【执行时间】[11835289]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】125 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 16:52:27,985 
+【线程编号】[17] 
+【执行时间】[64]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】127 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 16:52:46,316 
+【线程编号】[10] 
+【执行时间】[18395]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】127 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 16:54:49,499 
+【线程编号】[23] 
+【执行时间】[141578]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】127 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 16:56:38,613 
+【线程编号】[25] 
+【执行时间】[250692]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】127 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 16:57:04,087 
+【线程编号】[17] 
+【执行时间】[276166]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】127 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 16:57:12,061 
+【线程编号】[28] 
+【执行时间】[284140]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】127 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 16:57:49,982 
+【线程编号】[17] 
+【执行时间】[322061]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】127 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 16:58:03,131 
+【线程编号】[33] 
+【执行时间】[335210]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】127 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 16:58:08,137 
+【线程编号】[48] 
+【执行时间】[340216]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】127 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 17:00:33,826 
+【线程编号】[31] 
+【执行时间】[485905]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】127 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 18:26:41,622 
+【线程编号】[5] 
+【执行时间】[134]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/Opinion.aspx
+错误信息：d:\zhanglixiangmu\威小宝刷单\Web\Opinion.aspx(125): error CS0103: 当前上下文中不存在名称“showname”
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】

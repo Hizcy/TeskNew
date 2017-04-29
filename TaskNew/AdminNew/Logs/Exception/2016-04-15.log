@@ -1,0 +1,162 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 09:00:12,709 
+【线程编号】[7] 
+【执行时间】[130]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 09:00:20,091 
+【线程编号】[6] 
+【执行时间】[7511]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 09:23:33,075 
+【线程编号】[27] 
+【执行时间】[1400495]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 09:35:09,910 
+【线程编号】[21] 
+【执行时间】[2097331]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:6108/busines/TaskYong.aspx?id=4&type=0
+错误信息：c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\busines\TaskYong.aspx(173): error CS1002: 应输入 ;
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 10:21:59,572 
+【线程编号】[34] 
+【执行时间】[4906992]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 10:26:15,225 
+【线程编号】[16] 
+【执行时间】[87]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:6108/busines/<img src=
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 10:27:01,638 
+【线程编号】[21] 
+【执行时间】[46499]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:6108/busines/<img src=
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 10:45:08,928 
+【线程编号】[22] 
+【执行时间】[1133789]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 12:03:25,408 
+【线程编号】[31] 
+【执行时间】[50]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 12:54:38,157 
+【线程编号】[46] 
+【执行时间】[3072799]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 13:35:26,044 
+【线程编号】[48] 
+【执行时间】[69]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 14:32:53,152 
+【线程编号】[14] 
+【执行时间】[3447177]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-15 16:30:06,680 
+【线程编号】[6] 
+【执行时间】[121]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\data\data.aspx.cs 
+【出错行号】114 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】platForm:1,activeMethod:1,activeName:1111,url:http://baidu.com,guanjianci:1,1,1,大概在第1页第1行,1,2,seller:14,productType:0,price:4,productNum:4,activeNum:5,commissionPrice:0,guaranteePrice:16,productImage:http://localhost:6108/upimg/20160415162942738.jpg,listImage:http://localhost:6108/upimg/20160415162940358.jpg,activeType:3,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】

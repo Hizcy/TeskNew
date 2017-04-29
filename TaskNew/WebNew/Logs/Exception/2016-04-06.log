@@ -1,0 +1,257 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-06 09:37:27,053 
+【线程编号】[57] 
+【执行时间】[361]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】123 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-06 09:42:29,129 
+【线程编号】[12] 
+【执行时间】[302436]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Home.aspx.cs 
+【出错行号】114 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1无法打开登录所请求的数据库 "task"。登录失败。
+用户 'sa' 登录失败。|   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 Jnwf.Utils.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   在 Jnwf.Utils.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText)
+   在 Task.DAL.tb_TaskDataAccessLayer.GettaskInfo() 位置 d:\zhanglixiangmu\威小宝刷单\DAL\tb_TaskDalExt.cs:行号 425
+   在 Task.BLL.tb_TaskBLL.Get_taskList() 位置 d:\zhanglixiangmu\威小宝刷单\BLL\tb_TaskLogic.cs:行号 254
+   在 desktop_Home.BindData() 位置 d:\zhanglixiangmu\威小宝刷单\Web\Home.aspx.cs:行号 41 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-06 10:02:21,982 
+【线程编号】[9] 
+【执行时间】[77]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】123 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-06 10:04:29,866 
+【线程编号】[13] 
+【执行时间】[127961]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】123 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-06 10:11:21,043 
+【线程编号】[9] 
+【执行时间】[539138]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】123 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-06 10:13:01,019 
+【线程编号】[9] 
+【执行时间】[639114]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】123 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-06 10:14:07,875 
+【线程编号】[8] 
+【执行时间】[705970]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】123 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-06 10:14:25,085 
+【线程编号】[8] 
+【执行时间】[723179]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】123 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-06 10:15:17,444 
+【线程编号】[28] 
+【执行时间】[775539]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】123 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-06 10:16:09,028 
+【线程编号】[8] 
+【执行时间】[827122]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】123 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-06 10:16:47,298 
+【线程编号】[25] 
+【执行时间】[865393]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】123 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-06 10:17:02,342 
+【线程编号】[8] 
+【执行时间】[880437]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】123 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-06 10:17:03,260 
+【线程编号】[23] 
+【执行时间】[881354]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】123 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-06 10:17:39,366 
+【线程编号】[31] 
+【执行时间】[917460]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】123 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-06 10:22:42,456 
+【线程编号】[28] 
+【执行时间】[1220551]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】123 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-06 11:53:15,746 
+【线程编号】[21] 
+【执行时间】[123]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/DetailsList.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 desktop_DetailsList.BindData() 位置 d:\zhanglixiangmu\威小宝刷单\Web\DetailsList.aspx.cs:行号 65
+   在 desktop_DetailsList.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\Web\DetailsList.aspx.cs:行号 16
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-06 14:26:58,686 
+【线程编号】[9] 
+【执行时间】[77]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】124 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-06 14:27:56,118 
+【线程编号】[18] 
+【执行时间】[57509]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】124 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-06 18:05:14,092 
+【线程编号】[19] 
+【执行时间】[177]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】124 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:29 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-06 18:09:44,118 
+【线程编号】[53] 
+【执行时间】[270203]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】124 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:29 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-06 18:09:47,467 
+【线程编号】[15] 
+【执行时间】[273552]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Details.aspx.cs 
+【出错行号】124 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:29 
+【错误详情】

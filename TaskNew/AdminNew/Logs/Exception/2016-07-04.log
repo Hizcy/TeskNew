@@ -1,0 +1,385 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 10:40:43,688 
+【线程编号】[8] 
+【执行时间】[40]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\user\Index.aspx.cs 
+【出错行号】37 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|4|zcy|!QAZxsw2#EDCvfr4 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 10:41:57,703 
+【线程编号】[5] 
+【执行时间】[74055]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\upload.aspx.cs 
+【出错行号】82 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui3:ak:1G5S7rsUN6OROvmI0tAayz5PC8faGXnqWkcB5HLa,sk:ZJc2Gkv1orA7gwLHTs_JgOqdbpEAvcuV67rS6x0x,name:image91,file:20160704104157610.jpg,originalImagePath:E:\TaskNew\TaskNew\AdminNew\upimg\20160704104157610.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 10:41:57,786 
+【线程编号】[5] 
+【执行时间】[74138]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160704104157610.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 10:41:59,066 
+【线程编号】[5] 
+【执行时间】[75418]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 10:41:59,066 
+【线程编号】[5] 
+【执行时间】[75418]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160704104157610.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 10:41:59,396 
+【线程编号】[5] 
+【执行时间】[75748]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 10:41:59,397 
+【线程编号】[5] 
+【执行时间】[75749]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160704104157610.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 10:41:59,723 
+【线程编号】[5] 
+【执行时间】[76075]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 10:42:46,601 
+【线程编号】[5] 
+【执行时间】[122953]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\upload.aspx.cs 
+【出错行号】82 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui3:ak:1G5S7rsUN6OROvmI0tAayz5PC8faGXnqWkcB5HLa,sk:ZJc2Gkv1orA7gwLHTs_JgOqdbpEAvcuV67rS6x0x,name:image91,file:20160704104246572.jpg,originalImagePath:E:\TaskNew\TaskNew\AdminNew\upimg\20160704104246572.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 10:42:46,601 
+【线程编号】[5] 
+【执行时间】[122953]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160704104246572.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 10:42:46,720 
+【线程编号】[5] 
+【执行时间】[123072]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 10:42:46,721 
+【线程编号】[5] 
+【执行时间】[123073]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160704104246572.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 10:42:46,843 
+【线程编号】[5] 
+【执行时间】[123195]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 10:42:46,843 
+【线程编号】[5] 
+【执行时间】[123195]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160704104246572.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 10:42:46,969 
+【线程编号】[5] 
+【执行时间】[123321]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 10:43:36,445 
+【线程编号】[7] 
+【执行时间】[172797]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\upload.aspx.cs 
+【出错行号】82 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui3:ak:1G5S7rsUN6OROvmI0tAayz5PC8faGXnqWkcB5HLa,sk:ZJc2Gkv1orA7gwLHTs_JgOqdbpEAvcuV67rS6x0x,name:image91,file:20160704104336420.jpg,originalImagePath:E:\TaskNew\TaskNew\AdminNew\upimg\20160704104336420.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 10:43:36,445 
+【线程编号】[7] 
+【执行时间】[172797]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160704104336420.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 10:43:36,569 
+【线程编号】[7] 
+【执行时间】[172921]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 10:43:36,570 
+【线程编号】[7] 
+【执行时间】[172922]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160704104336420.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 10:43:36,667 
+【线程编号】[7] 
+【执行时间】[173019]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 10:43:36,668 
+【线程编号】[7] 
+【执行时间】[173020]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160704104336420.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 10:43:36,769 
+【线程编号】[7] 
+【执行时间】[173121]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 10:44:47,690 
+【线程编号】[7] 
+【执行时间】[244041]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs 
+【出错行号】228 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addshiyongtask,userid:4,platForm:1,activeMethod:1,isEvaluate:0,isMessage:0,activeName:测试,url:https://item.taobao.com/item.htm?spm=a21bz.7725273.1998564503.1.kSapEs&id=533696332026&umpChannel=qianggou&u_channel=qianggou,guanjianci:1,1,女装,95,100,guanjianci:1,1,,95,100,guanjianci:1,1,,95,100,guanjianci:1,1,,95,100,guanjianci:1,1,,95,100,seller:22,productType:1,price:95.90,productNum:5,activeNum:5,commissionPrice:0,guaranteePrice:479.5,productImage:http://localhost:59415/upimg/20160704104246572.jpg,listImage:http://localhost:59415/upimg/20160704104336420.jpg,activeType:3,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第1页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 14:00:33,274 
+【线程编号】[65] 
+【执行时间】[11989626]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\user\Index.aspx.cs 
+【出错行号】37 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|4|zcy|!QAZxsw2#EDCvfr4 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:26:45,982 
+【线程编号】[20] 
+【执行时间】[20762334]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\user\Index.aspx.cs 
+【出错行号】37 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|4|zcy|!QAZxsw2#EDCvfr4 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:26:50,794 
+【线程编号】[21] 
+【执行时间】[20767146]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:tcfuldp55okp3je1j5w3z3eu 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:26:50,796 
+【线程编号】[21] 
+【执行时间】[20767148]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:4346CFDF1C1BF4800D4C684445A6B7D9E75E3068131988DFB5D673BA1AF4128F9D766DF82056E093BF7A35BE43347623DD7A2036B00081B2557679A08082268CC8E0B0CE001259096353D9BE39DDFBA7966872078B5827C33CD59AEBFDAADCF06702E5CE7ECBB533AE8EBF022C7B09C536F823401B623A259737DA39D88D13842C51D248583DEA74CA919C8B9D8F7FF5F828B91C85B028B644901CF209EA552F152A9A098EE7767D3E061B29D01FB9F4A5415CE3FB807E7D436E561C403E49E55CB5063E2B4089EDD88DF74023D9CAA0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:27:05,621 
+【线程编号】[19] 
+【执行时间】[20781973]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\busines\TradeShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:2 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:27:05,641 
+【线程编号】[19] 
+【执行时间】[20781993]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:59415/busines/TradeShilist.aspx?id=1379
+错误信息：输入字符串的格式不正确。
+堆栈內容：
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Decimal.Parse(String s)
+   在 ASP.busines_tradeshilist_aspx.__DataBind__control4(Object sender, EventArgs e) 位置 e:\TaskNew\TaskNew\AdminNew\busines\TradeShilist.aspx:行号 104
+   在 System.Web.UI.Control.OnDataBinding(EventArgs e)
+   在 System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   在 System.Web.UI.Control.DataBind()
+   在 System.Web.UI.Control.DataBindChildren()
+   在 System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   在 System.Web.UI.Control.DataBind()
+   在 System.Web.UI.WebControls.Repeater.CreateItem(Int32 itemIndex, ListItemType itemType, Boolean dataBind, Object dataItem)
+   在 System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   在 System.Web.UI.WebControls.Repeater.DataBind()
+   在 busines_TradeShilist.BindData() 位置 e:\TaskNew\TaskNew\AdminNew\busines\TradeShilist.aspx.cs:行号 104
+   在 busines_TradeShilist.Page_Load(Object sender, EventArgs e) 位置 e:\TaskNew\TaskNew\AdminNew\busines\TradeShilist.aspx.cs:行号 76
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:29:38,098 
+【线程编号】[20] 
+【执行时间】[41]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\busines\TradeShilist.aspx.cs 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:2 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:29:39,906 
+【线程编号】[23] 
+【执行时间】[1849]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\busines\TradeShilist.aspx.cs 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:2 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:29:47,932 
+【线程编号】[79] 
+【执行时间】[9874]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\busines\TradeShilist.aspx.cs 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:2 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:29:49,743 
+【线程编号】[20] 
+【执行时间】[11685]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\busines\TradeShilist.aspx.cs 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:2 
+【错误详情】

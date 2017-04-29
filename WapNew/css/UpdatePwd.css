@@ -1,0 +1,38 @@
+﻿* {
+ margin:0px;
+ padding:0px;
+}
+#a1 {background:url(../images/rwmc.jpg) no-repeat 0 0;}
+.tb {padding: 6px 0 12px;background:#ed306b;text-align: center;}
+#fount {
+font-weight:600;
+font-size:20px;
+color:white;
+}
+.tb .tb_1{float:left;}
+.wid_1 {
+    width:90%;
+    height:40px;
+    margin:10px 10px 10px 10px;
+    padding-left:3%;
+    font-size:14px;
+}
+ #founts {
+    font-weight:600;
+    font-size:20px;
+    color:white;    
+}
+a { text-decoration: none;}
+#als {
+margin-top:20px 10px 20px 0px;
+}
+body {
+    background-color:#f2f2f2;
+}
+#cen {
+text-align:center;
+margin-top:20px;
+}
+.mod_btn {text-align:center;vertical-align:middle;}
+.f_tx1,.mod_menu {font-family:"Microsoft YaHei","微软雅黑","黑体";}
+.mod_btn_gr2 .mod_btn_bd {background-position:right -85px;padding-right:10px;}

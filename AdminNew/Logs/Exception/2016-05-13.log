@@ -1,0 +1,99 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-13 14:51:12,386 
+【线程编号】[12] 
+【执行时间】[263]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-13 14:52:02,700 
+【线程编号】[5] 
+【执行时间】[50577]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\TradeShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:3 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-13 14:52:07,882 
+【线程编号】[12] 
+【执行时间】[55759]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\TradeShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-13 14:52:12,953 
+【线程编号】[7] 
+【执行时间】[60830]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】339 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】auditTask,id:149 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-13 14:52:29,882 
+【线程编号】[12] 
+【执行时间】[77760]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\TradeShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-13 14:52:36,266 
+【线程编号】[10] 
+【执行时间】[84143]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】339 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】auditTask,id:149 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-13 14:54:02,329 
+【线程编号】[12] 
+【执行时间】[170206]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\TradeShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-13 14:54:06,720 
+【线程编号】[7] 
+【执行时间】[174597]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\TradeShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-13 15:20:30,991 
+【线程编号】[11] 
+【执行时间】[1758868]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】

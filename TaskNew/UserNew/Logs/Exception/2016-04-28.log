@@ -1,0 +1,168 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 11:42:29,233 
+【线程编号】[79] 
+【执行时间】[70669381]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:51696/users/WithdrawPay.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 users_WithdrawPay.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\User\users\WithdrawPay.aspx.cs:行号 26
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 11:42:49,492 
+【线程编号】[79] 
+【执行时间】[70689641]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:51696/users/WithdrawPay.aspx?id=6
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 users_WithdrawPay.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\User\users\WithdrawPay.aspx.cs:行号 26
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 11:42:57,506 
+【线程编号】[79] 
+【执行时间】[70697654]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:51696/logout.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 Logout.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\User\Logout.aspx.cs:行号 14
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 11:43:24,749 
+【线程编号】[79] 
+【执行时间】[70724897]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:51696/users/WithdrawPay.aspx?id=6
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 users_WithdrawPay.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\User\users\WithdrawPay.aspx.cs:行号 26
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 11:44:00,054 
+【线程编号】[7] 
+【执行时间】[107]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:51696/users/WithdrawList.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 users_WithdrawList.BindData() 位置 d:\zhanglixiangmu\威小宝刷单\User\users\WithdrawList.aspx.cs:行号 20
+   在 users_WithdrawList.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\User\users\WithdrawList.aspx.cs:行号 15
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 14:40:48,872 
+【线程编号】[16] 
+【执行时间】[451]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】78 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 14:41:01,273 
+【线程编号】[15] 
+【执行时间】[12852]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】78 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:29 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 18:05:26,307 
+【线程编号】[16] 
+【执行时间】[124]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】78 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 18:05:44,424 
+【线程编号】[17] 
+【执行时间】[18241]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】78 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 18:05:48,830 
+【线程编号】[16] 
+【执行时间】[22647]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】78 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 18:06:42,876 
+【线程编号】[7] 
+【执行时间】[76692]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】78 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 18:07:09,355 
+【线程编号】[18] 
+【执行时间】[103172]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】78 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】

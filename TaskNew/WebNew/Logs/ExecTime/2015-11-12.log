@@ -1,0 +1,89 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【记录时间】2015-11-12 09:09:48,111 
+【执行时间】[54873072]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Login.aspx.cs 
+【错误描述】login,name:admin,pwd:123123,ex:正在中止线程。|   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 Login.btn_dl_Click(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\Web\Login.aspx.cs:行号 38
+＝＝＝＝＝＝＝＝＝＝ 
+【记录时间】2015-11-12 09:09:48,724 
+【执行时间】[54873684]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Login.aspx.cs 
+【错误描述】login,name:admin,pwd:123123,ex:正在中止线程。|   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 Login.btn_dl_Click(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\Web\Login.aspx.cs:行号 38
+＝＝＝＝＝＝＝＝＝＝ 
+【记录时间】2015-11-12 09:58:30,986 
+【执行时间】[57795946]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Login.aspx.cs 
+【错误描述】login,name:admin,pwd:123123,ex:正在中止线程。|   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 Login.btn_dl_Click(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\Web\Login.aspx.cs:行号 38
+＝＝＝＝＝＝＝＝＝＝ 
+【记录时间】2015-11-12 09:58:31,655 
+【执行时间】[57796615]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Login.aspx.cs 
+【错误描述】login,name:admin,pwd:123123,ex:正在中止线程。|   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 Login.btn_dl_Click(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\Web\Login.aspx.cs:行号 38
+＝＝＝＝＝＝＝＝＝＝ 
+【记录时间】2015-11-12 15:08:24,107 
+【执行时间】[232]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Login.aspx.cs 
+【错误描述】login,name:admin,pwd:123123,ex:正在中止线程。|   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 Login.btn_dl_Click(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\Web\Login.aspx.cs:行号 38
+＝＝＝＝＝＝＝＝＝＝ 
+【记录时间】2015-11-12 15:32:15,742 
+【执行时间】[1431867]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Login.aspx.cs 
+【错误描述】login,name:admin,pwd:123123,ex:正在中止线程。|   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 Login.btn_dl_Click(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\Web\Login.aspx.cs:行号 38
+＝＝＝＝＝＝＝＝＝＝ 
+【记录时间】2015-11-12 16:09:18,299 
+【执行时间】[3654423]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Login.aspx.cs 
+【错误描述】login,name:admin,pwd:123123,ex:正在中止线程。|   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 Login.btn_dl_Click(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\Web\Login.aspx.cs:行号 38
+＝＝＝＝＝＝＝＝＝＝ 
+【记录时间】2015-11-12 17:13:36,782 
+【执行时间】[7512907]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Login.aspx.cs 
+【错误描述】login,name:admin,pwd:123123,ex:正在中止线程。|   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 Login.btn_dl_Click(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\Web\Login.aspx.cs:行号 38

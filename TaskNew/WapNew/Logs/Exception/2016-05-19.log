@@ -1,0 +1,531 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 13:10:23,774 
+【线程编号】[6] 
+【执行时间】[139]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 13:10:24,265 
+【线程编号】[10] 
+【执行时间】[629]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 13:10:24,408 
+【线程编号】[6] 
+【执行时间】[772]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 13:10:34,293 
+【线程编号】[6] 
+【执行时间】[10657]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 13:10:34,407 
+【线程编号】[10] 
+【执行时间】[10771]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 13:10:34,437 
+【线程编号】[7] 
+【执行时间】[10801]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 13:10:35,389 
+【线程编号】[10] 
+【执行时间】[11753]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 13:15:06,136 
+【线程编号】[6] 
+【执行时间】[282500]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 13:15:06,138 
+【线程编号】[14] 
+【执行时间】[282502]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 13:15:06,151 
+【线程编号】[16] 
+【执行时间】[282515]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 13:15:09,482 
+【线程编号】[17] 
+【执行时间】[285846]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 13:15:09,535 
+【线程编号】[14] 
+【执行时间】[285899]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 13:15:12,581 
+【线程编号】[16] 
+【执行时间】[288945]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 13:15:12,613 
+【线程编号】[16] 
+【执行时间】[288977]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 13:15:18,173 
+【线程编号】[16] 
+【执行时间】[294537]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 14:23:32,924 
+【线程编号】[17] 
+【执行时间】[119]毫秒 
+【出错文件】e:\Wap1\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:5537/UpdatePwd.aspx
+错误信息：类型“TextBox”的控件“newpwd”必须放在具有 runat=server 的窗体标记内。
+堆栈內容：
+   在 System.Web.UI.Page.VerifyRenderingInServerForm(Control control)
+   在 System.Web.UI.WebControls.TextBox.AddAttributesToRender(HtmlTextWriter writer)
+   在 System.Web.UI.WebControls.WebControl.RenderBeginTag(HtmlTextWriter writer)
+   在 System.Web.UI.WebControls.TextBox.Render(HtmlTextWriter writer)
+   在 System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   在 ASP.updatepwd_aspx.__Render__control1(HtmlTextWriter __w, Control parameterContainer) 位置 e:\Wap1\UpdatePwd.aspx:行号 20
+   在 System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   在 System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   在 System.Web.UI.Page.Render(HtmlTextWriter writer)
+   在 System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 14:24:22,757 
+【线程编号】[18] 
+【执行时间】[49952]毫秒 
+【出错文件】e:\Wap1\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:5537/UpdatePwd.aspx
+错误信息：类型“TextBox”的控件“affirmped”必须放在具有 runat=server 的窗体标记内。
+堆栈內容：
+   在 System.Web.UI.Page.VerifyRenderingInServerForm(Control control)
+   在 System.Web.UI.WebControls.TextBox.AddAttributesToRender(HtmlTextWriter writer)
+   在 System.Web.UI.WebControls.WebControl.RenderBeginTag(HtmlTextWriter writer)
+   在 System.Web.UI.WebControls.TextBox.Render(HtmlTextWriter writer)
+   在 System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   在 ASP.updatepwd_aspx.__Render__control1(HtmlTextWriter __w, Control parameterContainer) 位置 e:\Wap1\UpdatePwd.aspx:行号 20
+   在 System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   在 System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   在 System.Web.UI.Page.Render(HtmlTextWriter writer)
+   在 System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 14:24:40,296 
+【线程编号】[13] 
+【执行时间】[67491]毫秒 
+【出错文件】e:\Wap1\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:5537/UpdatePwd.aspx
+错误信息：类型“TextBox”的控件“affirmped”必须放在具有 runat=server 的窗体标记内。
+堆栈內容：
+   在 System.Web.UI.Page.VerifyRenderingInServerForm(Control control)
+   在 System.Web.UI.WebControls.TextBox.AddAttributesToRender(HtmlTextWriter writer)
+   在 System.Web.UI.WebControls.WebControl.RenderBeginTag(HtmlTextWriter writer)
+   在 System.Web.UI.WebControls.TextBox.Render(HtmlTextWriter writer)
+   在 System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   在 System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   在 System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   在 System.Web.UI.Page.Render(HtmlTextWriter writer)
+   在 System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 14:25:51,766 
+【线程编号】[17] 
+【执行时间】[138961]毫秒 
+【出错文件】e:\Wap1\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:5537/UpdatePwd.aspx
+错误信息：服务器标记的格式不正确。
+堆栈內容：
+   在 System.Web.UI.TemplateParser.ProcessError(String message)
+   在 System.Web.UI.TemplateParser.DetectSpecialServerTagError(String text, Int32 textPos)
+   在 System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   在 System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 14:26:22,100 
+【线程编号】[13] 
+【执行时间】[169295]毫秒 
+【出错文件】e:\Wap1\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:5537/UpdatePwd.aspx
+错误信息：类型“TextBox”的控件“wid”必须放在具有 runat=server 的窗体标记内。
+堆栈內容：
+   在 System.Web.UI.Page.VerifyRenderingInServerForm(Control control)
+   在 System.Web.UI.WebControls.TextBox.AddAttributesToRender(HtmlTextWriter writer)
+   在 System.Web.UI.WebControls.WebControl.RenderBeginTag(HtmlTextWriter writer)
+   在 System.Web.UI.WebControls.TextBox.Render(HtmlTextWriter writer)
+   在 System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   在 ASP.updatepwd_aspx.__Render__control1(HtmlTextWriter __w, Control parameterContainer) 位置 e:\Wap1\UpdatePwd.aspx:行号 20
+   在 System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   在 System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   在 System.Web.UI.Page.Render(HtmlTextWriter writer)
+   在 System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 14:44:50,321 
+【线程编号】[27] 
+【执行时间】[1277516]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 14:44:50,321 
+【线程编号】[11] 
+【执行时间】[1277516]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 14:44:50,476 
+【线程编号】[11] 
+【执行时间】[1277671]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 14:44:50,672 
+【线程编号】[19] 
+【执行时间】[1277867]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 14:44:51,158 
+【线程编号】[27] 
+【执行时间】[1278353]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 14:44:51,159 
+【线程编号】[11] 
+【执行时间】[1278354]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 14:44:51,170 
+【线程编号】[19] 
+【执行时间】[1278365]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 14:44:56,131 
+【线程编号】[11] 
+【执行时间】[1283325]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 14:45:14,739 
+【线程编号】[27] 
+【执行时间】[1301933]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 14:45:14,786 
+【线程编号】[11] 
+【执行时间】[1301980]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 15:38:41,203 
+【线程编号】[47] 
+【执行时间】[457]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 15:38:41,216 
+【线程编号】[44] 
+【执行时间】[470]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 15:38:47,902 
+【线程编号】[44] 
+【执行时间】[7156]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 15:38:47,932 
+【线程编号】[44] 
+【执行时间】[7186]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 15:39:17,237 
+【线程编号】[45] 
+【执行时间】[36491]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 15:39:17,281 
+【线程编号】[44] 
+【执行时间】[36535]毫秒 
+【出错文件】e:\Wap1\data\content.ashx 
+【出错行号】70 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“datetime”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 content.ProcessRequest(HttpContext context) 位置 e:\Wap1\data\content.ashx:行号 53 
+【错误详情】

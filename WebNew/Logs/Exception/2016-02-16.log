@@ -1,0 +1,2459 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 09:29:08,611 
+【线程编号】[10] 
+【执行时间】[260]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 76 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 09:29:11,869 
+【线程编号】[17] 
+【执行时间】[3518]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 76 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 09:30:54,262 
+【线程编号】[11] 
+【执行时间】[66]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 76 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 09:34:52,617 
+【线程编号】[17] 
+【执行时间】[238421]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 76 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 09:35:17,939 
+【线程编号】[11] 
+【执行时间】[263743]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/QaTaskList.aspx
+错误信息：值不能为 null。
+参数名: s
+堆栈內容：
+   在 System.IO.StringReader..ctor(String s)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   在 Jnwf.Utils.Json.JsonHelper.DeserializeJsonReturnList[T](String s)
+   在 QaTaskList.BindData() 位置 e:\Web\QaTaskList.aspx.cs:行号 24
+   在 QaTaskList.Page_Load(Object sender, EventArgs e) 位置 e:\Web\QaTaskList.aspx.cs:行号 15
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 09:43:50,163 
+【线程编号】[10] 
+【执行时间】[775967]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 76 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 09:49:29,294 
+【线程编号】[17] 
+【执行时间】[1115098]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 76 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 09:52:08,070 
+【线程编号】[13] 
+【执行时间】[1273873]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“ProductType”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   在 desktop_Home.<BindData>b__4(DataRow c) 位置 e:\Web\Home.aspx.cs:行号 111
+   在 System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   在 System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   在 System.Web.UI.WebControls.Repeater.DataBind()
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 112 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 09:56:25,940 
+【线程编号】[11] 
+【执行时间】[1531744]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“ProductType”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   在 desktop_Home.<BindData>b__4(DataRow c) 位置 e:\Web\Home.aspx.cs:行号 111
+   在 System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   在 System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   在 System.Web.UI.WebControls.Repeater.DataBind()
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 112 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 09:56:42,193 
+【线程编号】[17] 
+【执行时间】[1547997]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“ProductType”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   在 desktop_Home.<BindData>b__4(DataRow c) 位置 e:\Web\Home.aspx.cs:行号 111
+   在 System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   在 System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   在 System.Web.UI.WebControls.Repeater.DataBind()
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 112 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 09:59:08,652 
+【线程编号】[11] 
+【执行时间】[1694455]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 76 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 09:59:22,345 
+【线程编号】[13] 
+【执行时间】[1708149]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/Details.aspx?id=61
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 desktop_Details.Page_Load(Object sender, EventArgs e) 位置 e:\Web\Details.aspx.cs:行号 61
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:01:58,105 
+【线程编号】[17] 
+【执行时间】[69]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“ProductType”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   在 desktop_Home.<BindData>b__4(DataRow c) 位置 e:\Web\Home.aspx.cs:行号 111
+   在 System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   在 System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   在 System.Web.UI.WebControls.Repeater.DataBind()
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 112 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:02:13,068 
+【线程编号】[10] 
+【执行时间】[15031]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“ProductType”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   在 desktop_Home.<BindData>b__4(DataRow c) 位置 e:\Web\Home.aspx.cs:行号 111
+   在 System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   在 System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   在 System.Web.UI.WebControls.Repeater.DataBind()
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 112 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:02:21,405 
+【线程编号】[16] 
+【执行时间】[23368]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“ProductType”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   在 desktop_Home.<BindData>b__4(DataRow c) 位置 e:\Web\Home.aspx.cs:行号 111
+   在 System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   在 System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   在 System.Web.UI.WebControls.Repeater.DataBind()
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 112 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:02:26,009 
+【线程编号】[13] 
+【执行时间】[27972]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 76 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:02:55,239 
+【线程编号】[17] 
+【执行时间】[57202]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 76 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:03:02,670 
+【线程编号】[13] 
+【执行时间】[64633]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“ProductType”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   在 desktop_Home.<BindData>b__4(DataRow c) 位置 e:\Web\Home.aspx.cs:行号 111
+   在 System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   在 System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   在 System.Web.UI.WebControls.Repeater.DataBind()
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 112 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:03:06,974 
+【线程编号】[12] 
+【执行时间】[68937]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 76 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:03:08,946 
+【线程编号】[10] 
+【执行时间】[70910]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1输入字符串的格式不正确。|   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 desktop_Home.get_id() 位置 e:\Web\Home.aspx.cs:行号 25
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 64 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:03:08,982 
+【线程编号】[10] 
+【执行时间】[70946]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/Home.aspx?id=0/
+错误信息：输入字符串的格式不正确。
+堆栈內容：
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 desktop_Home.get_id() 位置 e:\Web\Home.aspx.cs:行号 25
+   在 ASP.home_aspx.__RenderContent2(HtmlTextWriter __w, Control parameterContainer) 位置 e:\Web\Home.aspx:行号 316
+   在 System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   在 System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   在 System.Web.UI.Control.Render(HtmlTextWriter writer)
+   在 System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   在 ASP.masterpagehome_master.__Renderform1(HtmlTextWriter __w, Control parameterContainer) 位置 e:\Web\MasterPagehome.master:行号 265
+   在 System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   在 System.Web.UI.HtmlControls.HtmlForm.RenderChildren(HtmlTextWriter writer)
+   在 System.Web.UI.HtmlControls.HtmlContainerControl.Render(HtmlTextWriter writer)
+   在 System.Web.UI.HtmlControls.HtmlForm.Render(HtmlTextWriter output)
+   在 System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.HtmlControls.HtmlForm.RenderControl(HtmlTextWriter writer)
+   在 System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   在 System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   在 System.Web.UI.Control.Render(HtmlTextWriter writer)
+   在 System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   在 System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   在 System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   在 System.Web.UI.Page.Render(HtmlTextWriter writer)
+   在 System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:03:29,532 
+【线程编号】[10] 
+【执行时间】[91495]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 76 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:03:39,972 
+【线程编号】[11] 
+【执行时间】[101935]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“ProductType”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   在 desktop_Home.<BindData>b__4(DataRow c) 位置 e:\Web\Home.aspx.cs:行号 111
+   在 System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   在 System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   在 System.Web.UI.WebControls.Repeater.DataBind()
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 112 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:03:45,218 
+【线程编号】[13] 
+【执行时间】[107182]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 76 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:03:48,026 
+【线程编号】[11] 
+【执行时间】[109989]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 76 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:03:49,997 
+【线程编号】[17] 
+【执行时间】[111960]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 76 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:03:51,724 
+【线程编号】[11] 
+【执行时间】[113687]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 76 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:04:05,756 
+【线程编号】[12] 
+【执行时间】[127719]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“ProductType”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   在 desktop_Home.<BindData>b__4(DataRow c) 位置 e:\Web\Home.aspx.cs:行号 111
+   在 System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   在 System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   在 System.Web.UI.WebControls.Repeater.DataBind()
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 112 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:04:18,156 
+【线程编号】[17] 
+【执行时间】[140120]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 76 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:04:24,911 
+【线程编号】[16] 
+【执行时间】[146874]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 76 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:04:26,856 
+【线程编号】[12] 
+【执行时间】[148819]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 76 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:04:29,781 
+【线程编号】[16] 
+【执行时间】[151744]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“ProductType”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   在 desktop_Home.<BindData>b__4(DataRow c) 位置 e:\Web\Home.aspx.cs:行号 111
+   在 System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   在 System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   在 System.Web.UI.WebControls.Repeater.DataBind()
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 112 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:04:34,641 
+【线程编号】[10] 
+【执行时间】[156604]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 76 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:04:36,698 
+【线程编号】[17] 
+【执行时间】[158662]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 76 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:19:11,735 
+【线程编号】[16] 
+【执行时间】[85]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 76 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:19:14,246 
+【线程编号】[10] 
+【执行时间】[2595]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 76 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:19:16,667 
+【线程编号】[13] 
+【执行时间】[5016]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“ProductType”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   在 desktop_Home.<BindData>b__4(DataRow c) 位置 e:\Web\Home.aspx.cs:行号 111
+   在 System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   在 System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   在 System.Web.UI.WebControls.Repeater.DataBind()
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 112 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:20:57,665 
+【线程编号】[12] 
+【执行时间】[106015]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/Details.aspx?id=57
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 desktop_Details.Page_Load(Object sender, EventArgs e) 位置 e:\Web\Details.aspx.cs:行号 61
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:23:42,884 
+【线程编号】[10] 
+【执行时间】[69]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/QaTaskList.aspx
+错误信息：值不能为 null。
+参数名: s
+堆栈內容：
+   在 System.IO.StringReader..ctor(String s)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   在 Jnwf.Utils.Json.JsonHelper.DeserializeJsonReturnList[T](String s)
+   在 QaTaskList.BindData() 位置 e:\Web\QaTaskList.aspx.cs:行号 24
+   在 QaTaskList.Page_Load(Object sender, EventArgs e) 位置 e:\Web\QaTaskList.aspx.cs:行号 15
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:26:48,179 
+【线程编号】[11] 
+【执行时间】[73]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 76 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:34:01,429 
+【线程编号】[5] 
+【执行时间】[433323]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 76 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:34:03,292 
+【线程编号】[11] 
+【执行时间】[435186]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 76 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:34:06,472 
+【线程编号】[10] 
+【执行时间】[438366]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“ProductType”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   在 desktop_Home.<BindData>b__4(DataRow c) 位置 e:\Web\Home.aspx.cs:行号 111
+   在 System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   在 System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   在 System.Web.UI.WebControls.Repeater.DataBind()
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 112 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 10:34:12,275 
+【线程编号】[21] 
+【执行时间】[444169]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】146 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“ProductType”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   在 desktop_Home.<BindData>b__4(DataRow c) 位置 e:\Web\Home.aspx.cs:行号 111
+   在 System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   在 System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   在 System.Web.UI.WebControls.Repeater.DataBind()
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 112 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 11:00:54,507 
+【线程编号】[21] 
+【执行时间】[75]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/QaTaskList.aspx
+错误信息：值不能为 null。
+参数名: s
+堆栈內容：
+   在 System.IO.StringReader..ctor(String s)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   在 Jnwf.Utils.Json.JsonHelper.DeserializeJsonReturnList[T](String s)
+   在 QaTaskList.BindData() 位置 e:\Web\QaTaskList.aspx.cs:行号 24
+   在 QaTaskList.Page_Load(Object sender, EventArgs e) 位置 e:\Web\QaTaskList.aspx.cs:行号 15
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 11:02:31,418 
+【线程编号】[5] 
+【执行时间】[96986]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/QaTaskList.aspx
+错误信息：e:\Web\QaTaskList.aspx.cs(38): error CS0103: 当前上下文中不存在名称“contentlist”
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 11:02:48,259 
+【线程编号】[15] 
+【执行时间】[113827]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/QaTaskList.aspx
+错误信息：值不能为 null。
+参数名: s
+堆栈內容：
+   在 System.IO.StringReader..ctor(String s)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   在 Jnwf.Utils.Json.JsonHelper.DeserializeJsonReturnList[T](String s)
+   在 QaTaskList.BindData() 位置 e:\Web\QaTaskList.aspx.cs:行号 24
+   在 QaTaskList.Page_Load(Object sender, EventArgs e) 位置 e:\Web\QaTaskList.aspx.cs:行号 15
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 11:04:17,946 
+【线程编号】[21] 
+【执行时间】[203514]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/QaTaskList.aspx
+错误信息：值不能为 null。
+参数名: s
+堆栈內容：
+   在 System.IO.StringReader..ctor(String s)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   在 Jnwf.Utils.Json.JsonHelper.DeserializeJsonReturnList[T](String s)
+   在 QaTaskList.BindData() 位置 e:\Web\QaTaskList.aspx.cs:行号 38
+   在 QaTaskList.Page_Load(Object sender, EventArgs e) 位置 e:\Web\QaTaskList.aspx.cs:行号 15
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 11:04:28,836 
+【线程编号】[21] 
+【执行时间】[214404]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/QaTaskList.aspx
+错误信息：值不能为 null。
+参数名: s
+堆栈內容：
+   在 System.IO.StringReader..ctor(String s)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   在 Jnwf.Utils.Json.JsonHelper.DeserializeJsonReturnList[T](String s)
+   在 QaTaskList.BindData() 位置 e:\Web\QaTaskList.aspx.cs:行号 38
+   在 QaTaskList.Page_Load(Object sender, EventArgs e) 位置 e:\Web\QaTaskList.aspx.cs:行号 15
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 11:04:53,218 
+【线程编号】[15] 
+【执行时间】[238786]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/QaTaskList.aspx
+错误信息：值不能为 null。
+参数名: s
+堆栈內容：
+   在 System.IO.StringReader..ctor(String s)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   在 Jnwf.Utils.Json.JsonHelper.DeserializeJsonReturnList[T](String s)
+   在 QaTaskList.BindData() 位置 e:\Web\QaTaskList.aspx.cs:行号 38
+   在 QaTaskList.Page_Load(Object sender, EventArgs e) 位置 e:\Web\QaTaskList.aspx.cs:行号 15
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 13:51:53,733 
+【线程编号】[78] 
+【执行时间】[716]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】148 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“ProductType”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   在 desktop_Home.<BindData>b__4(DataRow c) 位置 e:\Web\Home.aspx.cs:行号 113
+   在 System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   在 System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   在 System.Web.UI.WebControls.Repeater.DataBind()
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 114 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 13:58:42,867 
+【线程编号】[80] 
+【执行时间】[67]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】148 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 78 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 13:58:45,677 
+【线程编号】[76] 
+【执行时间】[2877]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】148 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“ProductType”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   在 desktop_Home.<BindData>b__4(DataRow c) 位置 e:\Web\Home.aspx.cs:行号 113
+   在 System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   在 System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   在 System.Web.UI.WebControls.Repeater.DataBind()
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 114 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 14:16:17,115 
+【线程编号】[80] 
+【执行时间】[1054315]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/DetailsList.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 MasterPagehome.get_GetType() 位置 e:\Web\MasterPagehome.master.cs:行号 136
+   在 ASP.masterpagehome_master.__Renderform1(HtmlTextWriter __w, Control parameterContainer) 位置 e:\Web\MasterPagehome.master:行号 67
+   在 System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   在 System.Web.UI.HtmlControls.HtmlForm.RenderChildren(HtmlTextWriter writer)
+   在 System.Web.UI.HtmlControls.HtmlContainerControl.Render(HtmlTextWriter writer)
+   在 System.Web.UI.HtmlControls.HtmlForm.Render(HtmlTextWriter output)
+   在 System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.HtmlControls.HtmlForm.RenderControl(HtmlTextWriter writer)
+   在 System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   在 System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   在 System.Web.UI.Control.Render(HtmlTextWriter writer)
+   在 System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   在 System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   在 System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   在 System.Web.UI.Page.Render(HtmlTextWriter writer)
+   在 System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 14:27:28,672 
+【线程编号】[69] 
+【执行时间】[1725872]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】148 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 78 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 14:27:31,849 
+【线程编号】[69] 
+【执行时间】[1729048]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】148 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 78 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 14:29:04,834 
+【线程编号】[68] 
+【执行时间】[1822034]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】148 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“ProductType”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   在 desktop_Home.<BindData>b__4(DataRow c) 位置 e:\Web\Home.aspx.cs:行号 113
+   在 System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   在 System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   在 System.Web.UI.WebControls.Repeater.DataBind()
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 114 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 14:29:08,158 
+【线程编号】[11] 
+【执行时间】[1825358]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】148 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 78 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 14:29:10,666 
+【线程编号】[11] 
+【执行时间】[1827866]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】148 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 78 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 14:29:13,077 
+【线程编号】[71] 
+【执行时间】[1830277]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】148 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 78 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 14:29:15,116 
+【线程编号】[11] 
+【执行时间】[1832315]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】148 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“ProductType”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   在 desktop_Home.<BindData>b__4(DataRow c) 位置 e:\Web\Home.aspx.cs:行号 113
+   在 System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   在 System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   在 System.Web.UI.WebControls.Repeater.DataBind()
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 114 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 14:29:22,779 
+【线程编号】[11] 
+【执行时间】[1839979]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】148 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 78 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 14:29:25,019 
+【线程编号】[71] 
+【执行时间】[1842219]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】148 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“ProductType”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   在 desktop_Home.<BindData>b__4(DataRow c) 位置 e:\Web\Home.aspx.cs:行号 113
+   在 System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   在 System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   在 System.Web.UI.WebControls.Repeater.DataBind()
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 114 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 14:46:37,778 
+【线程编号】[71] 
+【执行时间】[85]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/DetailsList.aspx
+错误信息：e:\Web\MasterPagehome.master.cs(34): error CS1501: “GetType”方法没有任何重载采用 1 个参数
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.PostProcessFoundBuildResult(BuildResult result, Boolean keyFromVPP, VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetBuildResultFromCacheInternal(String cacheKey, Boolean keyFromVPP, VirtualPath virtualPath, Int64 hashCode, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultFromCacheInternal(VirtualPath virtualPath, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.UI.BaseTemplateParser.GetReferencedType(VirtualPath virtualPath, Boolean allowNoCompile)
+   在 System.Web.UI.PageParser.ProcessMainDirectiveAttribute(String deviceName, String name, String value, IDictionary parseData)
+   在 System.Web.UI.TemplateParser.ProcessMainDirective(IDictionary mainDirective) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 14:47:12,482 
+【线程编号】[71] 
+【执行时间】[34788]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/home.aspx
+错误信息：e:\Web\MasterPagehome.master.cs(34): error CS1501: “GetType”方法没有任何重载采用 1 个参数
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.PostProcessFoundBuildResult(BuildResult result, Boolean keyFromVPP, VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetBuildResultFromCacheInternal(String cacheKey, Boolean keyFromVPP, VirtualPath virtualPath, Int64 hashCode, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultFromCacheInternal(VirtualPath virtualPath, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.UI.BaseTemplateParser.GetReferencedType(VirtualPath virtualPath, Boolean allowNoCompile)
+   在 System.Web.UI.PageParser.ProcessMainDirectiveAttribute(String deviceName, String name, String value, IDictionary parseData)
+   在 System.Web.UI.TemplateParser.ProcessMainDirective(IDictionary mainDirective) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 14:47:57,399 
+【线程编号】[77] 
+【执行时间】[89]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】148 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 78 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 14:48:00,286 
+【线程编号】[74] 
+【执行时间】[2976]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】148 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“ProductType”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   在 desktop_Home.<BindData>b__4(DataRow c) 位置 e:\Web\Home.aspx.cs:行号 113
+   在 System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   在 System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   在 System.Web.UI.WebControls.Repeater.DataBind()
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 114 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 14:56:08,454 
+【线程编号】[77] 
+【执行时间】[491144]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】148 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 78 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 14:56:11,013 
+【线程编号】[9] 
+【执行时间】[493703]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】148 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“ProductType”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   在 desktop_Home.<BindData>b__4(DataRow c) 位置 e:\Web\Home.aspx.cs:行号 113
+   在 System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   在 System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   在 System.Web.UI.WebControls.Repeater.DataBind()
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 114 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 15:22:08,110 
+【线程编号】[53] 
+【执行时间】[2050800]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】148 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“ProductType”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   在 desktop_Home.<BindData>b__4(DataRow c) 位置 e:\Web\Home.aspx.cs:行号 113
+   在 System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   在 System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   在 System.Web.UI.WebControls.Repeater.DataBind()
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 114 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 15:23:58,462 
+【线程编号】[54] 
+【执行时间】[2161152]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】148 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1列“ProductType”不属于表 Table。|   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   在 desktop_Home.<BindData>b__4(DataRow c) 位置 e:\Web\Home.aspx.cs:行号 113
+   在 System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   在 System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   在 System.Web.UI.WebControls.Repeater.DataBind()
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 114 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 15:24:01,540 
+【线程编号】[49] 
+【执行时间】[2164229]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】148 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 78 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 16:20:48,801 
+【线程编号】[65] 
+【执行时间】[76]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】148 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 78 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 18:13:17,731 
+【线程编号】[27] 
+【执行时间】[301]毫秒 
+【出错文件】e:\Web\Home.aspx.cs 
+【出错行号】148 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】1数据源中没有 DataRow。|   在 System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   在 System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   在 desktop_Home.BindData() 位置 e:\Web\Home.aspx.cs:行号 78 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:05:13,061 
+【线程编号】[6] 
+【执行时间】[447]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:05:13,736 
+【线程编号】[15] 
+【执行时间】[1122]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:06:10,502 
+【线程编号】[6] 
+【执行时间】[57888]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:06:10,767 
+【线程编号】[25] 
+【执行时间】[58153]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:06:49,404 
+【线程编号】[22] 
+【执行时间】[96790]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:06:49,771 
+【线程编号】[36] 
+【执行时间】[97157]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:07:02,255 
+【线程编号】[22] 
+【执行时间】[109641]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:07:02,636 
+【线程编号】[36] 
+【执行时间】[110022]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:07:17,901 
+【线程编号】[43] 
+【执行时间】[125287]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:07:18,309 
+【线程编号】[36] 
+【执行时间】[125695]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:07:24,598 
+【线程编号】[43] 
+【执行时间】[131984]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:07:24,870 
+【线程编号】[43] 
+【执行时间】[132256]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:07:37,798 
+【线程编号】[22] 
+【执行时间】[145184]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/login.aspx
+错误信息：e:\Web\Login.aspx.cs(15): error CS0592: 特性“ExecTime”对此声明类型无效。它只对“assembly, class, struct, constructor, method, property, indexer, event, interface”声明有效。
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:07:55,189 
+【线程编号】[22] 
+【执行时间】[162575]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/login.aspx
+错误信息：e:\Web\Login.aspx.cs(15): error CS0592: 特性“ExecTime”对此声明类型无效。它只对“assembly, class, struct, constructor, method, property, indexer, event, interface”声明有效。
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:08:18,568 
+【线程编号】[36] 
+【执行时间】[185954]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:08:18,840 
+【线程编号】[43] 
+【执行时间】[186226]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:08:31,361 
+【线程编号】[43] 
+【执行时间】[198747]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:08:31,809 
+【线程编号】[22] 
+【执行时间】[199195]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:08:50,244 
+【线程编号】[36] 
+【执行时间】[217630]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:08:50,680 
+【线程编号】[36] 
+【执行时间】[218066]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:08:56,964 
+【线程编号】[36] 
+【执行时间】[224350]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:08:57,400 
+【线程编号】[36] 
+【执行时间】[224786]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:09:15,559 
+【线程编号】[22] 
+【执行时间】[242945]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:09:16,025 
+【线程编号】[10] 
+【执行时间】[243410]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:09:18,353 
+【线程编号】[22] 
+【执行时间】[245739]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/login.aspx
+错误信息：e:\Web\Login.aspx.cs(15): error CS0592: 特性“ExecTime”对此声明类型无效。它只对“assembly, class, struct, constructor, method, property, indexer, event, interface”声明有效。
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:11:11,548 
+【线程编号】[22] 
+【执行时间】[358934]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/login.aspx
+错误信息：e:\Web\Login.aspx.cs(15): error CS0592: 特性“ExecTime”对此声明类型无效。它只对“assembly, class, struct, constructor, method, property, indexer, event, interface”声明有效。
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:11:28,171 
+【线程编号】[36] 
+【执行时间】[89]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/login.aspx
+错误信息：e:\Web\Login.aspx.cs(15): error CS0592: 特性“ExecTime”对此声明类型无效。它只对“assembly, class, struct, constructor, method, property, indexer, event, interface”声明有效。
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:13:01,235 
+【线程编号】[13] 
+【执行时间】[93153]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:13:01,628 
+【线程编号】[7] 
+【执行时间】[93546]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:13:05,560 
+【线程编号】[14] 
+【执行时间】[97477]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:13:05,875 
+【线程编号】[13] 
+【执行时间】[97792]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:13:06,519 
+【线程编号】[14] 
+【执行时间】[98436]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:13:06,894 
+【线程编号】[43] 
+【执行时间】[98811]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:13:09,820 
+【线程编号】[13] 
+【执行时间】[101737]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:13:10,174 
+【线程编号】[35] 
+【执行时间】[102091]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:13:12,358 
+【线程编号】[7] 
+【执行时间】[104275]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:13:12,758 
+【线程编号】[13] 
+【执行时间】[104675]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:13:16,616 
+【线程编号】[35] 
+【执行时间】[108534]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:13:17,022 
+【线程编号】[13] 
+【执行时间】[108940]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:13:44,432 
+【线程编号】[7] 
+【执行时间】[136349]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:13:45,361 
+【线程编号】[13] 
+【执行时间】[137278]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:13:48,025 
+【线程编号】[35] 
+【执行时间】[139943]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:13:48,459 
+【线程编号】[35] 
+【执行时间】[140377]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:13:50,504 
+【线程编号】[14] 
+【执行时间】[142422]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:13:51,115 
+【线程编号】[17] 
+【执行时间】[143033]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:13:56,670 
+【线程编号】[14] 
+【执行时间】[148587]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:13:57,298 
+【线程编号】[35] 
+【执行时间】[149215]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:13:58,022 
+【线程编号】[43] 
+【执行时间】[149939]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:13:58,535 
+【线程编号】[13] 
+【执行时间】[150452]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:14:02,875 
+【线程编号】[13] 
+【执行时间】[154792]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:14:03,229 
+【线程编号】[13] 
+【执行时间】[155146]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:14:10,598 
+【线程编号】[43] 
+【执行时间】[162516]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:14:10,995 
+【线程编号】[14] 
+【执行时间】[162913]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:14:13,415 
+【线程编号】[14] 
+【执行时间】[165332]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:14:13,808 
+【线程编号】[14] 
+【执行时间】[165725]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:14:51,366 
+【线程编号】[35] 
+【执行时间】[203283]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:14:52,035 
+【线程编号】[35] 
+【执行时间】[203952]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:14:58,390 
+【线程编号】[25] 
+【执行时间】[210308]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:14:58,748 
+【线程编号】[7] 
+【执行时间】[210666]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:15:05,004 
+【线程编号】[17] 
+【执行时间】[216922]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:15:05,402 
+【线程编号】[7] 
+【执行时间】[217319]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:15:25,434 
+【线程编号】[35] 
+【执行时间】[237351]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:15:25,877 
+【线程编号】[25] 
+【执行时间】[237794]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:15:36,704 
+【线程编号】[25] 
+【执行时间】[248622]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:15:37,488 
+【线程编号】[35] 
+【执行时间】[249406]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:15:38,021 
+【线程编号】[25] 
+【执行时间】[249939]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:15:38,697 
+【线程编号】[35] 
+【执行时间】[250615]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:15:50,992 
+【线程编号】[13] 
+【执行时间】[262910]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:15:51,578 
+【线程编号】[43] 
+【执行时间】[263496]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:16:20,887 
+【线程编号】[35] 
+【执行时间】[292804]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:16:21,310 
+【线程编号】[25] 
+【执行时间】[293227]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:16:23,791 
+【线程编号】[17] 
+【执行时间】[295708]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:16:24,138 
+【线程编号】[7] 
+【执行时间】[296055]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:16:40,973 
+【线程编号】[43] 
+【执行时间】[312890]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:16:41,438 
+【线程编号】[35] 
+【执行时间】[313355]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:16:45,378 
+【线程编号】[14] 
+【执行时间】[317296]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>css/home.css
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-16 19:16:45,786 
+【线程编号】[25] 
+【执行时间】[317704]毫秒 
+【出错文件】e:\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】

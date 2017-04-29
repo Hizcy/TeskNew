@@ -1,0 +1,121 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-15 10:12:09,700 
+【线程编号】[11] 
+【执行时间】[316]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\upload.aspx.cs 
+【出错行号】82 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui3:ak:1G5S7rsUN6OROvmI0tAayz5PC8faGXnqWkcB5HLa,sk:ZJc2Gkv1orA7gwLHTs_JgOqdbpEAvcuV67rS6x0x,name:91zhepingou,file:20160615101203196.jpg,originalImagePath:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160615101203196.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-15 10:13:37,557 
+【线程编号】[11] 
+【执行时间】[88173]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】208 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-15 10:13:41,290 
+【线程编号】[11] 
+【执行时间】[91905]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】208 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-15 10:13:41,789 
+【线程编号】[11] 
+【执行时间】[92405]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】208 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-15 10:30:49,999 
+【线程编号】[31] 
+【执行时间】[96]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\upload.aspx.cs 
+【出错行号】82 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui3:ak:1G5S7rsUN6OROvmI0tAayz5PC8faGXnqWkcB5HLa,sk:ZJc2Gkv1orA7gwLHTs_JgOqdbpEAvcuV67rS6x0x,name:91zhepingou,file:20160615103049865.jpg,originalImagePath:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160615103049865.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-15 10:30:50,303 
+【线程编号】[31] 
+【执行时间】[400]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】201 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160615103049865.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-15 10:30:50,691 
+【线程编号】[31] 
+【执行时间】[787]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】204 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-15 10:30:50,691 
+【线程编号】[31] 
+【执行时间】[787]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】201 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160615103049865.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-15 10:30:50,767 
+【线程编号】[31] 
+【执行时间】[863]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】204 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-15 10:30:50,767 
+【线程编号】[31] 
+【执行时间】[863]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】201 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160615103049865.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-15 10:30:50,844 
+【线程编号】[31] 
+【执行时间】[940]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】204 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】

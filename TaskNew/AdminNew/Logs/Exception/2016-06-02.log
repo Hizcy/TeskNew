@@ -1,0 +1,22 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-02 15:52:25,259 
+【线程编号】[52] 
+【执行时间】[298]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】37 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-02 15:53:24,753 
+【线程编号】[49] 
+【执行时间】[59792]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】37 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】

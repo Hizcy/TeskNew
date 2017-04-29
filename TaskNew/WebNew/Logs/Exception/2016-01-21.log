@@ -1,0 +1,55 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-01-21 17:49:54,501 
+【线程编号】[31] 
+【执行时间】[234]毫秒 
+【出错文件】e:\Web\data\popup.aspx.cs 
+【出错行号】27 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-01-21 17:50:22,311 
+【线程编号】[29] 
+【执行时间】[28043]毫秒 
+【出错文件】e:\Web\data\popup.aspx.cs 
+【出错行号】27 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】https%3A%2F%2Fdetail.tmall.com%2Fitem.htm%3Fspm%3Da230r.1.14.6.VCIC0P%26id%3D522658593157%26cm_id%3D140105335569ed55e27b%26abbucket%3D7 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-01-21 17:55:11,632 
+【线程编号】[9] 
+【执行时间】[181]毫秒 
+【出错文件】e:\Web\data\popup.aspx.cs 
+【出错行号】27 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】https%3A%2F%2Fdetail.tmall.com%2Fitem.htm%3Fspm%3Da230r.1.14.6.VCIC0P%26id%3D522658593157%26cm_id%3D140105335569ed55e27b%26abbucket%3D7 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-01-21 18:02:56,900 
+【线程编号】[8] 
+【执行时间】[290]毫秒 
+【出错文件】e:\Web\data\popup.aspx.cs 
+【出错行号】27 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】https%3A%2F%2Fdetail.tmall.com%2Fitem.htm%3Fspm%3Da230r.1.14.6.VCIC0P%26id%3D522658593157%26cm_id%3D140105335569ed55e27b%26abbucket%3D7 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-01-21 18:03:47,099 
+【线程编号】[8] 
+【执行时间】[50488]毫秒 
+【出错文件】e:\Web\data\popup.aspx.cs 
+【出错行号】27 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】https%3A%2F%2Fdetail.tmall.com%2Fitem.htm%3Fspm%3Da230r.1.14.6.VCIC0P%26id%3D522658593157%26cm_id%3D140105335569ed55e27b%26abbucket%3D7 
+【错误详情】

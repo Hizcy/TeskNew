@@ -1,0 +1,91 @@
+﻿body {
+    font-family:"微软雅黑";
+    margin:0px;
+    padding:0px;
+}
+ .ys{position: fixed;left: 0px;top: 0px;}
+ .ys1{font-size: 18px;color: #ffffff;font-weight: bold;font-family:"微软雅黑";}
+ .zt{font-size: 14px;}
+ .mb{font-size: 16px;color: #ed306b;font-weight: bold;}
+ .sp{font-size: 16px;font-weight: bold;}
+ .ys2{margin:auto;line-height:25px;margin-top:5px;}
+ .ys3{background-color:#555555; display:none; margin-right:10px; padding-left:10px; padding-right:10px; line-height:30px; text-align:center; border-radius:3px;background-color:#ffffff;}
+ .ys4{font-size: 14px;color: #ed306b;font-weight: bold;}
+ .ys5{font-size:14px; color:#ed306b;}
+ .ys6{position: fixed;left: 0px;bottom: 0px;}
+ .ys7{font-size: 18px;color: #fff;font-weight: bold;}
+ .ys8{ display:none; margin-right:10px; padding-left:10px; padding-right:10px; line-height:30px; text-align:center; border-radius:3px;}
+
+ /*遮罩层   提示一*/
+ .zzc{margin:auto;border:5px solid #ed306b;width:99%}
+ .zzc_1_1{font-size: 14px; color: #ffffff;}
+ .zzc_1_2{font-size: 14px;color: #333333;}
+ .zzc_1_3{font-size: 16px;color: #ffffff;font-weight: bold;}
+ .zzc_1_4{font-size: 14px; color:red;height:20px;margin: -10px auto 5px; text-align:center;display:none}
+ .zzc_1_5{width: 100%;height:100%; position: fixed;  z-index:100000;padding-left:12%;font-family:"微软雅黑";display:none}
+ .zzc_1_6{width:70%;position:fixed;top:15%;background-color:white;}
+ .zzc_1_7{background-color:#ed306b;text-align:center;height:28px;line-height:28px;}
+ .zzc_1_8{height:40px;border-bottom:1px solid #dedede;}
+ .zzc_1_9{float:left;margin-left:10px;height:28px;line-height:40px;margin-top:3px;}
+ .zzc_1_10{float:left;margin-left:10px;height:40px;line-height:40px;cursor:pointer;}
+ .zzc_1_11{display:none;float:right; margin-right:10px; height:29px; margin-top:11px;}
+ .zzc_1_12{height:50px; text-align:center;}
+ .zzc_1_13{background-color:#ff436b; width:55px; float:right; margin-right:10px; margin-top:10px; line-height:30px; text-align:center; border-radius:3px;cursor:pointer;}
+ .zzc_1_14{background-color:#555555; width:55px; float:left; margin-left:10px; margin-top:10px; line-height:30px; text-align:center; border-radius:3px;cursor:pointer;}
+ .zzc_1_16{text-decoration: none;color:#333333}
+
+
+ /*申请成功*/
+ .zzc_2_1{display:none;width: 100%;height:100%;background: rgba(0,0,0,0.2); position: fixed;  z-index:100000;}
+ .zzc_2_2{position: fixed;left: 18%; top: 25%;background-color:#fff;width:60%;}
+ .zzc_2_3{padding:16px;text-align:center;color:#0aa3f1;border-bottom:1px solid #0aa3f1;font-size:30px;font-weight:600;}
+ .zzc_2_4{background-color:#fff;padding:10px;margin-top: -25px;}
+ .zzc_2_5{text-align:center;font-weight:600;}
+ .zzc_2_6{border-top:1px solid #fff;padding:12px;text-align:right;}
+ .zzc_2_7{text-align:center;padding:5px;cursor:pointer;font-weight:600;margin-top:-20px;}
+ .zzc_2_7{border-top-left-radius:5px;border-top-right-radius:5px;border-bottom-right-radius:5px;border-bottom-left-radius:5px;}
+
+
+
+
+
+
+ /*头部*/
+ .tb{width:100%;}
+ .tb_1{height:46px; width:100%; background-color: #ed306b; text-align:center; position:relative}
+ .tb_2{float:left; position:absolute; top:0px; padding-top:7px; left:0px; padding-left:10px; width:40px; height:35px; text-align:left; background-repeat:no-repeat}
+ .tb_3{margin:auto; line-height:46px;}
+
+
+ /*详情*/
+ .xq{width:90%; margin:auto; text-align:center; margin-top:10px;}
+ .xq_1{font-size:14px;line-height:20px;    font-family: "微软雅黑";}
+ .xq_2{width:90%;margin:auto;line-height:25px;border-top:3px solid #dedede;}
+ .xq_3{width:90%;margin:auto;line-height:25px;margin-top:3px;margin-left:5px;}
+ .xq_4{margin:auto;margin-top:8px;margin-left:5px;}
+ .xq_5{width:90%;margin:auto;line-height:25px;border-top:3px solid #dedede;margin-top:10px;}
+ .xq_6{width:90%;margin:auto;font-size: 14px; color: #ed306b;font-weight: bold;}
+
+ /*申请通过后*/
+ .shenqing{width:90%;margin:auto;margin-top:15px;padding-bottom:10px;}
+ .sq_1{line-height:25px;padding-bottom:5px;display:none;}
+ .sq_2{border-top:3px solid #cdcdcd; padding-top:10px;}
+ .sq_3{margin-top:10px;margin-bottom:10px;}
+ .sq_4{border-top:3px solid #dedede;margin-left:35px;}
+
+
+/*底部申请栏*/
+.dibu{width:100%; padding-bottom:10px; padding-top:10px; background-color:#ffffff; border-top:1px solid #dedede;}
+.db_1{background-color:#ed306b;line-height:30px; text-align:center; border-radius:3px;margin-left: 10px;margin-right: 10px;}
+.db_2{text-decoration:none;color:#fff;cursor:pointer;}
+.db_3{background-color:#555555;}
+.db_4{background-color:#ed306b;}
+.bd_5{text-decoration:none;color:#fff}
+.db_6{display:none; background-color:#555555; margin-right:10px; padding-left:10px; padding-right:10px; line-height:30px; text-align:center; border-radius:3px;}
+.db_7{text-decoration:none;color:#fff;cursor:pointer;}
+
+
+
+
+
+

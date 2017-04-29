@@ -1,0 +1,192 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-18 09:01:18,415 
+【线程编号】[8] 
+【执行时间】[100]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-18 11:25:15,874 
+【线程编号】[80] 
+【执行时间】[8637558]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-18 11:25:16,506 
+【线程编号】[80] 
+【执行时间】[8638190]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:6108/busines/tradeshilist.aspx?id=67
+错误信息：Could not cast or convert from System.Int64 to area.
+堆栈內容：
+   在 Newtonsoft.Json.Utilities.ConvertUtils.EnsureTypeAssignable(Object value, Type initialType, Type targetType)
+   在 Newtonsoft.Json.Utilities.ConvertUtils.ConvertOrCast(Object initialValue, CultureInfo culture, Type targetType)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(Object value, Type targetType) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-18 11:27:23,437 
+【线程编号】[80] 
+【执行时间】[8765121]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-18 11:27:23,540 
+【线程编号】[80] 
+【执行时间】[8765224]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:6108/busines/tradeshilist.aspx?id=67
+错误信息：Could not cast or convert from System.Int64 to area.
+堆栈內容：
+   在 Newtonsoft.Json.Utilities.ConvertUtils.EnsureTypeAssignable(Object value, Type initialType, Type targetType)
+   在 Newtonsoft.Json.Utilities.ConvertUtils.ConvertOrCast(Object initialValue, CultureInfo culture, Type targetType)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(Object value, Type targetType) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-18 11:27:25,644 
+【线程编号】[75] 
+【执行时间】[8767328]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-18 11:27:25,716 
+【线程编号】[75] 
+【执行时间】[8767400]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:6108/busines/tradeshilist.aspx?id=67
+错误信息：Could not cast or convert from System.Int64 to area.
+堆栈內容：
+   在 Newtonsoft.Json.Utilities.ConvertUtils.EnsureTypeAssignable(Object value, Type initialType, Type targetType)
+   在 Newtonsoft.Json.Utilities.ConvertUtils.ConvertOrCast(Object initialValue, CultureInfo culture, Type targetType)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(Object value, Type targetType) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-18 11:27:46,720 
+【线程编号】[75] 
+【执行时间】[8788404]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-18 11:27:46,775 
+【线程编号】[75] 
+【执行时间】[8788459]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:6108/busines/tradeshilist.aspx?id=67
+错误信息：Could not cast or convert from System.Int64 to area.
+堆栈內容：
+   在 Newtonsoft.Json.Utilities.ConvertUtils.EnsureTypeAssignable(Object value, Type initialType, Type targetType)
+   在 Newtonsoft.Json.Utilities.ConvertUtils.ConvertOrCast(Object initialValue, CultureInfo culture, Type targetType)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(Object value, Type targetType) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-18 11:27:50,000 
+【线程编号】[82] 
+【执行时间】[8791684]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-18 11:27:50,048 
+【线程编号】[82] 
+【执行时间】[8791732]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:6108/busines/tradeshilist.aspx?id=67
+错误信息：Could not cast or convert from System.Int64 to area.
+堆栈內容：
+   在 Newtonsoft.Json.Utilities.ConvertUtils.EnsureTypeAssignable(Object value, Type initialType, Type targetType)
+   在 Newtonsoft.Json.Utilities.ConvertUtils.ConvertOrCast(Object initialValue, CultureInfo culture, Type targetType)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(Object value, Type targetType) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-18 17:23:02,825 
+【线程编号】[46] 
+【执行时间】[123]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-18 17:28:32,770 
+【线程编号】[46] 
+【执行时间】[330067]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/busines/TaskShi.aspx
+错误信息：该字符串未被识别为有效的 DateTime。
+堆栈內容：
+   在 System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   在 System.DateTime.Parse(String s)
+   在 user_TaskShi.autoaudittime(String time, Int32 audit, Int32 id) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\busines\TaskShi.aspx.cs:行号 239
+   在 ASP.busines_taskshi_aspx.__DataBind__control4(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\busines\TaskShi.aspx:行号 65
+   在 System.Web.UI.Control.OnDataBinding(EventArgs e)
+   在 System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   在 System.Web.UI.Control.DataBind()
+   在 System.Web.UI.Control.DataBindChildren()
+   在 System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   在 System.Web.UI.Control.DataBind()
+   在 System.Web.UI.WebControls.Repeater.CreateItem(Int32 itemIndex, ListItemType itemType, Boolean dataBind, Object dataItem)
+   在 System.Web.UI.WebControls.Repeater.AddDataItemsIntoItemsArray(IEnumerable dataSource, Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.PostGetDataAction(IEnumerable dataSource)
+   在 System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   在 System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   在 System.Web.UI.WebControls.Repeater.DataBind()
+   在 user_TaskShi.BindData() 位置 d:\zhanglixiangmu\威小宝刷单\Admin\busines\TaskShi.aspx.cs:行号 88
+   在 user_TaskShi.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\busines\TaskShi.aspx.cs:行号 46
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】

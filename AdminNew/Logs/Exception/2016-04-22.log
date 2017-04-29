@@ -1,0 +1,966 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 09:24:48,538 
+【线程编号】[11] 
+【执行时间】[149]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 10:16:04,986 
+【线程编号】[43] 
+【执行时间】[153]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】114 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】platForm:1,activeMethod:1,activeName:男装,url:http://www.baidu.com,guanjianci:1,3,男装,seller:14,productType:1,price:150.00,productNum:10,activeNum:10,commissionPrice:3.00,guaranteePrice:0,productImage:http://localhost:35753/upimg/20160422101556694.jpg,listImage:http://localhost:35753/upimg/20160422101559982.jpg,activeType:1,message:<p>1.打开淘宝网站 2.产品大致在第--页 3.认准对比图上的主图，下单前假聊产品相关的5-10句 4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单 5.快递默认：-- 6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 10:32:09,410 
+【线程编号】[37] 
+【执行时间】[48]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 10:47:09,115 
+【线程编号】[34] 
+【执行时间】[50]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/data/data.aspx
+错误信息：d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs(117): error CS1502: 与“BasePage.SqlInject(string)”最匹配的重载方法具有一些无效参数
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 10:47:11,436 
+【线程编号】[37] 
+【执行时间】[2370]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/data/data.aspx
+错误信息：d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs(117): error CS1502: 与“BasePage.SqlInject(string)”最匹配的重载方法具有一些无效参数
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.PostProcessFoundBuildResult(BuildResult result, Boolean keyFromVPP, VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetBuildResultFromCacheInternal(String cacheKey, Boolean keyFromVPP, VirtualPath virtualPath, Int64 hashCode, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultFromCacheInternal(VirtualPath virtualPath, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 10:56:03,058 
+【线程编号】[29] 
+【执行时间】[48]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/data/data.aspx
+错误信息：d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs(117): error CS1502: 与“BasePage.SqlInject(string)”最匹配的重载方法具有一些无效参数
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 10:56:03,868 
+【线程编号】[17] 
+【执行时间】[858]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/data/data.aspx
+错误信息：d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs(117): error CS1502: 与“BasePage.SqlInject(string)”最匹配的重载方法具有一些无效参数
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.PostProcessFoundBuildResult(BuildResult result, Boolean keyFromVPP, VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetBuildResultFromCacheInternal(String cacheKey, Boolean keyFromVPP, VirtualPath virtualPath, Int64 hashCode, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultFromCacheInternal(VirtualPath virtualPath, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 11:18:37,108 
+【线程编号】[32] 
+【执行时间】[71]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 11:19:01,025 
+【线程编号】[16] 
+【执行时间】[23987]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】114 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】taskid:57,platForm:1,activeMethod:2,activeName:男装,url:http://www.baidu.com,guanjianci:1,3,男装,seller:14,productType:1,price:150.00,productNum:30,activeNum:10,commissionPrice:3,guaranteePrice:4590,productImage:http://localhost:35753/upimg/20151221161834023.jpg,listImage:http://localhost:35753/upimg/20151221161834023.jpg,activeType:1,message:<p>1.打开淘宝网站 2.产品大致在第--页 3.认准对比图上的主图，下单前假聊产品相关的5-10句 4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单 5.快递默认：-- 6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 11:19:01,090 
+【线程编号】[16] 
+【执行时间】[24053]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】131 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission:为过程或函数 pro_AddTask 指定了过多的参数。|   在 Task.DAL.tb_TaskDataAccessLayer.InsertTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\DAL\tb_TaskDalExt.cs:行号 232
+   在 Task.BLL.tb_TaskBLL.InsertTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\BLL\tb_TaskLogic.cs:行号 93
+   在 data_data.addCommission(String taskid, String platForm, String activeMethod, String activeName, String url, String guanjianci, String seller, String productType, String price, String productNum, String activeNum, String commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs:行号 117 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 11:23:55,368 
+【线程编号】[6] 
+【执行时间】[158]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】114 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】taskid:57,platForm:1,activeMethod:2,activeName:男装,url:http://www.baidu.com,guanjianci:1,3,男装,seller:14,productType:1,price:150.00,productNum:30,activeNum:6,commissionPrice:3,guaranteePrice:4590,productImage:http://localhost:35753/upimg/20151221161834023.jpg,listImage:http://localhost:35753/upimg/20151221161834023.jpg,activeType:1,message:<p>1.打开淘宝网站 2.产品大致在第--页 3.认准对比图上的主图，下单前假聊产品相关的5-10句 4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单 5.快递默认：-- 6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 11:24:16,631 
+【线程编号】[6] 
+【执行时间】[21421]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】114 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】taskid:57,platForm:1,activeMethod:2,activeName:男装,url:http://www.baidu.com,guanjianci:1,3,男装,seller:14,productType:1,price:150.00,productNum:30,activeNum:6,commissionPrice:3,guaranteePrice:4590,productImage:http://localhost:35753/upimg/20151221161834023.jpg,listImage:http://localhost:35753/upimg/20151221161834023.jpg,activeType:1,message:<p>1.打开淘宝网站 2.产品大致在第--页 3.认准对比图上的主图，下单前假聊产品相关的5-10句 4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单 5.快递默认：-- 6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 11:25:52,787 
+【线程编号】[6] 
+【执行时间】[117577]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】131 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission:为过程或函数 pro_AddTask 指定了过多的参数。|   在 Task.DAL.tb_TaskDataAccessLayer.InsertTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\DAL\tb_TaskDalExt.cs:行号 232
+   在 Task.BLL.tb_TaskBLL.InsertTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\BLL\tb_TaskLogic.cs:行号 93
+   在 data_data.addCommission(String taskid, String platForm, String activeMethod, String activeName, String url, String guanjianci, String seller, String productType, String price, String productNum, String activeNum, String commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs:行号 117 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 11:26:02,322 
+【线程编号】[6] 
+【执行时间】[127111]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】114 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】taskid:57,platForm:1,activeMethod:2,activeName:男装,url:http://www.baidu.com,guanjianci:1,3,男装,seller:14,productType:1,price:150.00,productNum:30,activeNum:6,commissionPrice:3,guaranteePrice:4590,productImage:http://localhost:35753/upimg/20151221161834023.jpg,listImage:http://localhost:35753/upimg/20151221161834023.jpg,activeType:1,message:<p>1.打开淘宝网站 2.产品大致在第--页 3.认准对比图上的主图，下单前假聊产品相关的5-10句 4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单 5.快递默认：-- 6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 11:26:03,671 
+【线程编号】[6] 
+【执行时间】[128461]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】131 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission:为过程或函数 pro_AddTask 指定了过多的参数。|   在 Task.DAL.tb_TaskDataAccessLayer.InsertTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\DAL\tb_TaskDalExt.cs:行号 232
+   在 Task.BLL.tb_TaskBLL.InsertTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\BLL\tb_TaskLogic.cs:行号 93
+   在 data_data.addCommission(String taskid, String platForm, String activeMethod, String activeName, String url, String guanjianci, String seller, String productType, String price, String productNum, String activeNum, String commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs:行号 117 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 11:26:14,882 
+【线程编号】[6] 
+【执行时间】[139672]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】114 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】taskid:57,platForm:1,activeMethod:2,activeName:男装,url:http://www.baidu.com,guanjianci:1,3,男装,seller:14,productType:1,price:150.00,productNum:30,activeNum:6,commissionPrice:3,guaranteePrice:4590,productImage:http://localhost:35753/upimg/20151221161834023.jpg,listImage:http://localhost:35753/upimg/20151221161834023.jpg,activeType:1,message:<p>1.打开淘宝网站 2.产品大致在第--页 3.认准对比图上的主图，下单前假聊产品相关的5-10句 4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单 5.快递默认：-- 6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 11:29:53,137 
+【线程编号】[6] 
+【执行时间】[357927]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】131 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission:为过程或函数 pro_AddTask 指定了过多的参数。|   在 Task.DAL.tb_TaskDataAccessLayer.InsertTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\DAL\tb_TaskDalExt.cs:行号 232
+   在 Task.BLL.tb_TaskBLL.InsertTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\BLL\tb_TaskLogic.cs:行号 93
+   在 data_data.addCommission(String taskid, String platForm, String activeMethod, String activeName, String url, String guanjianci, String seller, String productType, String price, String productNum, String activeNum, String commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs:行号 117 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 11:30:21,250 
+【线程编号】[6] 
+【执行时间】[71]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】114 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】taskid:57,platForm:1,activeMethod:2,activeName:男装,url:http://www.baidu.com,guanjianci:1,3,男装,seller:14,productType:1,price:150.00,productNum:30,activeNum:6,commissionPrice:3,guaranteePrice:4590,productImage:http://localhost:35753/upimg/20151221161834023.jpg,listImage:http://localhost:35753/upimg/20151221161834023.jpg,activeType:1,message:<p>1.打开淘宝网站 2.产品大致在第--页 3.认准对比图上的主图，下单前假聊产品相关的5-10句 4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单 5.快递默认：-- 6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 11:30:21,438 
+【线程编号】[6] 
+【执行时间】[259]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】131 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission:未将对象引用设置到对象的实例。|   在 Task.DAL.tb_TaskDataAccessLayer.InsertTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\DAL\tb_TaskDalExt.cs:行号 232
+   在 Task.BLL.tb_TaskBLL.InsertTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\BLL\tb_TaskLogic.cs:行号 93
+   在 data_data.addCommission(String taskid, String platForm, String activeMethod, String activeName, String url, String guanjianci, String seller, String productType, String price, String productNum, String activeNum, String commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs:行号 117 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 11:54:10,576 
+【线程编号】[38] 
+【执行时间】[51]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 11:54:39,430 
+【线程编号】[33] 
+【执行时间】[28905]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】152 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】taskid:57,platForm:1,activeMethod:2,activeName:男装,url:http://www.baidu.com,guanjianci:1,1,男装,seller:14,productType:1,price:150.00,productNum:50,activeNum:20,commissionPrice:3,guaranteePrice:7650,productImage:http://localhost:35753/upimg/20151221161834023.jpg,listImage:http://localhost:35753/upimg/20151221161834023.jpg,activeType:1,message:<p>1.打开淘宝网站 2.产品大致在第--页 3.认准对比图上的主图，下单前假聊产品相关的5-10句 4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单 5.快递默认：-- 6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 11:54:39,516 
+【线程编号】[33] 
+【执行时间】[28991]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】169 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission:未将对象引用设置到对象的实例。|   在 Task.DAL.tb_TaskDataAccessLayer.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\DAL\tb_TaskDalExt.cs:行号 378
+   在 Task.BLL.tb_TaskBLL.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\BLL\tb_TaskLogic.cs:行号 139
+   在 data_data.updateCommission(String taskid, String platForm, String activeMethod, String activeName, String url, String guanjianci, String seller, String productType, String price, String productNum, String activeNum, String commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs:行号 155 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 11:55:51,301 
+【线程编号】[6] 
+【执行时间】[144]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】152 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】taskid:57,platForm:1,activeMethod:2,activeName:男装,url:http://www.baidu.com,guanjianci:1,1,男装,seller:14,productType:1,price:150.00,productNum:100,activeNum:14,commissionPrice:3,guaranteePrice:15300,productImage:http://localhost:35753/upimg/20151221161834023.jpg,listImage:http://localhost:35753/upimg/20151221161834023.jpg,activeType:1,message:<p>1.打开淘宝网站 2.产品大致在第--页 3.认准对比图上的主图，下单前假聊产品相关的5-10句 4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单 5.快递默认：-- 6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 11:56:04,811 
+【线程编号】[6] 
+【执行时间】[13654]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】169 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission:未将对象引用设置到对象的实例。|   在 Task.DAL.tb_TaskDataAccessLayer.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\DAL\tb_TaskDalExt.cs:行号 378
+   在 Task.BLL.tb_TaskBLL.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\BLL\tb_TaskLogic.cs:行号 139
+   在 data_data.updateCommission(String taskid, String platForm, String activeMethod, String activeName, String url, String guanjianci, String seller, String productType, String price, String productNum, String activeNum, String commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs:行号 155 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 12:04:05,314 
+【线程编号】[9] 
+【执行时间】[494157]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】152 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】taskid:57,platForm:1,activeMethod:2,activeName:男装,url:http://www.baidu.com,guanjianci:1,3,dadad,seller:14,productType:1,price:150.00,productNum:100,activeNum:14,commissionPrice:3,guaranteePrice:15300,productImage:http://localhost:35753/upimg/20151221161834023.jpg,listImage:http://localhost:35753/upimg/20151221161834023.jpg,activeType:1,message:<p>1.打开淘宝网站 2.产品大致在第--页 3.认准对比图上的主图，下单前假聊产品相关的5-10句 4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单 5.快递默认：-- 6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 12:04:06,350 
+【线程编号】[9] 
+【执行时间】[495192]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】169 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission:未将对象引用设置到对象的实例。|   在 Task.DAL.tb_TaskDataAccessLayer.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\DAL\tb_TaskDalExt.cs:行号 378
+   在 Task.BLL.tb_TaskBLL.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\BLL\tb_TaskLogic.cs:行号 139
+   在 data_data.updateCommission(String taskid, String platForm, String activeMethod, String activeName, String url, String guanjianci, String seller, String productType, String price, String productNum, String activeNum, String commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs:行号 155 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 12:04:26,583 
+【线程编号】[9] 
+【执行时间】[515425]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】152 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】taskid:57,platForm:1,activeMethod:2,activeName:男装,url:http://www.baidu.com,guanjianci:1,2,dadad,seller:14,productType:1,price:150.00,productNum:100,activeNum:14,commissionPrice:3.00,guaranteePrice:0,productImage:http://localhost:35753/upimg/20151221161834023.jpg,listImage:http://localhost:35753/upimg/20151221161834023.jpg,activeType:1,message:<p>1.打开淘宝网站 2.产品大致在第--页 3.认准对比图上的主图，下单前假聊产品相关的5-10句 4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单 5.快递默认：-- 6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 12:04:27,700 
+【线程编号】[9] 
+【执行时间】[516543]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】169 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission:未将对象引用设置到对象的实例。|   在 Task.DAL.tb_TaskDataAccessLayer.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\DAL\tb_TaskDalExt.cs:行号 378
+   在 Task.BLL.tb_TaskBLL.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\BLL\tb_TaskLogic.cs:行号 139
+   在 data_data.updateCommission(String taskid, String platForm, String activeMethod, String activeName, String url, String guanjianci, String seller, String productType, String price, String productNum, String activeNum, String commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs:行号 155 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 12:05:01,561 
+【线程编号】[12] 
+【执行时间】[550403]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】152 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】taskid:57,platForm:1,activeMethod:1,activeName:男装,url:http://www.baidu.com,guanjianci:1,3,dadad,seller:25,productType:10,price:150.00,productNum:100,activeNum:14,commissionPrice:3.00,guaranteePrice:0,productImage:http://localhost:35753/upimg/20151221161834023.jpg,listImage:http://localhost:35753/upimg/20151221161834023.jpg,activeType:1,message:<p>1.打开淘宝网站 2.产品大致在第--页 3.认准对比图上的主图，下单前假聊产品相关的5-10句 4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单 5.快递默认：-- 6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 12:05:02,700 
+【线程编号】[12] 
+【执行时间】[551542]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】169 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission:未将对象引用设置到对象的实例。|   在 Task.DAL.tb_TaskDataAccessLayer.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\DAL\tb_TaskDalExt.cs:行号 378
+   在 Task.BLL.tb_TaskBLL.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\BLL\tb_TaskLogic.cs:行号 139
+   在 data_data.updateCommission(String taskid, String platForm, String activeMethod, String activeName, String url, String guanjianci, String seller, String productType, String price, String productNum, String activeNum, String commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs:行号 155 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 12:10:51,706 
+【线程编号】[18] 
+【执行时间】[900549]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】152 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】taskid:57,platForm:1,activeMethod:1,activeName:男装,url:http://www.baidu.com,guanjianci:,,dadad,seller:25,productType:10,price:150.00,productNum:100,activeNum:14,commissionPrice:3.00,guaranteePrice:0,productImage:http://localhost:35753/upimg/20151221161834023.jpg,listImage:http://localhost:35753/upimg/20151221161834023.jpg,activeType:1,message:<p>1.打开淘宝网站 2.产品大致在第--页 3.认准对比图上的主图，下单前假聊产品相关的5-10句 4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单 5.快递默认：-- 6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 12:11:03,999 
+【线程编号】[18] 
+【执行时间】[912841]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】169 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission:未将对象引用设置到对象的实例。|   在 Task.DAL.tb_TaskDataAccessLayer.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\DAL\tb_TaskDalExt.cs:行号 378
+   在 Task.BLL.tb_TaskBLL.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\BLL\tb_TaskLogic.cs:行号 139
+   在 data_data.updateCommission(String taskid, String platForm, String activeMethod, String activeName, String url, String guanjianci, String seller, String productType, String price, String productNum, String activeNum, String commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs:行号 155 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 12:11:23,054 
+【线程编号】[14] 
+【执行时间】[931897]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】152 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】taskid:57,platForm:1,activeMethod:1,activeName:男装,url:http://www.baidu.com,guanjianci:,,dadad,seller:25,productType:10,price:150.00,productNum:100,activeNum:14,commissionPrice:3.00,guaranteePrice:0,productImage:http://localhost:35753/upimg/20151221161834023.jpg,listImage:http://localhost:35753/upimg/20151221161834023.jpg,activeType:1,message:<p>1.打开淘宝网站 2.产品大致在第--页 3.认准对比图上的主图，下单前假聊产品相关的5-10句 4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单 5.快递默认：-- 6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 12:11:24,519 
+【线程编号】[14] 
+【执行时间】[933362]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】169 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission:未将对象引用设置到对象的实例。|   在 Task.DAL.tb_TaskDataAccessLayer.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\DAL\tb_TaskDalExt.cs:行号 378
+   在 Task.BLL.tb_TaskBLL.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\BLL\tb_TaskLogic.cs:行号 139
+   在 data_data.updateCommission(String taskid, String platForm, String activeMethod, String activeName, String url, String guanjianci, String seller, String productType, String price, String productNum, String activeNum, String commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs:行号 155 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 12:12:28,512 
+【线程编号】[18] 
+【执行时间】[997354]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】152 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】taskid:57,platForm:1,activeMethod:1,activeName:男装,url:http://www.baidu.com,guanjianci:,,dadad,seller:25,productType:10,price:150.00,productNum:100,activeNum:14,commissionPrice:3.00,guaranteePrice:0,productImage:http://localhost:35753/upimg/20151221161834023.jpg,listImage:http://localhost:35753/upimg/20151221161834023.jpg,activeType:1,message:<p>1.打开淘宝网站 2.产品大致在第--页 3.认准对比图上的主图，下单前假聊产品相关的5-10句 4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单 5.快递默认：-- 6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 12:12:30,169 
+【线程编号】[18] 
+【执行时间】[999011]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】169 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission:未将对象引用设置到对象的实例。|   在 Task.DAL.tb_TaskDataAccessLayer.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\DAL\tb_TaskDalExt.cs:行号 378
+   在 Task.BLL.tb_TaskBLL.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\BLL\tb_TaskLogic.cs:行号 139
+   在 data_data.updateCommission(String taskid, String platForm, String activeMethod, String activeName, String url, String guanjianci, String seller, String productType, String price, String productNum, String activeNum, String commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs:行号 155 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 12:16:54,434 
+【线程编号】[20] 
+【执行时间】[1263276]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】152 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】taskid:57,platForm:1,activeMethod:1,activeName:男装,url:http://www.baidu.com,guanjianci:1,3,dadad,seller:25,productType:10,price:150.00,productNum:100,activeNum:14,commissionPrice:3.00,guaranteePrice:0,productImage:http://localhost:35753/upimg/20151221161834023.jpg,listImage:http://localhost:35753/upimg/20151221161834023.jpg,activeType:1,message:<p>1.打开淘宝网站 2.产品大致在第--页 3.认准对比图上的主图，下单前假聊产品相关的5-10句 4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单 5.快递默认：-- 6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 12:16:58,081 
+【线程编号】[20] 
+【执行时间】[1266924]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】169 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission:未将对象引用设置到对象的实例。|   在 Task.DAL.tb_TaskDataAccessLayer.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\DAL\tb_TaskDalExt.cs:行号 378
+   在 Task.BLL.tb_TaskBLL.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\BLL\tb_TaskLogic.cs:行号 139
+   在 data_data.updateCommission(String taskid, String platForm, String activeMethod, String activeName, String url, String guanjianci, String seller, String productType, String price, String productNum, String activeNum, String commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs:行号 155 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 12:17:23,713 
+【线程编号】[20] 
+【执行时间】[1292556]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】152 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】taskid:57,platForm:1,activeMethod:1,activeName:男装,url:http://www.baidu.com,guanjianci:1,1,1545,seller:25,productType:10,price:150.00,productNum:100,activeNum:14,commissionPrice:3.00,guaranteePrice:0,productImage:http://localhost:35753/upimg/20151221161834023.jpg,listImage:http://localhost:35753/upimg/20151221161834023.jpg,activeType:1,message:<p>1.打开淘宝网站 2.产品大致在第--页 3.认准对比图上的主图，下单前假聊产品相关的5-10句 4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单 5.快递默认：-- 6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 12:17:24,995 
+【线程编号】[20] 
+【执行时间】[1293838]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】169 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission:未将对象引用设置到对象的实例。|   在 Task.DAL.tb_TaskDataAccessLayer.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\DAL\tb_TaskDalExt.cs:行号 378
+   在 Task.BLL.tb_TaskBLL.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\BLL\tb_TaskLogic.cs:行号 139
+   在 data_data.updateCommission(String taskid, String platForm, String activeMethod, String activeName, String url, String guanjianci, String seller, String productType, String price, String productNum, String activeNum, String commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs:行号 155 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 12:18:17,143 
+【线程编号】[14] 
+【执行时间】[1345985]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】152 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】taskid:57,platForm:1,activeMethod:1,activeName:男装,url:http://www.baidu.com,guanjianci:1,2,1545,seller:25,productType:10,price:150.00,productNum:100,activeNum:14,commissionPrice:3.00,guaranteePrice:0,productImage:http://localhost:35753/upimg/20151221161834023.jpg,listImage:http://localhost:35753/upimg/20151221161834023.jpg,activeType:1,message:<p>1.打开淘宝网站 2.产品大致在第--页 3.认准对比图上的主图，下单前假聊产品相关的5-10句 4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单 5.快递默认：-- 6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 12:18:18,826 
+【线程编号】[14] 
+【执行时间】[1347668]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】169 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission:未将对象引用设置到对象的实例。|   在 Task.DAL.tb_TaskDataAccessLayer.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\DAL\tb_TaskDalExt.cs:行号 378
+   在 Task.BLL.tb_TaskBLL.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\BLL\tb_TaskLogic.cs:行号 139
+   在 data_data.updateCommission(String taskid, String platForm, String activeMethod, String activeName, String url, String guanjianci, String seller, String productType, String price, String productNum, String activeNum, String commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs:行号 155 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 13:02:22,556 
+【线程编号】[22] 
+【执行时间】[3991399]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 13:03:36,400 
+【线程编号】[22] 
+【执行时间】[4065243]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】123 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】platForm:1,activeMethod:2,activeName:测试,url:http://baidu.com,guanjianci:1,3,15,seller:36,productType:9,price:1,productNum:10,activeNum:6,commissionPrice:2,guaranteePrice:30,productImage:http://localhost:35753/upimg/20160422130323198.jpg,listImage:http://localhost:35753/upimg/20160422130330434.jpg,activeType:1,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 13:07:11,362 
+【线程编号】[22] 
+【执行时间】[4280205]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】152 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】taskid:123,platForm:1,activeMethod:2,activeName:测试,url:http://baidu.com,guanjianci:1,2,15,seller:36,productType:9,price:1.00,productNum:10,activeNum:6,commissionPrice:2.00,guaranteePrice:0,productImage:http://localhost:35753/upimg/20160422130323198.jpg,listImage:http://localhost:35753/upimg/20160422130330434.jpg,activeType:1,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 13:07:19,893 
+【线程编号】[22] 
+【执行时间】[4288735]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】169 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission:未将对象引用设置到对象的实例。|   在 Task.DAL.tb_TaskDataAccessLayer.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\DAL\tb_TaskDalExt.cs:行号 378
+   在 Task.BLL.tb_TaskBLL.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\BLL\tb_TaskLogic.cs:行号 139
+   在 data_data.updateCommission(String taskid, String platForm, String activeMethod, String activeName, String url, String guanjianci, String seller, String productType, String price, String productNum, String activeNum, String commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs:行号 155 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 13:07:49,694 
+【线程编号】[26] 
+【执行时间】[4318536]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】152 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】taskid:123,platForm:1,activeMethod:2,activeName:测试,url:http://baidu.com,guanjianci:1,1,15,seller:36,productType:9,price:1.00,productNum:10,activeNum:6,commissionPrice:2.00,guaranteePrice:0,productImage:http://localhost:35753/upimg/20160422130323198.jpg,listImage:http://localhost:35753/upimg/20160422130330434.jpg,activeType:1,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 13:07:50,882 
+【线程编号】[26] 
+【执行时间】[4319724]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】169 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission:未将对象引用设置到对象的实例。|   在 Task.DAL.tb_TaskDataAccessLayer.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\DAL\tb_TaskDalExt.cs:行号 378
+   在 Task.BLL.tb_TaskBLL.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\BLL\tb_TaskLogic.cs:行号 139
+   在 data_data.updateCommission(String taskid, String platForm, String activeMethod, String activeName, String url, String guanjianci, String seller, String productType, String price, String productNum, String activeNum, String commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs:行号 155 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 13:14:18,438 
+【线程编号】[20] 
+【执行时间】[4707280]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】152 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,taskid:123,platForm:1,activeMethod:2,activeName:测试,url:http://baidu.com,guanjianci:1,3,15,seller:36,productType:9,price:1.00,productNum:10,activeNum:10,commissionPrice:2.00,guaranteePrice:0,productImage:http://localhost:35753/upimg/20160422130323198.jpg,listImage:http://localhost:35753/upimg/20160422130330434.jpg,activeType:1,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 13:14:41,091 
+【线程编号】[20] 
+【执行时间】[4729933]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】169 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission:未将对象引用设置到对象的实例。|   在 Task.DAL.tb_TaskDataAccessLayer.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\DAL\tb_TaskDalExt.cs:行号 378
+   在 Task.BLL.tb_TaskBLL.updateTask(Int32 taskid, String activeName, Int32 userId, Int32 activeType, Int32 activeMethod, Int32 seller, String productImage, String url, Int32 productType, Decimal price, Int32 productNum, Int32 activeNum, Decimal commissionPrice, Int32 isPlatform, Int32 replaceProduct, Int32 isChat, Int32 isCollect, Int32 isReceiveChat, Int32 isUpload, Int32 isStop, Int32 stopTime, Int32 isEvaluate, Int32 isMessage, String evaluate, String message, Int32 isAudit, Int32 isLimit, Decimal platformPrice, String listImage, Decimal guaranteePrice, String keyworld1, String keyworld2, String keyworld3, String keyworld4, String keyworld5) 位置 d:\zhanglixiangmu\威小宝刷单\BLL\tb_TaskLogic.cs:行号 139
+   在 data_data.updateCommission(String taskid, String platForm, String activeMethod, String activeName, String url, String guanjianci, String seller, String productType, String price, String productNum, String activeNum, String commissionPrice, String guaranteePrice, String productImage, String listImage, String activeType, String message) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs:行号 155 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 13:20:45,820 
+【线程编号】[26] 
+【执行时间】[5094663]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】152 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,taskid:123,platForm:1,activeMethod:2,activeName:测试,url:http://baidu.com,guanjianci:1,2,15,seller:36,productType:9,price:1.00,productNum:10,activeNum:20,commissionPrice:2.00,guaranteePrice:0,productImage:http://localhost:35753/upimg/20160422130323198.jpg,listImage:http://localhost:35753/upimg/20160422130330434.jpg,activeType:1,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 13:52:34,498 
+【线程编号】[8] 
+【执行时间】[207]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 17:01:33,422 
+【线程编号】[9] 
+【执行时间】[73]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 17:14:55,953 
+【线程编号】[18] 
+【执行时间】[802604]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/Details.aspx?id=122
+错误信息：文件“/Details.aspx”不存在。
+堆栈內容：
+   在 System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 17:15:03,644 
+【线程编号】[23] 
+【执行时间】[810294]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/Details.aspx?id=122
+错误信息：文件“/Details.aspx”不存在。
+堆栈內容：
+   在 System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 17:15:11,454 
+【线程编号】[6] 
+【执行时间】[818104]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/Details.aspx?id=117
+错误信息：文件“/Details.aspx”不存在。
+堆栈內容：
+   在 System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 17:15:23,985 
+【线程编号】[23] 
+【执行时间】[830636]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/Details.aspx?id=80
+错误信息：文件“/Details.aspx”不存在。
+堆栈內容：
+   在 System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 17:45:48,313 
+【线程编号】[13] 
+【执行时间】[2654964]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 17:45:53,592 
+【线程编号】[20] 
+【执行时间】[2660243]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:fu5kjq0vyyyppci5spc03oys 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 17:45:53,594 
+【线程编号】[20] 
+【执行时间】[2660245]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:7CB695F2C2CC9B6C0B937C0C4F44DFE93BB00FD15F3E74919C5D6E0968CABAFBB264A98189A1D2CDCF4F705CF56678F97AFE5214726B9BA72EFE9C854018C449BF393597559B4F7FB90E6A30B86C749562A5846C5F79DC1F35C0E71F85F9BADFB6F0A2959885858D6F01DBACA7C280AC81090AE00C56B24B4159DF4BF3AE66C7E9B8A1FF14FDC043CA75F6EF2DCCDC868FCF74AE9F98B7A1B0B1C1FB3EE19C9E61921E8531111CCE0FB1059CF9F7FBA77436AE04E850F84FC424EB03B6D9C474 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 17:46:15,030 
+【线程编号】[15] 
+【执行时间】[2681681]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】152 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,taskid:132,platForm:1,activeMethod:1,activeName:http://baidu.com,url:http://baidu.com,guanjianci:1,2,试试,seller:14,productType:1,price:5.00,productNum:5,activeNum:8,commissionPrice:0.00,guaranteePrice:0,productImage:http://localhost:35753/upimg/20160420145451152.jpg,listImage:http://localhost:35753/upimg/20160420145453556.jpg,activeType:1,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 17:52:38,285 
+【线程编号】[14] 
+【执行时间】[3064936]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 17:52:41,452 
+【线程编号】[19] 
+【执行时间】[3068103]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:fu5kjq0vyyyppci5spc03oys 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 17:52:41,455 
+【线程编号】[19] 
+【执行时间】[3068106]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:7CB695F2C2CC9B6C0B937C0C4F44DFE93BB00FD15F3E74919C5D6E0968CABAFBB264A98189A1D2CDCF4F705CF56678F97AFE5214726B9BA72EFE9C854018C449BF393597559B4F7FB90E6A30B86C749562A5846C5F79DC1F35C0E71F85F9BADFB6F0A2959885858D6F01DBACA7C280AC81090AE00C56B24B4159DF4BF3AE66C7E9B8A1FF14FDC043CA75F6EF2DCCDC868FCF74AE9F98B7A1B0B1C1FB3EE19C9E61921E8531111CCE0FB1059CF9F7FBA77436AE04E850F84FC424EB03B6D9C474 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 17:53:14,381 
+【线程编号】[10] 
+【执行时间】[3101032]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】152 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,taskid:131,platForm:3,activeMethod:1,activeName:http://baiddddu.com,url:http://baidu.com,guanjianci:1,2,试试ss,seller:14,productType:1,price:5.00,productNum:5,activeNum:10,commissionPrice:2,guaranteePrice:35,productImage:http://localhost:35753/upimg/20160420145451152.jpg,listImage:http://localhost:35753/upimg/20160420145453556.jpg,activeType:1,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 17:56:42,136 
+【线程编号】[10] 
+【执行时间】[3308787]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:fu5kjq0vyyyppci5spc03oys 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 17:56:42,137 
+【线程编号】[10] 
+【执行时间】[3308788]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:A40346D517B4C8EDDB910495789087021226BCB83F5CA0E21AB1BAE6529225E6594B34C5EE1E02E807BEE5EB19035E5BB8382A11FD98F07EACD4CE7F39DD00BAB8B7A56FF0C26D4AA44C6CA2FA18FAACBCFACE896A449AD9AA698801EE47D874D8AFE4607BC5F2B859B44C74E3CC1922005BB08EBEAD1EE58300612E307A01FC3F6C4987FD4A4D1D0C666AA3A3C9CF9AEA4E00AD92C26F8865CCEA3DE632DD2871DFD98070FD9BE06E3220C81CF5329363E34A1DC146E3AE174BDEDB4935FE8C 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 17:57:39,267 
+【线程编号】[9] 
+【执行时间】[3365918]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:fu5kjq0vyyyppci5spc03oys 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 17:57:39,269 
+【线程编号】[9] 
+【执行时间】[3365920]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:A40346D517B4C8EDDB910495789087021226BCB83F5CA0E21AB1BAE6529225E6594B34C5EE1E02E807BEE5EB19035E5BB8382A11FD98F07EACD4CE7F39DD00BAB8B7A56FF0C26D4AA44C6CA2FA18FAACBCFACE896A449AD9AA698801EE47D874D8AFE4607BC5F2B859B44C74E3CC1922005BB08EBEAD1EE58300612E307A01FC3F6C4987FD4A4D1D0C666AA3A3C9CF9AEA4E00AD92C26F8865CCEA3DE632DD2871DFD98070FD9BE06E3220C81CF5329363E34A1DC146E3AE174BDEDB4935FE8C 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 17:59:46,117 
+【线程编号】[16] 
+【执行时间】[3492767]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:fu5kjq0vyyyppci5spc03oys 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 17:59:46,119 
+【线程编号】[16] 
+【执行时间】[3492769]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:A40346D517B4C8EDDB910495789087021226BCB83F5CA0E21AB1BAE6529225E6594B34C5EE1E02E807BEE5EB19035E5BB8382A11FD98F07EACD4CE7F39DD00BAB8B7A56FF0C26D4AA44C6CA2FA18FAACBCFACE896A449AD9AA698801EE47D874D8AFE4607BC5F2B859B44C74E3CC1922005BB08EBEAD1EE58300612E307A01FC3F6C4987FD4A4D1D0C666AA3A3C9CF9AEA4E00AD92C26F8865CCEA3DE632DD2871DFD98070FD9BE06E3220C81CF5329363E34A1DC146E3AE174BDEDB4935FE8C 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 18:01:01,638 
+【线程编号】[21] 
+【执行时间】[3568288]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:fu5kjq0vyyyppci5spc03oys 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 18:01:01,638 
+【线程编号】[21] 
+【执行时间】[3568288]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:A40346D517B4C8EDDB910495789087021226BCB83F5CA0E21AB1BAE6529225E6594B34C5EE1E02E807BEE5EB19035E5BB8382A11FD98F07EACD4CE7F39DD00BAB8B7A56FF0C26D4AA44C6CA2FA18FAACBCFACE896A449AD9AA698801EE47D874D8AFE4607BC5F2B859B44C74E3CC1922005BB08EBEAD1EE58300612E307A01FC3F6C4987FD4A4D1D0C666AA3A3C9CF9AEA4E00AD92C26F8865CCEA3DE632DD2871DFD98070FD9BE06E3220C81CF5329363E34A1DC146E3AE174BDEDB4935FE8C 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 18:05:31,555 
+【线程编号】[6] 
+【执行时间】[153]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】152 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,taskid:130,platForm:1,activeMethod:2,activeName:werwer,url:http:www.cods.com,guanjianci:,,wqe,seller:25,productType:3,price:123.00,productNum:123,activeNum:19,commissionPrice:7,guaranteePrice:15990,productImage:http://localhost:35753/upimg/20160422180516234.jpg,listImage:http://localhost:35753/upimg/20160422180517916.jpg,activeType:3,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 18:19:04,675 
+【线程编号】[8] 
+【执行时间】[813273]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:fu5kjq0vyyyppci5spc03oys 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 18:19:04,678 
+【线程编号】[8] 
+【执行时间】[813276]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:8D924FF1266964912D4BB3CAE418D1E27B6EE266A68278DD536967926FB3120D165ACBF1E61278B4695F369A11915A49B7400B30B97BD42A95731F7121233741A904B749FBB1B2610CC97EE947A71D8EA7E170CE436500E76CE551BAAAFC2FC1869B82C5C4DB7ECD6EFA3ACAE633C218E860FCA7031484ABB1F8E3FD2042BACFB6764C5BA4C0BCC36E02267DB9C2EE5ACD5AE2F266E9E8A7584F35B808E750D39B20A94832B4561DE1DCFF359569352327D0F2150B720A0AE7F68B9C372EA5B3 
+【错误详情】

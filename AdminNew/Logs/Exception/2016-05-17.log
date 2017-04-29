@@ -1,0 +1,33 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-17 10:59:21,665 
+【线程编号】[6] 
+【执行时间】[161]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-17 11:00:58,407 
+【线程编号】[4] 
+【执行时间】[96903]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】171 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission,userid:19,platForm:1,activeMethod:1,activeName:qw,url:http://baidu.com,guanjianci:1,1,气味,seller:14,productType:1,price:11,productNum:2,activeNum:5,commissionPrice:2,guaranteePrice:26,productImage:http://localhost:35753/upimg/20160517110008699.jpg,listImage:http://localhost:35753/upimg/20160517110011714.jpg,activeType:1,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-17 13:32:47,545 
+【线程编号】[83] 
+【执行时间】[9206041]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】

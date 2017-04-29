@@ -1,0 +1,110 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 09:45:49,405 
+【线程编号】[147] 
+【执行时间】[226]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】37 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 09:46:40,129 
+【线程编号】[148] 
+【执行时间】[50950]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\TradeShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:3 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 09:46:58,179 
+【线程编号】[148] 
+【执行时间】[69000]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\TradeShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:2 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 10:04:40,372 
+【线程编号】[389] 
+【执行时间】[1131193]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\TradeShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:3 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 10:26:25,144 
+【线程编号】[383] 
+【执行时间】[2435965]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\TradeShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:3 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 11:36:51,343 
+【线程编号】[386] 
+【执行时间】[6662164]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\TradeShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:3 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 11:39:51,350 
+【线程编号】[388] 
+【执行时间】[6842171]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\TradeShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:3 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 12:03:27,018 
+【线程编号】[151] 
+【执行时间】[8257839]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】37 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 12:04:38,540 
+【线程编号】[377] 
+【执行时间】[8329361]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】171 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission,userid:37,platForm:1,activeMethod:1,activeName:sdaasdas,url:http://baidu.com,guanjianci:1,1,sada,seller:44,productType:2,price:111,productNum:5,activeNum:6,commissionPrice:0,guaranteePrice:555,productImage:http://localhost:35753/upimg/20160521120433483.jpg,listImage:http://localhost:35753/upimg/20160521120435943.jpg,activeType:3,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-21 12:04:56,745 
+【线程编号】[149] 
+【执行时间】[8347566]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】37 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】

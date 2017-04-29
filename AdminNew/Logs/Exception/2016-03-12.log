@@ -1,0 +1,563 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 09:52:14,736 
+【线程编号】[8] 
+【执行时间】[100]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 09:52:15,052 
+【线程编号】[8] 
+【执行时间】[415]毫秒 
+【出错文件】e:\localhost_6108\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:6108/user/index.aspx
+错误信息：必须声明标量变量 "@UserId"。
+堆栈內容：
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   在 Jnwf.Utils.Data.SqlHelper.ExecuteScalar(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   在 Jnwf.Utils.Data.SqlHelper.ExecuteScalar(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   在 Task.DAL.tb_MoneyDataAccessLayer.GetDongjieMoney(Int32 userId) 位置 e:\DAL\tb_MoneyDalExt.cs:行号 288
+   在 Task.BLL.tb_MoneyBLL.GetDongJieMoney(Int32 userId) 位置 e:\BLL\tb_MoneyLogic.cs:行号 100
+   在 user_Index.Page_Load(Object sender, EventArgs e) 位置 e:\localhost_6108\user\Index.aspx.cs:行号 40
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 09:53:22,349 
+【线程编号】[5] 
+【执行时间】[69]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 10:37:36,780 
+【线程编号】[44] 
+【执行时间】[2654500]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 10:37:37,060 
+【线程编号】[44] 
+【执行时间】[2654780]毫秒 
+【出错文件】e:\localhost_6108\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:6108/user/index.aspx
+错误信息：输入字符串的格式不正确。
+堆栈內容：
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Decimal.Parse(String s)
+   在 Task.DAL.tb_MoneyDataAccessLayer.GetDongjieMoney(Int32 userId) 位置 e:\DAL\tb_MoneyDalExt.cs:行号 289
+   在 Task.BLL.tb_MoneyBLL.GetDongJieMoney(Int32 userId) 位置 e:\BLL\tb_MoneyLogic.cs:行号 100
+   在 user_Index.Page_Load(Object sender, EventArgs e) 位置 e:\localhost_6108\user\Index.aspx.cs:行号 40
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 10:38:05,034 
+【线程编号】[46] 
+【执行时间】[2682754]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 10:38:05,039 
+【线程编号】[46] 
+【执行时间】[2682759]毫秒 
+【出错文件】e:\localhost_6108\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:6108/user/index.aspx
+错误信息：输入字符串的格式不正确。
+堆栈內容：
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Decimal.Parse(String s)
+   在 Task.DAL.tb_MoneyDataAccessLayer.GetDongjieMoney(Int32 userId) 位置 e:\DAL\tb_MoneyDalExt.cs:行号 289
+   在 Task.BLL.tb_MoneyBLL.GetDongJieMoney(Int32 userId) 位置 e:\BLL\tb_MoneyLogic.cs:行号 100
+   在 user_Index.Page_Load(Object sender, EventArgs e) 位置 e:\localhost_6108\user\Index.aspx.cs:行号 40
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 10:41:18,528 
+【线程编号】[14] 
+【执行时间】[100]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 10:52:20,446 
+【线程编号】[16] 
+【执行时间】[662018]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 10:52:48,425 
+【线程编号】[48] 
+【执行时间】[689997]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:06:32,950 
+【线程编号】[35] 
+【执行时间】[1514522]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:18:56,898 
+【线程编号】[22] 
+【执行时间】[2258471]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:25:49,288 
+【线程编号】[23] 
+【执行时间】[2670860]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:27:44,265 
+【线程编号】[23] 
+【执行时间】[2785837]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:30:48,478 
+【线程编号】[8] 
+【执行时间】[73]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zhangli|29||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:32:08,751 
+【线程编号】[10] 
+【执行时间】[80347]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zhangli|29||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:33:00,924 
+【线程编号】[10] 
+【执行时间】[132519]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:33:33,811 
+【线程编号】[9] 
+【执行时间】[165406]毫秒 
+【出错文件】e:\localhost_6108\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:33:50,937 
+【线程编号】[11] 
+【执行时间】[182532]毫秒 
+【出错文件】e:\localhost_6108\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:33:55,485 
+【线程编号】[10] 
+【执行时间】[187080]毫秒 
+【出错文件】e:\localhost_6108\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:33:57,623 
+【线程编号】[9] 
+【执行时间】[189218]毫秒 
+【出错文件】e:\localhost_6108\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:33:58,632 
+【线程编号】[10] 
+【执行时间】[190228]毫秒 
+【出错文件】e:\localhost_6108\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:33:59,585 
+【线程编号】[11] 
+【执行时间】[191180]毫秒 
+【出错文件】e:\localhost_6108\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:40:03,375 
+【线程编号】[16] 
+【执行时间】[554970]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:40:08,274 
+【线程编号】[14] 
+【执行时间】[559869]毫秒 
+【出错文件】e:\localhost_6108\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:40:16,776 
+【线程编号】[14] 
+【执行时间】[568371]毫秒 
+【出错文件】e:\localhost_6108\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:40:18,358 
+【线程编号】[16] 
+【执行时间】[569953]毫秒 
+【出错文件】e:\localhost_6108\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:40:20,924 
+【线程编号】[14] 
+【执行时间】[572519]毫秒 
+【出错文件】e:\localhost_6108\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:40:24,510 
+【线程编号】[16] 
+【执行时间】[576105]毫秒 
+【出错文件】e:\localhost_6108\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:40:30,267 
+【线程编号】[14] 
+【执行时间】[581863]毫秒 
+【出错文件】e:\localhost_6108\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:40:31,468 
+【线程编号】[16] 
+【执行时间】[583063]毫秒 
+【出错文件】e:\localhost_6108\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:42:58,399 
+【线程编号】[16] 
+【执行时间】[729994]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:48:56,741 
+【线程编号】[21] 
+【执行时间】[1088336]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:49:53,110 
+【线程编号】[21] 
+【执行时间】[1144705]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:50:12,576 
+【线程编号】[24] 
+【执行时间】[1164171]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:52:02,010 
+【线程编号】[25] 
+【执行时间】[1273606]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 11:54:47,336 
+【线程编号】[29] 
+【执行时间】[1438931]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 12:02:51,887 
+【线程编号】[33] 
+【执行时间】[1923482]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 12:02:58,139 
+【线程编号】[37] 
+【执行时间】[1929735]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 12:21:26,640 
+【线程编号】[32] 
+【执行时间】[3038235]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 12:21:46,107 
+【线程编号】[33] 
+【执行时间】[3057702]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 12:22:48,075 
+【线程编号】[31] 
+【执行时间】[3119670]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zhangli|29||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 12:22:55,263 
+【线程编号】[31] 
+【执行时间】[3126858]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 12:24:36,280 
+【线程编号】[36] 
+【执行时间】[3227875]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 12:24:39,100 
+【线程编号】[29] 
+【执行时间】[3230696]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 12:29:57,681 
+【线程编号】[36] 
+【执行时间】[3549277]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-12 12:30:00,608 
+【线程编号】[37] 
+【执行时间】[3552203]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】test|37||123123 
+【错误详情】

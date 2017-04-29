@@ -1,0 +1,242 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-04 16:13:38,558 
+【线程编号】[17] 
+【执行时间】[560]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】78 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-04 16:13:45,494 
+【线程编号】[47] 
+【执行时间】[7496]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】78 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-04 16:14:13,421 
+【线程编号】[35] 
+【执行时间】[35423]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】78 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-04 16:18:07,135 
+【线程编号】[47] 
+【执行时间】[269137]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】79 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-04 16:19:00,342 
+【线程编号】[17] 
+【执行时间】[322344]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】79 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-04 16:20:47,762 
+【线程编号】[17] 
+【执行时间】[429764]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】79 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-04 16:21:15,426 
+【线程编号】[51] 
+【执行时间】[457428]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】79 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-04 16:25:04,173 
+【线程编号】[51] 
+【执行时间】[686175]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】79 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-04 16:27:18,645 
+【线程编号】[35] 
+【执行时间】[820647]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】79 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-04 16:27:40,879 
+【线程编号】[51] 
+【执行时间】[842881]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】79 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-04 16:28:43,096 
+【线程编号】[17] 
+【执行时间】[905099]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】79 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-04 16:29:49,295 
+【线程编号】[51] 
+【执行时间】[971297]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】79 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-04 16:30:20,488 
+【线程编号】[47] 
+【执行时间】[1002490]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】79 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-04 16:31:21,804 
+【线程编号】[35] 
+【执行时间】[1063806]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】79 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-04 16:31:59,071 
+【线程编号】[35] 
+【执行时间】[1101073]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】79 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-04 16:33:21,857 
+【线程编号】[17] 
+【执行时间】[1183859]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】79 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-04 16:33:29,684 
+【线程编号】[17] 
+【执行时间】[1191687]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】79 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-04 17:11:04,251 
+【线程编号】[51] 
+【执行时间】[3446253]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】79 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-04 17:11:06,620 
+【线程编号】[47] 
+【执行时间】[3448622]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】79 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-04 18:04:47,809 
+【线程编号】[17] 
+【执行时间】[6669812]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】79 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-04 18:05:10,961 
+【线程编号】[51] 
+【执行时间】[6692964]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】79 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-04 18:07:18,945 
+【线程编号】[17] 
+【执行时间】[6820947]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Details.aspx.cs 
+【出错行号】79 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】

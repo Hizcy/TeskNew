@@ -1,0 +1,42 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 11:11:27,936 
+【线程编号】[39] 
+【执行时间】[53]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:51696/Login.aspx
+错误信息：请在配置文件的appSettings中配置'notwwwpath'的值。
+堆栈內容：
+   在 Jnwf.Utils.Config.ConfigurationUtil.GetAppSettingValue(String configKey, Boolean isThrowExceptionIfNotExist)
+   在 Jnwf.Utils.Config.ConfigurationUtil.GetAppSettingValue(String configKey)
+   在 Login..ctor() 位置 d:\zhanglixiangmu\威小宝刷单\User\Login.aspx.cs:行号 12
+   在 ASP.login_aspx..ctor() 位置 c:\Users\v\AppData\Local\Temp\Temporary ASP.NET Files\vs\07dd7dca\25efe443\App_Web_oddwptew.8.cs:行号 0
+   在 __ASP.FastObjectFactory_app_web_oddwptew.Create_ASP_login_aspx() 位置 c:\Users\v\AppData\Local\Temp\Temporary ASP.NET Files\vs\07dd7dca\25efe443\App_Web_oddwptew.10.cs:行号 0
+   在 System.Web.Compilation.BuildResultCompiledType.CreateInstance()
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-22 15:18:03,449 
+【线程编号】[7] 
+【执行时间】[161]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\User\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:51696/data/upload.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 Data_upload.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\User\data\upload.aspx.cs:行号 83
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】

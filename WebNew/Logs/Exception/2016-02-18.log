@@ -1,0 +1,15 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-02-18 15:53:00,420 
+【线程编号】[22] 
+【执行时间】[201]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Web\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:3581/<%25=path %25>images2/vb.jpg
+错误信息：从客户端(<)中检测到有潜在危险的 Request.Path 值。
+堆栈內容：
+   在 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   在 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context) 
+【错误详情】

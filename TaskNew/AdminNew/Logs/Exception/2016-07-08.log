@@ -1,0 +1,188 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-08 19:45:43,886 
+【线程编号】[9] 
+【执行时间】[50]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\user\Index.aspx.cs 
+【出错行号】37 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|4|zcy|!QAZxsw2#EDCvfr4 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-08 19:45:47,524 
+【线程编号】[7] 
+【执行时间】[3687]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:59415/TaskNew/AddTask1.aspx?id=3
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 ASP.tasknew_addtask1_aspx.__RenderContent2(HtmlTextWriter __w, Control parameterContainer) 位置 e:\TaskNew\TaskNew\AdminNew\TaskNew\AddTask1.aspx:行号 194
+   在 System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   在 System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   在 System.Web.UI.Control.Render(HtmlTextWriter writer)
+   在 System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   在 ASP.masterpagetasknew_master.__Renderform1(HtmlTextWriter __w, Control parameterContainer) 位置 e:\TaskNew\TaskNew\AdminNew\MasterPagetasknew.master:行号 193
+   在 System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   在 System.Web.UI.HtmlControls.HtmlForm.RenderChildren(HtmlTextWriter writer)
+   在 System.Web.UI.HtmlControls.HtmlContainerControl.Render(HtmlTextWriter writer)
+   在 System.Web.UI.HtmlControls.HtmlForm.Render(HtmlTextWriter output)
+   在 System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.HtmlControls.HtmlForm.RenderControl(HtmlTextWriter writer)
+   在 System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   在 System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   在 System.Web.UI.Control.Render(HtmlTextWriter writer)
+   在 System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   在 System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   在 System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   在 System.Web.UI.Page.Render(HtmlTextWriter writer)
+   在 System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   在 System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-08 19:46:26,288 
+【线程编号】[9] 
+【执行时间】[42451]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:59415/TaskNew/AddTask2.aspx
+错误信息：请在配置文件的appSettings中配置'QNJS'的值。
+堆栈內容：
+   在 Jnwf.Utils.Config.ConfigurationUtil.GetAppSettingValue(String configKey, Boolean isThrowExceptionIfNotExist)
+   在 Jnwf.Utils.Config.ConfigurationUtil.GetAppSettingValue(String configKey)
+   在 TaskNew_AddTask2..ctor() 位置 e:\TaskNew\TaskNew\AdminNew\TaskNew\AddTask2.aspx.cs:行号 11
+   在 ASP.tasknew_addtask2_aspx..ctor() 位置 c:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\f88c4a84\244f6124\App_Web_v2ny0gyy.4.cs:行号 0
+   在 __ASP.FastObjectFactory_app_web_v2ny0gyy.Create_ASP_tasknew_addtask2_aspx() 位置 c:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\f88c4a84\244f6124\App_Web_v2ny0gyy.14.cs:行号 0
+   在 System.Web.Compilation.BuildResultCompiledType.CreateInstance()
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-08 23:19:11,047 
+【线程编号】[42] 
+【执行时间】[42]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:59415/TaskNew/AddTask3.aspx?taskid=1352
+错误信息：e:\TaskNew\TaskNew\AdminNew\TaskNew\AddTask3.aspx.cs(34): error CS1513: 应输入 }
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-08 23:33:35,308 
+【线程编号】[32] 
+【执行时间】[864303]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160708233335193.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-08 23:33:35,567 
+【线程编号】[32] 
+【执行时间】[864562]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-08 23:33:35,568 
+【线程编号】[32] 
+【执行时间】[864563]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160708233335193.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-08 23:33:35,667 
+【线程编号】[32] 
+【执行时间】[864662]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-08 23:33:35,668 
+【线程编号】[32] 
+【执行时间】[864663]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:E:\TaskNew\TaskNew\AdminNew\upimg\20160708233335193.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-08 23:33:35,770 
+【线程编号】[32] 
+【执行时间】[864765]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-08 23:38:25,639 
+【线程编号】[6] 
+【执行时间】[1154634]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:59415/TaskNew/AddTask4.aspx?taskid=1352
+错误信息：e:\TaskNew\TaskNew\AdminNew\TaskNew\AddTask4.aspx(190): error CS0103: 当前上下文中不存在名称“json”
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.PostProcessFoundBuildResult(BuildResult result, Boolean keyFromVPP, VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetBuildResultFromCacheInternal(String cacheKey, Boolean keyFromVPP, VirtualPath virtualPath, Int64 hashCode, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultFromCacheInternal(VirtualPath virtualPath, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】

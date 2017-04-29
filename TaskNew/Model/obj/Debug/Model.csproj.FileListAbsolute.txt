@@ -1,0 +1,10 @@
+E:\TaskNew\TaskNew\Model\bin\Debug\Model.dll
+E:\TaskNew\TaskNew\Model\bin\Debug\Model.pdb
+E:\TaskNew\TaskNew\Model\obj\Debug\Model.dll
+E:\TaskNew\TaskNew\Model\obj\Debug\Model.pdb
+E:\TaskNew\TaskNew\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\wf\TaskNew\TaskNew\Model\bin\Debug\Model.dll
+E:\wf\TaskNew\TaskNew\Model\bin\Debug\Model.pdb
+E:\wf\TaskNew\TaskNew\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\wf\TaskNew\TaskNew\Model\obj\Debug\Model.dll
+E:\wf\TaskNew\TaskNew\Model\obj\Debug\Model.pdb

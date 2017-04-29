@@ -1,0 +1,33 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-20 16:51:31,310 
+【线程编号】[5] 
+【执行时间】[75]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】37 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-20 16:51:51,763 
+【线程编号】[8] 
+【执行时间】[20528]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\TradeShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-20 16:51:56,916 
+【线程编号】[7] 
+【执行时间】[25681]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】377 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】auditTask,id:148 
+【错误详情】

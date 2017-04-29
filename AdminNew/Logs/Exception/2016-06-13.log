@@ -1,0 +1,22 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-13 14:40:37,963 
+【线程编号】[8] 
+【执行时间】[197]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】37 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|4|zcy|!QAZxsw2#EDCvfr4 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-13 14:42:39,951 
+【线程编号】[6] 
+【执行时间】[122184]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】175 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission,userid:4,platForm:2,activeMethod:1,isEvaluate:0,isMessage:0,activeName:男装,url:http://baidu.com,guanjianci:2,1,12,20,30,guanjianci:2,1,13,20,30,guanjianci:2,1,14,20,30,guanjianci:2,1,,20,30,guanjianci:2,1,,20,30,seller:4,productType:3,price:20,productNum:2,activeNum:20,commissionPrice:0,guaranteePrice:40,productImage:http://localhost:35753/upimg/20160613144111811.jpg,listImage:http://localhost:35753/upimg/20160613144123272.jpg,activeType:2,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】

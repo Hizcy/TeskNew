@@ -1,0 +1,47 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-12 09:02:30,846 
+【线程编号】[8] 
+【执行时间】[58]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\user\Index.aspx.cs 
+【出错行号】37 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|4|zcy|!QAZxsw2#EDCvfr4 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-12 09:06:51,812 
+【线程编号】[8] 
+【执行时间】[261023]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:59415/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs:行号 192
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-12 09:10:29,329 
+【线程编号】[16] 
+【执行时间】[478540]毫秒 
+【出错文件】e:\TaskNew\TaskNew\AdminNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:59415/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 e:\TaskNew\TaskNew\AdminNew\data\data.aspx.cs:行号 192
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】

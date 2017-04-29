@@ -1,0 +1,204 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-14 09:42:26,943 
+【线程编号】[19] 
+【执行时间】[68509176]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】37 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|4|zcy|!QAZxsw2#EDCvfr4 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-14 09:52:28,084 
+【线程编号】[15] 
+【执行时间】[69110317]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】175 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission,userid:4,platForm:1,activeMethod:1,isEvaluate:1,isMessage:1,activeName:夏装,url:http://baidu.com,guanjianci:1,1,wqw,10,20,guanjianci:1,1,wew,10,20,guanjianci:1,1,wrw,10,20,guanjianci:1,1,wyw,10,20,guanjianci:1,1,wuw,10,20,seller:4,productType:2,price:25,productNum:2,activeNum:20,commissionPrice:0,guaranteePrice:50,productImage:http://localhost:35753/upimg/20160614094325608.jpg,listImage:http://localhost:35753/upimg/20160614094349751.jpg,activeType:2,message: 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-14 09:53:13,510 
+【线程编号】[12] 
+【执行时间】[69155743]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】175 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission,userid:4,platForm:1,activeMethod:1,isEvaluate:1,isMessage:1,activeName:夏装,url:http://baidu.com,guanjianci:1,1,wqw,10,20,guanjianci:1,1,wew,10,20,guanjianci:1,1,wrw,10,20,guanjianci:1,1,wyw,10,20,guanjianci:1,1,wuw,10,20,seller:4,productType:2,price:25,productNum:2,activeNum:20,commissionPrice:0,guaranteePrice:50,productImage:http://localhost:35753/upimg/20160614094325608.jpg,listImage:http://localhost:35753/upimg/20160614094349751.jpg,activeType:2,message: 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-14 09:57:55,280 
+【线程编号】[12] 
+【执行时间】[69437513]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】175 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission,userid:4,platForm:1,activeMethod:1,isEvaluate:1,isMessage:1,activeName:夏装,url:http://baidu.com,guanjianci:1,1,wqw,10,20,guanjianci:1,1,wew,10,20,guanjianci:1,1,wrw,10,20,guanjianci:1,1,wyw,10,20,guanjianci:1,1,wuw,10,20,seller:4,productType:2,price:25,productNum:2,activeNum:20,commissionPrice:0,guaranteePrice:50,productImage:http://localhost:35753/upimg/20160614094325608.jpg,listImage:http://localhost:35753/upimg/20160614094349751.jpg,activeType:2,message: 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-14 10:12:50,000 
+【线程编号】[19] 
+【执行时间】[70332233]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】37 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|4|zcy|!QAZxsw2#EDCvfr4 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-14 10:15:55,503 
+【线程编号】[18] 
+【执行时间】[247]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】175 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission,userid:4,platForm:1,activeMethod:1,isEvaluate:1,isMessage:1,activeName:男装夏季,url:http://baidu.com,guanjianci:1,1,q,10,15,guanjianci:1,1,a,10,15,guanjianci:1,1,z,10,15,guanjianci:1,1,w,10,15,guanjianci:1,1,s,10,15,seller:4,productType:3,price:12,productNum:2,activeNum:5,commissionPrice:0,guaranteePrice:24,productImage:http://localhost:35753/upimg/20160614101520047.jpg,listImage:http://localhost:35753/upimg/20160614101534688.jpg,activeType:2,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-14 11:16:51,599 
+【线程编号】[8] 
+【执行时间】[166]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】37 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|4|zcy|!QAZxsw2#EDCvfr4 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-14 11:29:18,842 
+【线程编号】[8] 
+【执行时间】[240]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/data/upload.aspx?id=1&ASPSESSID=h11c305myvqv3nsyds4few4v&AUTHID=7E914388B6D1EA3EAC1F02557E0F3B504D917D62B924270BBAC04A2FDDA3A369761027D69B3A984281A78F012F58AAE6643AC4C0DAAE6A7734AB17692E608B74CF11C5C5D8FB434F892BB03CA202B1E249329AAD0FEADB86D8B98929D3D0C3E311616627AF04DB13FF22A53B8087F1762402166452F57A1ED31B7C5AEC01E1307516BA2C339513CD9CDA8F9BD8B5F5B05EF91C461B3F3A4F506AD7B290E1769DC5C96A175F6C45DBA8E068952E8093D033E39A917D86C444F62407F57912540D2F80FC5949BFC36460EDD39581B9D7D0
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 Data_upload.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\upload.aspx.cs:行号 83
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-14 11:30:17,975 
+【线程编号】[11] 
+【执行时间】[129]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/data/upload.aspx?id=1&ASPSESSID=h11c305myvqv3nsyds4few4v&AUTHID=7E914388B6D1EA3EAC1F02557E0F3B504D917D62B924270BBAC04A2FDDA3A369761027D69B3A984281A78F012F58AAE6643AC4C0DAAE6A7734AB17692E608B74CF11C5C5D8FB434F892BB03CA202B1E249329AAD0FEADB86D8B98929D3D0C3E311616627AF04DB13FF22A53B8087F1762402166452F57A1ED31B7C5AEC01E1307516BA2C339513CD9CDA8F9BD8B5F5B05EF91C461B3F3A4F506AD7B290E1769DC5C96A175F6C45DBA8E068952E8093D033E39A917D86C444F62407F57912540D2F80FC5949BFC36460EDD39581B9D7D0
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 Data_upload.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\upload.aspx.cs:行号 83
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-14 11:31:06,383 
+【线程编号】[8] 
+【执行时间】[75]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/data/upload.aspx?id=1&ASPSESSID=h11c305myvqv3nsyds4few4v&AUTHID=7E914388B6D1EA3EAC1F02557E0F3B504D917D62B924270BBAC04A2FDDA3A369761027D69B3A984281A78F012F58AAE6643AC4C0DAAE6A7734AB17692E608B74CF11C5C5D8FB434F892BB03CA202B1E249329AAD0FEADB86D8B98929D3D0C3E311616627AF04DB13FF22A53B8087F1762402166452F57A1ED31B7C5AEC01E1307516BA2C339513CD9CDA8F9BD8B5F5B05EF91C461B3F3A4F506AD7B290E1769DC5C96A175F6C45DBA8E068952E8093D033E39A917D86C444F62407F57912540D2F80FC5949BFC36460EDD39581B9D7D0
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 Data_upload.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\upload.aspx.cs:行号 83
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-14 18:37:59,585 
+【线程编号】[7] 
+【执行时间】[148]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/TaskNew/AddTask1.aspx
+错误信息：无法识别的元素“runtime”。 (D:\zhanglixiangmu\威小宝刷单\Admin\web.config line 15)
+堆栈內容：
+   在 System.Configuration.BaseConfigurationRecord.EvaluateOne(String[] keys, SectionInput input, Boolean isTrusted, FactoryRecord factoryRecord, SectionRecord sectionRecord, Object parentResult)
+   在 System.Configuration.BaseConfigurationRecord.Evaluate(FactoryRecord factoryRecord, SectionRecord sectionRecord, Object parentResult, Boolean getLkg, Boolean getRuntimeObject, Object& result, Object& resultRuntimeObject)
+   在 System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   在 System.Configuration.BaseConfigurationRecord.GetSection(String configKey)
+   在 System.Web.HttpContext.GetSection(String sectionName)
+   在 System.Web.Configuration.HttpConfigurationSystem.GetSection(String sectionName)
+   在 System.Web.Configuration.HttpConfigurationSystem.System.Configuration.Internal.IInternalConfigSystem.GetSection(String configKey)
+   在 System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   在 System.Configuration.ConfigurationManager.get_ConnectionStrings()
+   在 Jnwf.Utils.Config.ConfigurationUtil.GetConnectionString(String configName, Boolean isThrowExceptionIfNotExist)
+   在 Jnwf.Utils.Config.ConfigurationUtil.GetConnectionString(String configName)
+   在 Task.DAL.WebConfig.GetConnectionString(String key) 位置 d:\zhanglixiangmu\威小宝刷单\DAL\WebConfig.cs:行号 14
+   在 Task.DAL.WebConfig.get_TaskRW() 位置 d:\zhanglixiangmu\威小宝刷单\DAL\WebConfig.cs:行号 21
+   在 Task.DAL.tb_SellerDataAccessLayer.GetSellerListByUserId(Int32 userId) 位置 d:\zhanglixiangmu\威小宝刷单\DAL\tb_SellerDalExt.cs:行号 55
+   在 Task.BLL.tb_SellerBLL.GetSellerListByUserId(Int32 userId) 位置 d:\zhanglixiangmu\威小宝刷单\BLL\tb_SellerLogic.cs:行号 64
+   在 TaskNew_AddTask1.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\TaskNew\AddTask1.aspx.cs:行号 35
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   在 System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   在 System.Web.UI.Page.ProcessRequest()
+   在 System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   在 System.Web.UI.Page.ProcessRequest(HttpContext context)
+   在 ASP.tasknew_addtask1_aspx.ProcessRequest(HttpContext context) 位置 c:\Users\v\AppData\Local\Temp\Temporary ASP.NET Files\vs\a217aed1\602fba7\App_Web_yxmdu3ku.2.cs:行号 0
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-14 20:31:55,521 
+【线程编号】[7] 
+【执行时间】[118]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\upload.aspx.cs 
+【出错行号】82 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui3:ak:1G5S7rsUN6OROvmI0tAayz5PC8faGXnqWkcB5HLa,sk:ZJc2Gkv1orA7gwLHTs_JgOqdbpEAvcuV67rS6x0x,name:91zhepingou,file:20160614203152671.jpg,originalImagePath:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160614203152671.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-14 20:37:47,310 
+【线程编号】[6] 
+【执行时间】[81]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\upload.aspx.cs 
+【出错行号】82 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui3:ak:1G5S7rsUN6OROvmI0tAayz5PC8faGXnqWkcB5HLa,sk:ZJc2Gkv1orA7gwLHTs_JgOqdbpEAvcuV67rS6x0x,name:91zhepingou,file:20160614203743030.jpg,originalImagePath:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160614203743030.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-14 20:40:16,541 
+【线程编号】[6] 
+【执行时间】[149312]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\upload.aspx.cs 
+【出错行号】82 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui3:ak:1G5S7rsUN6OROvmI0tAayz5PC8faGXnqWkcB5HLa,sk:ZJc2Gkv1orA7gwLHTs_JgOqdbpEAvcuV67rS6x0x,name:91zhepingou,file:20160614204013492.jpg,originalImagePath:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160614204013492.jpg 
+【错误详情】

@@ -1,0 +1,1268 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 10:56:50,692 
+【线程编号】[25] 
+【执行时间】[57]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Details.aspx.cs 
+【出错行号】127 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 11:35:22,618 
+【线程编号】[65] 
+【执行时间】[2311983]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 11:35:22,620 
+【线程编号】[65] 
+【执行时间】[2311985]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 11:35:22,621 
+【线程编号】[65] 
+【执行时间】[2311986]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 11:35:25,565 
+【线程编号】[61] 
+【执行时间】[2314930]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 11:35:25,565 
+【线程编号】[61] 
+【执行时间】[2314930]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 11:35:25,565 
+【线程编号】[61] 
+【执行时间】[2314930]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 12:59:49,393 
+【线程编号】[49] 
+【执行时间】[7378758]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 12:59:49,394 
+【线程编号】[49] 
+【执行时间】[7378759]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 12:59:49,394 
+【线程编号】[49] 
+【执行时间】[7378759]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 14:02:04,903 
+【线程编号】[107] 
+【执行时间】[11114267]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Details.aspx.cs 
+【出错行号】127 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 14:04:06,872 
+【线程编号】[122] 
+【执行时间】[11236236]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Details.aspx.cs 
+【出错行号】127 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 14:10:06,080 
+【线程编号】[130] 
+【执行时间】[11595445]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Details.aspx.cs 
+【出错行号】127 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 14:55:48,151 
+【线程编号】[65] 
+【执行时间】[14337516]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 14:55:48,153 
+【线程编号】[65] 
+【执行时间】[14337518]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 14:55:48,153 
+【线程编号】[65] 
+【执行时间】[14337518]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 15:25:06,480 
+【线程编号】[83] 
+【执行时间】[16095844]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 15:25:06,480 
+【线程编号】[83] 
+【执行时间】[16095844]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 15:25:06,481 
+【线程编号】[83] 
+【执行时间】[16095845]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 15:25:53,163 
+【线程编号】[18] 
+【执行时间】[45]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 15:25:53,177 
+【线程编号】[18] 
+【执行时间】[59]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 15:25:53,178 
+【线程编号】[18] 
+【执行时间】[60]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 15:27:11,694 
+【线程编号】[126] 
+【执行时间】[78575]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 15:27:11,694 
+【线程编号】[126] 
+【执行时间】[78575]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 15:27:11,695 
+【线程编号】[126] 
+【执行时间】[78576]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 15:59:24,178 
+【线程编号】[60] 
+【执行时间】[2011060]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 15:59:24,179 
+【线程编号】[60] 
+【执行时间】[2011061]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 15:59:24,180 
+【线程编号】[60] 
+【执行时间】[2011062]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:03:33,162 
+【线程编号】[74] 
+【执行时间】[2260044]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:03:33,163 
+【线程编号】[74] 
+【执行时间】[2260045]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:03:33,163 
+【线程编号】[74] 
+【执行时间】[2260045]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:50:41,856 
+【线程编号】[59] 
+【执行时间】[5088738]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:50:41,856 
+【线程编号】[59] 
+【执行时间】[5088738]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:50:41,857 
+【线程编号】[59] 
+【执行时间】[5088739]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:50:43,868 
+【线程编号】[22] 
+【执行时间】[5090750]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:50:43,868 
+【线程编号】[22] 
+【执行时间】[5090750]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:50:43,869 
+【线程编号】[22] 
+【执行时间】[5090751]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:50:45,966 
+【线程编号】[75] 
+【执行时间】[5092848]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:50:45,966 
+【线程编号】[75] 
+【执行时间】[5092848]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:50:45,967 
+【线程编号】[75] 
+【执行时间】[5092849]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:51:24,755 
+【线程编号】[59] 
+【执行时间】[5131636]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:55462/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.AddGoodsPraise(String content, String img1, String img2, String img3) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 1105
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 121
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:51:26,898 
+【线程编号】[22] 
+【执行时间】[5133779]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:55462/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.AddGoodsPraise(String content, String img1, String img2, String img3) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 1105
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 121
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:51:27,353 
+【线程编号】[59] 
+【执行时间】[5134234]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:55462/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.AddGoodsPraise(String content, String img1, String img2, String img3) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 1105
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 121
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:51:27,536 
+【线程编号】[22] 
+【执行时间】[5134417]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:55462/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.AddGoodsPraise(String content, String img1, String img2, String img3) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 1105
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 121
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:51:27,714 
+【线程编号】[75] 
+【执行时间】[5134595]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:55462/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.AddGoodsPraise(String content, String img1, String img2, String img3) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 1105
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 121
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:51:48,249 
+【线程编号】[59] 
+【执行时间】[5155130]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:55462/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.AddGoodsPraise(String content, String img1, String img2, String img3) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 1105
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 121
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:52:04,169 
+【线程编号】[59] 
+【执行时间】[5171050]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:55462/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.AddGoodsPraise(String content, String img1, String img2, String img3) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 1105
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 121
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:14:03,221 
+【线程编号】[6] 
+【执行时间】[46]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:14:03,269 
+【线程编号】[6] 
+【执行时间】[94]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:14:03,284 
+【线程编号】[6] 
+【执行时间】[109]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:14:05,224 
+【线程编号】[9] 
+【执行时间】[2048]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:14:05,241 
+【线程编号】[9] 
+【执行时间】[2065]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:14:05,257 
+【线程编号】[9] 
+【执行时间】[2081]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:14:10,568 
+【线程编号】[8] 
+【执行时间】[7392]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:14:10,586 
+【线程编号】[8] 
+【执行时间】[7410]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:14:10,601 
+【线程编号】[8] 
+【执行时间】[7425]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:22:25,674 
+【线程编号】[7] 
+【执行时间】[42]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:22:25,706 
+【线程编号】[7] 
+【执行时间】[74]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:22:25,720 
+【线程编号】[7] 
+【执行时间】[88]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:22:28,443 
+【线程编号】[7] 
+【执行时间】[2811]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:22:28,461 
+【线程编号】[7] 
+【执行时间】[2829]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:22:28,477 
+【线程编号】[7] 
+【执行时间】[2845]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:22:30,198 
+【线程编号】[9] 
+【执行时间】[4566]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:22:30,213 
+【线程编号】[9] 
+【执行时间】[4581]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:22:30,227 
+【线程编号】[9] 
+【执行时间】[4595]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:24:57,188 
+【线程编号】[8] 
+【执行时间】[67]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:24:57,247 
+【线程编号】[8] 
+【执行时间】[126]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:24:57,273 
+【线程编号】[8] 
+【执行时间】[152]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:24:59,605 
+【线程编号】[8] 
+【执行时间】[2484]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:24:59,625 
+【线程编号】[8] 
+【执行时间】[2504]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:24:59,640 
+【线程编号】[8] 
+【执行时间】[2519]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:25:01,832 
+【线程编号】[5] 
+【执行时间】[4711]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:25:01,849 
+【线程编号】[5] 
+【执行时间】[4728]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:25:01,867 
+【线程编号】[5] 
+【执行时间】[4746]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:25:53,290 
+【线程编号】[13] 
+【执行时间】[56169]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:25:53,305 
+【线程编号】[13] 
+【执行时间】[56184]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:25:53,320 
+【线程编号】[13] 
+【执行时间】[56199]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:25:55,100 
+【线程编号】[7] 
+【执行时间】[57979]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:25:55,120 
+【线程编号】[7] 
+【执行时间】[57999]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:25:55,134 
+【线程编号】[7] 
+【执行时间】[58013]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:25:56,992 
+【线程编号】[13] 
+【执行时间】[59871]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:25:57,006 
+【线程编号】[13] 
+【执行时间】[59885]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:25:57,020 
+【线程编号】[13] 
+【执行时间】[59899]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:34:14,458 
+【线程编号】[11] 
+【执行时间】[41]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:34:14,490 
+【线程编号】[11] 
+【执行时间】[73]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:34:14,506 
+【线程编号】[11] 
+【执行时间】[89]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:34:16,376 
+【线程编号】[15] 
+【执行时间】[1959]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:34:16,396 
+【线程编号】[15] 
+【执行时间】[1979]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:34:16,411 
+【线程编号】[15] 
+【执行时间】[1994]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:34:18,630 
+【线程编号】[12] 
+【执行时间】[4213]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:34:18,647 
+【线程编号】[12] 
+【执行时间】[4230]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:34:18,664 
+【线程编号】[12] 
+【执行时间】[4247]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:34:30,366 
+【线程编号】[14] 
+【执行时间】[15948]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:55462/data/data.aspx
+错误信息：必须声明标量变量 "@id"。
+堆栈內容：
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 Jnwf.Utils.Data.SqlHelper.ExecuteReader(SqlConnection connection, SqlTransaction transaction, CommandType commandType, String commandText, SqlParameter[] commandParameters, SqlConnectionOwnership connectionOwnership)
+   在 Jnwf.Utils.Data.SqlHelper.ExecuteReader(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   在 Task.DAL.tb_Task_UserDataAccessLayer.GetTask_UserByTaskIdandUserId(Int32 taskId, Int32 userId) 位置 e:\TaskNew\TaskNew\DAL\tb_Task_UserDalExt.cs:行号 354
+   在 Task.BLL.tb_Task_UserBLL.GetTask_UserByTaskIdandUserId(Int32 taskId, Int32 userId) 位置 e:\TaskNew\TaskNew\BLL\tb_Task_UserLogic.cs:行号 183
+   在 data_data.AddGoodsPraise(String content, String img1, String img2, String img3, Int32 taskid) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 1115
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 121
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:35:10,931 
+【线程编号】[11] 
+【执行时间】[45]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:35:10,974 
+【线程编号】[11] 
+【执行时间】[88]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:35:11,001 
+【线程编号】[11] 
+【执行时间】[115]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:35:12,750 
+【线程编号】[12] 
+【执行时间】[1864]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:35:12,769 
+【线程编号】[12] 
+【执行时间】[1883]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:35:12,785 
+【线程编号】[12] 
+【执行时间】[1899]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:35:15,240 
+【线程编号】[9] 
+【执行时间】[4354]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:35:15,255 
+【线程编号】[9] 
+【执行时间】[4369]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:35:15,270 
+【线程编号】[9] 
+【执行时间】[4384]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:39:25,389 
+【线程编号】[16] 
+【执行时间】[254503]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Details.aspx.cs 
+【出错行号】127 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:40:16,784 
+【线程编号】[16] 
+【执行时间】[305898]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Details.aspx.cs 
+【出错行号】127 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:40:29,127 
+【线程编号】[19] 
+【执行时间】[318241]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Details.aspx.cs 
+【出错行号】127 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:40:35,353 
+【线程编号】[17] 
+【执行时间】[324467]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Details.aspx.cs 
+【出错行号】127 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:40:45,936 
+【线程编号】[17] 
+【执行时间】[335050]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Details.aspx.cs 
+【出错行号】127 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 17:41:44,814 
+【线程编号】[24] 
+【执行时间】[393928]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Details.aspx.cs 
+【出错行号】127 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:1 
+【错误详情】

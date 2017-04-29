@@ -1,0 +1,132 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-20 11:02:55,221 
+【线程编号】[12] 
+【执行时间】[335]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】114 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】platForm:1,activeMethod:1,activeName:ww,url:http://baidu.com,guanjianci:1,1,5,大概在第5页第5行,5,8,seller:15,productType:1,price:5,productNum:5,activeNum:5,commissionPrice:0,guaranteePrice:25,productImage:http://localhost:6108/upimg/20160420110217782.jpg,listImage:http://localhost:6108/upimg/20160420110225575.jpg,activeType:3,message:<ol class=" list-paddingleft-2" style="list-style-type: decimal;"><li><p>广东，福建，山东不能接，必须加qq 1610144795登记后才可开始。</p></li><li><p>不要私自下单，秒单的不要来，根据产品浏览几分钟，双收藏加关注！假聊必须根据产品来句10句以上，不要问产品无关问题，加购物车下下单。</p></li><li><p>评价商家给，随机晒图，不要换号拍商家产品，旺旺对不上不返款的。<br/></p></li></ol><p><br/></p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-20 14:53:30,669 
+【线程编号】[5] 
+【执行时间】[93]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-20 14:54:54,319 
+【线程编号】[6] 
+【执行时间】[83742]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】114 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】platForm:1,activeMethod:1,activeName:http://baidu.com,url:http://baidu.com,guanjianci:1,1,试试,大概在第几页第几行,1,6,seller:14,productType:1,price:5,productNum:5,activeNum:8,commissionPrice:0,guaranteePrice:25,productImage:http://localhost:35753/upimg/20160420145451152.jpg,listImage:http://localhost:35753/upimg/20160420145453556.jpg,activeType:3,message: 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-20 15:14:35,381 
+【线程编号】[11] 
+【执行时间】[1264804]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-20 15:15:25,785 
+【线程编号】[6] 
+【执行时间】[1315208]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-20 15:24:00,086 
+【线程编号】[11] 
+【执行时间】[52]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-20 16:55:01,970 
+【线程编号】[58] 
+【执行时间】[163]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-20 17:49:52,942 
+【线程编号】[63] 
+【执行时间】[60]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-20 18:20:15,612 
+【线程编号】[6] 
+【执行时间】[171]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-20 18:33:38,320 
+【线程编号】[17] 
+【执行时间】[802878]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-20 19:32:07,226 
+【线程编号】[48] 
+【执行时间】[4311784]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-20 20:26:50,303 
+【线程编号】[54] 
+【执行时间】[7594862]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】

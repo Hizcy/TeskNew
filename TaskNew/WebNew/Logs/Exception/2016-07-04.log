@@ -1,0 +1,77 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 10:52:10,651 
+【线程编号】[27] 
+【执行时间】[52]毫秒 
+【出错文件】e:\TaskNew\TaskNew\WebNew\Details.aspx.cs 
+【出错行号】128 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 11:12:29,377 
+【线程编号】[24] 
+【执行时间】[1218777]毫秒 
+【出错文件】e:\TaskNew\TaskNew\WebNew\admin\AuditShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 11:12:36,547 
+【线程编号】[21] 
+【执行时间】[1225948]毫秒 
+【出错文件】e:\TaskNew\TaskNew\WebNew\data\data.aspx.cs 
+【出错行号】397 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】dauditTask,id:1379 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 11:36:50,974 
+【线程编号】[27] 
+【执行时间】[2680375]毫秒 
+【出错文件】e:\TaskNew\TaskNew\WebNew\admin\AuditShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 11:36:54,003 
+【线程编号】[21] 
+【执行时间】[2683404]毫秒 
+【出错文件】e:\TaskNew\TaskNew\WebNew\data\data.aspx.cs 
+【出错行号】397 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】dauditTask,id:1379 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 14:06:35,659 
+【线程编号】[27] 
+【执行时间】[11665060]毫秒 
+【出错文件】e:\TaskNew\TaskNew\WebNew\admin\AuditShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:2 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-07-04 16:26:08,376 
+【线程编号】[24] 
+【执行时间】[20037777]毫秒 
+【出错文件】e:\TaskNew\TaskNew\WebNew\admin\AuditShilist.aspx.cs 
+【出错行号】69 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:2 
+【错误详情】

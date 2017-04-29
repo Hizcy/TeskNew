@@ -1,0 +1,33 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-03 09:15:12,678 
+【线程编号】[10] 
+【执行时间】[121]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-03 11:52:35,714 
+【线程编号】[88] 
+【执行时间】[9443157]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-03 11:53:19,924 
+【线程编号】[84] 
+【执行时间】[9487366]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】222 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,taskid:150,guanjianci:1,3,aaa1,productImage:http://localhost:35753/upimg/20160428184204889.jpg,listImage:http://localhost:35753/upimg/20160428183940169.jpg,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，lk,l,l;&#39;[请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】

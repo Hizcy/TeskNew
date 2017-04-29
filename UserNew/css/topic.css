@@ -1,0 +1,81 @@
+
+.fl{float:left;}
+
+.entry_nav {
+    float: left;
+    height: 90px;
+	position:relative;
+}
+.entry_nav li {
+    float: left;
+    padding: 0 25px;
+    line-height: 90px;
+    font-size: 20px;
+	list-style-type: none;
+	cursor:pointer;
+	width:100px;
+	text-align:center;
+}
+.entry_nav li a {
+    color: #666;
+}
+.entry_nav .active a {
+    color: #e82f2f;
+}
+.entry_nav li:hover{
+	background:#F5F0DA;
+}
+.entry_nav li:hover a{
+	color: #e82f2f;
+}
+.entry_nav li a:hover {
+    color: #e82f2f;
+}
+.header .logo{width: 200px;}
+.header .logo a {
+    width: 200px;
+}
+
+.hide{display:none;}
+
+#userguide{
+	position:absolute;
+	height:90px;
+	width:150px;
+	background:#F5F0DA;
+	top:90px;
+	left:150px;
+	z-index:1;
+	cursor:pointer;
+	text-align:center;
+	line-height:30px;
+	border-top:1px solid #fff;
+}
+#userguide div:hover{background:#fff;}
+#userguide div:hover a{color: #e82f2f;}
+#userguide div a{
+	font-size:12px;
+	color:#666;
+	font-weight:bold;
+}
+
+#sellerguide{
+	position:absolute;
+	height:90px;
+	width:150px;
+	background:#F5F0DA;
+	top:90px;
+	left:300px;
+	z-index:1;
+	cursor:pointer;
+	text-align:center;
+	line-height:30px;
+	border-top:1px solid #fff;
+}
+#sellerguide div:hover{background:#fff;}
+#sellerguide div:hover a{color: #e82f2f;}
+#sellerguide div a{
+	font-size:12px;
+	color:#666;
+	font-weight:bold;
+}

@@ -1,0 +1,126 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>   
+     <link rel="stylesheet" type="text/css" href="css/login.css" />
+    <link rel="stylesheet" type="text/css" href="css/index.css" />
+    <link rel="icon" sizes="any"  href="images2/vb.jpg" />
+    <title></title>
+    <style type="text/css">
+        #nav a:link{text-decoration:none;}
+        #nav a:visited{text-decoration:none;}
+        #nav a:hover{text-decoration:none;}
+        #nav li ul {line-height: 27px;  list-style-type: none;text-align:left;left: -999em; width: 180px; position: absolute;}
+        #nav li ul li{float: left; width: 180px;background: #F6F6F6;}
+        #nav li ul a{display: block; width: 156px;text-align:left;padding-left:24px;}
+        #nav li ul a:link{color:#666; text-decoration:none}
+        #nav li ul a:visited {color:#666;text-decoration:none;}
+        #nav li ul a:hover{color:#F3F3F3;text-decoration:none;font-weight:normal;background:#C00;}
+        #nav li:hover ul {left: auto;}
+        #nav li.sfhover ul {left: auto;}
+        #content{clear: left}
+    </style>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+             <!------------------------------------------最顶层开始------------------------------------------------>
+        <div class="dingceng">
+            <table  align="center" class="dingceng_1">
+                  <tbody>
+                    <tr>
+                        <td class="td_1">
+        	                <ul>
+				               <li class="li_1"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1585714375&site=qq&menu=yes" title="第一试用网QQ企业客服" class="dingcheng_12">QQ客服</a></li>
+                                <li class="li_2">|</li>
+                                <li class="li_3"><a href="<%=path %>Help/" target="_blank" class="dingcheng_12">帮助中心</a></li>
+                                <li class="li_2">|</li>
+                                <li class="li_4"><a href="<%=path %>New/" target="_blank" class="dingcheng_12">试用流程</a></li>
+                                <li class="li_2">|</li>
+                                <li class="li_5"><a href="<%=path %>promotion/" target="_blank" class="dingcheng_12">推荐会员</a></li>
+			                </ul>
+		                </td>
+                        <td class="td_2">
+                            <ul id="nav">
+			                    <li class="li_6">
+                                    <a href="<%=adminurl %>user/index.aspx" class="dingcheng_12">商家中心</a>
+			                    </li>
+                                <li class="li_7">|</li>
+                               <%if(id==0){ %>
+                                <li class="li_8"><a href="<%=path %>Registere.aspx" class="dingcheng_12">免费注册</a></li>
+                                <li class="li_9"><a href="<%=userurl %>login.aspx" class="dingcheng_12">您好,请登录</a></li>
+                                <%}else{ %>
+                                <li class="li_9"><a href="<%=userurl %>users/RecordShi.aspx" class="dingcheng_12">我的试用记录</a></li>
+                                <li class="li_7">-</li>
+                                <li class="li_8">
+                                    <a href="<%=userurl %>users/index.aspx" class="dingcheng_12">会员中心</a>
+                                </li>
+                                <li class="li_7">|</li>
+                                <li class="li_10"><a href="<%=userurl %>logout.aspx" class="dingcheng_12">&nbsp;&nbsp;&nbsp;退出</a></li>
+                                <li class="li_11">欢迎您,<a href="<%=userurl %>login.aspx" class="dingcheng_12"> <%=name %></a></li>
+                                <%} %>
+
+                            </ul>
+		                </td>
+                  </tr>
+                </tbody>
+            </table>
+        </div>
+        <div>
+            <div>
+
+            </div>
+        </div>
+    <!------------------------------------------最顶层结束------------------------------------------------>
+        <div class="aboutUsl clr">
+            <div class="zhongXinr clr" style="">
+                  <div id="ddimagetabs" class="caidan-3">
+	                   <%=menu %>
+	              </div>
+            </div>
+        </div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+           
+         
+        <%-- 最底部信息 --%>
+        <div class="aboutUs clr">
+              <%--<div class="footer clr" style="padding-bottom: 20px;">
+            <div class="last clr">
+                <span>关于我们</span><span>|</span>
+                <span>隐私保护</span><span>|</span>
+                <span>网站地图</span><span>|</span>
+                <span>联系我们</span><span></span>
+                <span> Copyright  © 2012-2020 www.91zhepingou.com All RightsReserved </span>
+
+            </div>
+        </div>--%>
+            <div class="zhongXin clr">
+                <div class="zuoBian clr">
+                    <div>
+                        <img src="<%=path %>images/find.png" />
+                    </div>
+                    <div style="margin:20px">
+                        <img src="<%=path %>images/360.png" style="margin:20px"/><img src="<%=path %>images/ke.png" style="margin:20px"/><img src="<%=path %>images/shi.png" style="margin:20px"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+       <footer class="clr footer" style="margin-bottom:0px;text-align:center;padding:15px;font-weight:bold;color:#fff;min-width:1000px;">
+           Copyright  © 2012-2020 www.91zhepingou.com All RightsReserved 折品购试用网
+      </footer>
+        <script>
+            $(function () {
+                $(".caidan-3 a li").click(function () {
+                    $(".caidan-3 a li").eq($(this).index()).addClass("li-1").siblings().removeClass("li-1");
+                })
+            })
+        </script>
+    </form>
+</body>
+</html>

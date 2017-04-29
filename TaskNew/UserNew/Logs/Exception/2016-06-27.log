@@ -1,0 +1,270 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-27 11:53:13,267 
+【线程编号】[7] 
+【执行时间】[46]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Details.aspx.cs 
+【出错行号】141 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-27 15:52:18,001 
+【线程编号】[8] 
+【执行时间】[57]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:55462/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.AddCartInfo(String join, DateTime time) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 286
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 94
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-27 15:52:19,983 
+【线程编号】[9] 
+【执行时间】[2038]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:55462/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.AddCartInfo(String join, DateTime time) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 286
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 94
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-27 15:52:23,519 
+【线程编号】[16] 
+【执行时间】[5574]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:55462/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.AddCartInfo(String join, DateTime time) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 286
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 94
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-27 15:52:23,986 
+【线程编号】[9] 
+【执行时间】[6041]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:55462/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.AddCartInfo(String join, DateTime time) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 286
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 94
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-27 15:52:24,155 
+【线程编号】[15] 
+【执行时间】[6210]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:55462/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.AddCartInfo(String join, DateTime time) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 286
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 94
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-27 15:52:28,366 
+【线程编号】[10] 
+【执行时间】[10421]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:55462/data/data.aspx
+错误信息：值不能为 null。
+参数名: String
+堆栈內容：
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 88
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-27 15:57:07,320 
+【线程编号】[9] 
+【执行时间】[289375]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-27 15:57:07,322 
+【线程编号】[9] 
+【执行时间】[289377]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-27 15:57:07,322 
+【线程编号】[9] 
+【执行时间】[289377]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-27 15:57:09,979 
+【线程编号】[10] 
+【执行时间】[292034]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-27 15:57:09,980 
+【线程编号】[10] 
+【执行时间】[292035]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-27 15:57:09,980 
+【线程编号】[10] 
+【执行时间】[292035]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\App_Code\BasePage.cs 
+【出错行号】216 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】error:uploadQinui:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。系统找不到指定的文件。| 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-27 15:57:12,339 
+【线程编号】[15] 
+【执行时间】[294394]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:55462/data/data.aspx
+错误信息：输入字符串的格式不正确。
+堆栈內容：
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 e:\TaskNew\TaskNew\UserNew\data\data.aspx.cs:行号 103
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-27 15:57:21,067 
+【线程编号】[15] 
+【执行时间】[303122]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Details.aspx.cs 
+【出错行号】141 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-27 16:00:48,312 
+【线程编号】[15] 
+【执行时间】[510367]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:55462/usersnew/TasksDay21.aspx?id=1275
+错误信息：文件“/usersnew/TasksDay21.aspx”不存在。
+堆栈內容：
+   在 System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-27 16:06:49,798 
+【线程编号】[21] 
+【执行时间】[871853]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Details.aspx.cs 
+【出错行号】141 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:1 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-27 17:25:08,478 
+【线程编号】[52] 
+【执行时间】[5570533]毫秒 
+【出错文件】e:\TaskNew\TaskNew\UserNew\Details.aspx.cs 
+【出错行号】141 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:1 
+【错误详情】

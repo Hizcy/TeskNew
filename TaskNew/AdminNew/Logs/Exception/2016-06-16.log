@@ -1,0 +1,462 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 15:25:57,821 
+【线程编号】[7] 
+【执行时间】[198]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/user/index.aspx
+错误信息：d:\zhanglixiangmu\威小宝刷单\Admin\MasterPage.master.cs(8): error ASPNET: 请确保此代码文件中定义的类与“inherits”特性匹配，并且该类扩展的基类(例如 Page 或 UserControl)是正确的。
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.PostProcessFoundBuildResult(BuildResult result, Boolean keyFromVPP, VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetBuildResultFromCacheInternal(String cacheKey, Boolean keyFromVPP, VirtualPath virtualPath, Int64 hashCode, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultFromCacheInternal(VirtualPath virtualPath, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   在 System.Web.UI.BaseTemplateParser.GetReferencedType(VirtualPath virtualPath, Boolean allowNoCompile)
+   在 System.Web.UI.PageParser.ProcessMainDirectiveAttribute(String deviceName, String name, String value, IDictionary parseData)
+   在 System.Web.UI.TemplateParser.ProcessMainDirective(IDictionary mainDirective) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 15:28:53,405 
+【线程编号】[5] 
+【执行时间】[175782]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/user/index.aspx
+错误信息：d:\zhanglixiangmu\威小宝刷单\Admin\MasterPage.master.cs(8): error ASPNET: 请确保此代码文件中定义的类与“inherits”特性匹配，并且该类扩展的基类(例如 Page 或 UserControl)是正确的。
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.PostProcessFoundBuildResult(BuildResult result, Boolean keyFromVPP, VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetBuildResultFromCacheInternal(String cacheKey, Boolean keyFromVPP, VirtualPath virtualPath, Int64 hashCode, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultFromCacheInternal(VirtualPath virtualPath, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   在 System.Web.UI.BaseTemplateParser.GetReferencedType(VirtualPath virtualPath, Boolean allowNoCompile)
+   在 System.Web.UI.PageParser.ProcessMainDirectiveAttribute(String deviceName, String name, String value, IDictionary parseData)
+   在 System.Web.UI.TemplateParser.ProcessMainDirective(IDictionary mainDirective) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 15:34:17,270 
+【线程编号】[28] 
+【执行时间】[50]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】37 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|4|zcy|!QAZxsw2#EDCvfr4 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 16:33:22,290 
+【线程编号】[8] 
+【执行时间】[213]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/busines/TaskYonga.aspx
+错误信息：d:\zhanglixiangmu\威小宝刷单\Admin\busines\TaskYonga.aspx(45): error CS1056: 意外的字符“）”
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:33:31,669 
+【线程编号】[72] 
+【执行时间】[201]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\upload.aspx.cs 
+【出错行号】82 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui3:ak:1G5S7rsUN6OROvmI0tAayz5PC8faGXnqWkcB5HLa,sk:ZJc2Gkv1orA7gwLHTs_JgOqdbpEAvcuV67rS6x0x,name:image91,file:20160616183331271.jpg,originalImagePath:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160616183331271.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:33:32,446 
+【线程编号】[72] 
+【执行时间】[978]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160616183331271.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:33:32,838 
+【线程编号】[72] 
+【执行时间】[1370]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:33:32,839 
+【线程编号】[72] 
+【执行时间】[1371]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160616183331271.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:33:32,916 
+【线程编号】[72] 
+【执行时间】[1448]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:33:32,917 
+【线程编号】[72] 
+【执行时间】[1449]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160616183331271.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:33:32,994 
+【线程编号】[72] 
+【执行时间】[1527]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:33:52,556 
+【线程编号】[70] 
+【执行时间】[21088]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\upload.aspx.cs 
+【出错行号】82 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui3:ak:1G5S7rsUN6OROvmI0tAayz5PC8faGXnqWkcB5HLa,sk:ZJc2Gkv1orA7gwLHTs_JgOqdbpEAvcuV67rS6x0x,name:image91,file:20160616183352474.jpg,originalImagePath:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160616183352474.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:33:52,556 
+【线程编号】[70] 
+【执行时间】[21088]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160616183352474.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:33:52,650 
+【线程编号】[70] 
+【执行时间】[21182]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:33:52,650 
+【线程编号】[70] 
+【执行时间】[21182]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160616183352474.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:33:52,727 
+【线程编号】[70] 
+【执行时间】[21259]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:33:52,727 
+【线程编号】[70] 
+【执行时间】[21259]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160616183352474.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:33:52,805 
+【线程编号】[70] 
+【执行时间】[21337]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:34:14,659 
+【线程编号】[74] 
+【执行时间】[43191]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】284 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateshiyongtask,userid:4,platForm:1,activeMethod:1,isEvaluate:0,isMessage:0,activeName:we,url:www.91zhepingou.com,guanjianci:1,1,12,11,12,guanjianci:1,1,12,11,12,guanjianci:1,1,12,11,12,guanjianci:1,1,1,11,12,guanjianci:1,1,12,11,12,seller:4,productType:3,price:12,productNum:2,activeNum:7,commissionPrice:0,guaranteePrice:24,productImage:http://localhost:35753/upimg/20160616183331271.jpg,listImage:http://localhost:35753/upimg/20160616183352474.jpg,activeType:0,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:35:49,394 
+【线程编号】[72] 
+【执行时间】[137927]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】284 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateshiyongtask,userid:4,platForm:1,activeMethod:1,isEvaluate:0,isMessage:0,activeName:we,url:www.91zhepingou.com,guanjianci:1,1,12,11,12,guanjianci:1,1,12,11,12,guanjianci:1,1,12,11,12,guanjianci:1,1,1,11,12,guanjianci:1,1,12,11,12,seller:4,productType:3,price:12,productNum:2,activeNum:5,commissionPrice:0,guaranteePrice:24,productImage:http://localhost:35753/upimg/20160616183331271.jpg,listImage:http://localhost:35753/upimg/20160616183352474.jpg,activeType:0,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:37:37,057 
+【线程编号】[70] 
+【执行时间】[245589]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\upload.aspx.cs 
+【出错行号】82 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui3:ak:1G5S7rsUN6OROvmI0tAayz5PC8faGXnqWkcB5HLa,sk:ZJc2Gkv1orA7gwLHTs_JgOqdbpEAvcuV67rS6x0x,name:image91,file:20160616183737010.jpg,originalImagePath:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160616183737010.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:37:37,058 
+【线程编号】[70] 
+【执行时间】[245590]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160616183737010.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:37:37,210 
+【线程编号】[70] 
+【执行时间】[245742]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:37:37,211 
+【线程编号】[70] 
+【执行时间】[245743]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160616183737010.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:37:37,288 
+【线程编号】[70] 
+【执行时间】[245820]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:37:37,288 
+【线程编号】[70] 
+【执行时间】[245820]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160616183737010.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:37:37,404 
+【线程编号】[70] 
+【执行时间】[245936]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:37:47,893 
+【线程编号】[70] 
+【执行时间】[256425]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\upload.aspx.cs 
+【出错行号】82 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui3:ak:1G5S7rsUN6OROvmI0tAayz5PC8faGXnqWkcB5HLa,sk:ZJc2Gkv1orA7gwLHTs_JgOqdbpEAvcuV67rS6x0x,name:image91,file:20160616183747777.jpg,originalImagePath:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160616183747777.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:37:47,893 
+【线程编号】[70] 
+【执行时间】[256425]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160616183747777.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:37:48,334 
+【线程编号】[70] 
+【执行时间】[256866]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:37:48,335 
+【线程编号】[70] 
+【执行时间】[256867]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160616183747777.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:37:48,658 
+【线程编号】[70] 
+【执行时间】[257190]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:37:48,659 
+【线程编号】[70] 
+【执行时间】[257191]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160616183747777.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:37:49,014 
+【线程编号】[70] 
+【执行时间】[257546]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:38:05,512 
+【线程编号】[7] 
+【执行时间】[274044]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】284 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateshiyongtask,userid:4,platForm:1,activeMethod:1,isEvaluate:0,isMessage:0,activeName:wq,url:www.91zhepingou.com,guanjianci:1,1,1,1,2,guanjianci:1,1,1,1,2,guanjianci:1,1,,1,2,guanjianci:1,1,,1,2,guanjianci:1,1,,1,2,seller:4,productType:3,price:11,productNum:2,activeNum:6,commissionPrice:0,guaranteePrice:22,productImage:http://localhost:35753/upimg/20160616183737010.jpg,listImage:http://localhost:35753/upimg/20160616183747777.jpg,activeType:0,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 18:56:43,285 
+【线程编号】[30] 
+【执行时间】[1391817]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】284 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateshiyongtask,userid:4,platForm:1,activeMethod:1,isEvaluate:0,isMessage:0,activeName:wq,url:www.91zhepingou.com,guanjianci:1,1,1,1,2,guanjianci:1,1,1,1,2,guanjianci:1,1,,1,2,guanjianci:1,1,,1,2,guanjianci:1,1,,1,2,seller:4,productType:3,price:11,productNum:2,activeNum:7,commissionPrice:0,guaranteePrice:22,productImage:http://localhost:35753/upimg/20160616183737010.jpg,listImage:http://localhost:35753/upimg/20160616183737010.jpg,activeType:0,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 19:11:41,417 
+【线程编号】[38] 
+【执行时间】[46]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】228 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addshiyongtask,userid:4,platForm:1,activeMethod:1,isEvaluate:0,isMessage:0,activeName:wq,url:www.91zhepingou.com,guanjianci:1,1,1,1,2,guanjianci:1,1,1,1,2,guanjianci:1,1,,1,2,guanjianci:1,1,,1,2,guanjianci:1,1,,1,2,seller:4,productType:3,price:11,productNum:2,activeNum:5,commissionPrice:0,guaranteePrice:22,productImage:http://localhost:35753/upimg/20160616183737010.jpg,listImage:http://localhost:35753/upimg/20160616183737010.jpg,activeType:0,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 19:12:43,346 
+【线程编号】[40] 
+【执行时间】[61975]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】287 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateshiyongtask,taskid:1347userid:4,platForm:1,activeMethod:1,isEvaluate:0,isMessage:0,activeName:wq,url:www.91zhepingou.com,guanjianci:1,1,1,1,2,guanjianci:1,1,1,1,2,guanjianci:1,1,,1,2,guanjianci:1,1,,1,2,guanjianci:1,1,,1,2,seller:4,productType:3,price:11,productNum:2,activeNum:6,commissionPrice:0,guaranteePrice:22,productImage:http://localhost:35753/upimg/20160616183737010.jpg,listImage:http://localhost:35753/upimg/20160616183737010.jpg,activeType:0,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-16 19:12:58,948 
+【线程编号】[78] 
+【执行时间】[77577]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】287 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateshiyongtask,taskid:1347userid:4,platForm:1,activeMethod:1,isEvaluate:0,isMessage:0,activeName:wq,url:www.91zhepingou.com,guanjianci:1,1,1,1,2,guanjianci:1,1,1,1,2,guanjianci:1,1,,1,2,guanjianci:1,1,,1,2,guanjianci:1,1,,1,2,seller:4,productType:3,price:11,productNum:8,activeNum:8,commissionPrice:0,guaranteePrice:88,productImage:http://localhost:35753/upimg/20160616183737010.jpg,listImage:http://localhost:35753/upimg/20160616183737010.jpg,activeType:0,message: 
+【错误详情】

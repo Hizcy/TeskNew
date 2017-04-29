@@ -1,0 +1,223 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-14 09:40:34,349 
+【线程编号】[7] 
+【执行时间】[98]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-14 09:59:26,742 
+【线程编号】[9] 
+【执行时间】[64]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:6108/busines/addGoods.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 busines_addGoods.Page_Load(Object sender, EventArgs e) 位置 c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\busines\addGoods.aspx.cs:行号 16
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-14 10:01:18,307 
+【线程编号】[9] 
+【执行时间】[111629]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:6108/busines/addGoods.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 busines_addGoods.Page_Load(Object sender, EventArgs e) 位置 c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\busines\addGoods.aspx.cs:行号 16
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-14 10:23:51,583 
+【线程编号】[29] 
+【执行时间】[82]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\data\data.aspx.cs 
+【出错行号】114 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】platForm:1,activeMethod:1,activeName:ddd,url:http://baidu.com,guanjianci:1,1,1,大概在第1页第1行,1,2,seller:14,productType:2,price:11,productNum:2,activeNum:5,commissionPrice:0,guaranteePrice:22,productImage:http://localhost:6108/upimg/20160414102344234.jpg,listImage:http://localhost:6108/upimg/20160414102348353.jpg,activeType:3,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-14 10:26:32,428 
+【线程编号】[37] 
+【执行时间】[160926]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-14 12:53:20,702 
+【线程编号】[22] 
+【执行时间】[172]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-14 13:03:50,267 
+【线程编号】[33] 
+【执行时间】[629736]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-14 13:21:20,413 
+【线程编号】[15] 
+【执行时间】[1679883]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\data\data.aspx.cs 
+【出错行号】114 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】platForm:1,activeMethod:1,activeName:张三,url:http://baidu.com,guanjianci:1,1,1,大概在第1页第1行,1,3,seller:14,productType:1,price:11,productNum:2,activeNum:8,commissionPrice:0,guaranteePrice:22,productImage:http://localhost:6108/upimg/20160414132114505.jpg,listImage:http://localhost:6108/upimg/20160414132117508.jpg,activeType:3,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-14 13:21:59,284 
+【线程编号】[15] 
+【执行时间】[1718754]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\data\data.aspx.cs 
+【出错行号】114 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】platForm:1,activeMethod:2,activeName:李四,url:http://baidu.com,guanjianci:1,1,2,大概在第2页第2行,2,3,seller:14,productType:1,price:2,productNum:2,activeNum:10,commissionPrice:0,guaranteePrice:4,productImage:http://localhost:6108/upimg/20160414132152350.jpg,listImage:http://localhost:6108/upimg/20160414132156734.jpg,activeType:3,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-14 15:06:23,799 
+【线程编号】[25] 
+【执行时间】[230]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-14 16:02:18,230 
+【线程编号】[49] 
+【执行时间】[3354660]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-14 16:48:11,541 
+【线程编号】[16] 
+【执行时间】[191]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\data\data.aspx.cs 
+【出错行号】114 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】platForm:1,activeMethod:2,activeName:王五,url:http://baidu.com,guanjianci:1,1,1,大概在第1页第1行,1,2,seller:14,productType:1,price:1,productNum:2,activeNum:6,commissionPrice:1.5,guaranteePrice:5,productImage:http://localhost:6108/upimg/20160414164736299.jpg,listImage:http://localhost:6108/upimg/20160414164732719.jpg,activeType:2,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-14 16:49:23,326 
+【线程编号】[24] 
+【执行时间】[71976]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\data\data.aspx.cs 
+【出错行号】114 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】platForm:1,activeMethod:1,activeName:溜溜,url:http://baidu.com,guanjianci:1,1,1,大概在第1页第1行,1,2,seller:14,productType:1,price:2,productNum:2,activeNum:6,commissionPrice:1.5,guaranteePrice:7,productImage:http://localhost:6108/upimg/20160414164917347.jpg,listImage:http://localhost:6108/upimg/20160414164921325.jpg,activeType:2,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-14 16:56:41,857 
+【线程编号】[47] 
+【执行时间】[510507]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\data\data.aspx.cs 
+【出错行号】114 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】platForm:1,activeMethod:1,activeName:小小,url:http://baidu.com,guanjianci:1,1,1,大概在第1页第1行,1,2,seller:14,productType:1,price:1,productNum:2,activeNum:7,commissionPrice:2,guaranteePrice:6,productImage:http://localhost:6108/upimg/20160414165636804.jpg,listImage:http://localhost:6108/upimg/20160414165639600.jpg,activeType:1,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-14 16:57:24,439 
+【线程编号】[47] 
+【执行时间】[553089]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\data\data.aspx.cs 
+【出错行号】114 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】platForm:1,activeMethod:2,activeName:旺旺,url:http://baidu.com,guanjianci:1,1,4,大概在第4页第4行,4,5,seller:14,productType:1,price:5,productNum:2,activeNum:5,commissionPrice:2,guaranteePrice:14,productImage:http://localhost:6108/upimg/20160414165654846.jpg,listImage:http://localhost:6108/upimg/20160414165652442.jpg,activeType:1,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-14 18:03:18,175 
+【线程编号】[9] 
+【执行时间】[66]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-14 18:27:44,977 
+【线程编号】[7] 
+【执行时间】[1466868]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-14 18:28:54,205 
+【线程编号】[7] 
+【执行时间】[1536096]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-14 19:07:46,835 
+【线程编号】[20] 
+【执行时间】[134]毫秒 
+【出错文件】c:\Users\v\Documents\Visual Studio 2012\WebSites\Admin1\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】

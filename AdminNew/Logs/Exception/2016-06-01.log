@@ -1,0 +1,62 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-01 11:46:53,659 
+【线程编号】[6] 
+【执行时间】[289]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/TaskNew/AddTask1.aspx
+错误信息：无法在母版页“/MasterPagetasknew.master”中找到 ContentPlaceHolder“ContentPlaceHolder1”，请验证内容页中内容控件的 ContentPlaceHolderID 特性。
+堆栈內容：
+   在 System.Web.UI.MasterPage.CreateMaster(TemplateControl owner, HttpContext context, VirtualPath masterPageFile, IDictionary contentTemplateCollection)
+   在 System.Web.UI.Page.get_Master()
+   在 System.Web.UI.Page.ApplyMasterPage()
+   在 System.Web.UI.Page.PerformPreInit()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-01 16:43:43,451 
+【线程编号】[25] 
+【执行时间】[537]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:b4i3epx44cjjwhkokoks1vav 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-01 16:43:44,525 
+【线程编号】[25] 
+【执行时间】[1611]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:CD422AB8EB58092933974E6E3AADCB5FA9D93F6DAE5829E9E4C03D276056A15E76C6C7E4CC61ADF59C1E9D20A0E040A2F2CFA6434295B8788B05D7DE6690A46AEEAEF75FF611D27D6096B64FA44F1CF2ED3CC1A61E334B91B7E70579D633B9984C618E56AA6760D0179A2FCE14080A779CB56CD7289C5E42BFF05E2F875F78B6FCFF96E9F63C5801582C1469BD4B0DD6967136666039391C88AD38C8E4090054D677D294F2FDC1D82D43C50E85E9CF8F49F6B70E72F82D86000751B2DA00C03F 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-01 16:44:42,298 
+【线程编号】[11] 
+【执行时间】[59384]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:b4i3epx44cjjwhkokoks1vav 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-01 16:44:42,302 
+【线程编号】[11] 
+【执行时间】[59388]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:CD422AB8EB58092933974E6E3AADCB5FA9D93F6DAE5829E9E4C03D276056A15E76C6C7E4CC61ADF59C1E9D20A0E040A2F2CFA6434295B8788B05D7DE6690A46AEEAEF75FF611D27D6096B64FA44F1CF2ED3CC1A61E334B91B7E70579D633B9984C618E56AA6760D0179A2FCE14080A779CB56CD7289C5E42BFF05E2F875F78B6FCFF96E9F63C5801582C1469BD4B0DD6967136666039391C88AD38C8E4090054D677D294F2FDC1D82D43C50E85E9CF8F49F6B70E72F82D86000751B2DA00C03F 
+【错误详情】

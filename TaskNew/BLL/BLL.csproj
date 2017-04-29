@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7D998BF9-4C6D-4DB5-9328-B3E8A591AFB8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BLL</RootNamespace>
+    <AssemblyName>BLL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Utils">
+      <HintPath>F:\CommonLib\Utils.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseBLL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="tb_Answer_QuestionLogic.cs" />
+    <Compile Include="tb_ArticleLogic.cs" />
+    <Compile Include="tb_BindCardLogic.cs" />
+    <Compile Include="tb_BuyerLogic.cs" />
+    <Compile Include="tb_ComplaintLogic.cs" />
+    <Compile Include="tb_ConcernLogic.cs" />
+    <Compile Include="tb_ErrorLogic.cs" />
+    <Compile Include="tb_GoldTradeLogic.cs" />
+    <Compile Include="tb_ItemLogic.cs" />
+    <Compile Include="tb_LocationLogic.cs" />
+    <Compile Include="tb_LoginInfoLogic.cs" />
+    <Compile Include="tb_MailLogic.cs" />
+    <Compile Include="tb_MoneyLogic.cs" />
+    <Compile Include="tb_OpinionLogic.cs" />
+    <Compile Include="tb_OrderInforLogic.cs" />
+    <Compile Include="tb_PointsInfoLogic.cs" />
+    <Compile Include="tb_QuestionLogic.cs" />
+    <Compile Include="tb_Question_UserLogic.cs" />
+    <Compile Include="tb_SellerLogic.cs" />
+    <Compile Include="tb_ShareLogic.cs" />
+    <Compile Include="tb_Sms_logLogic.cs" />
+    <Compile Include="tb_Sms_verifyLogic.cs" />
+    <Compile Include="tb_TaskLogic.cs" />
+    <Compile Include="tb_Task_KeywordLogic.cs" />
+    <Compile Include="tb_Task_UserLogic.cs" />
+    <Compile Include="tb_Task_User_ExtLogic.cs" />
+    <Compile Include="tb_Task_User_logLogic.cs" />
+    <Compile Include="tb_Task_User_ScoreLogic.cs" />
+    <Compile Include="tb_TemplateLogic.cs" />
+    <Compile Include="tb_TeskQuestionsLogic.cs" />
+    <Compile Include="tb_TokenLogic.cs" />
+    <Compile Include="tb_UsersLogic.cs" />
+    <Compile Include="tb_User_CardLogic.cs" />
+    <Compile Include="tb_User_GoldConisLogic.cs" />
+    <Compile Include="tb_User_MailLogic.cs" />
+    <Compile Include="tk_goodsLogic.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{8dfd8541-a5df-49b4-83cc-e6cfa0a4cbaf}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{36e65cce-8f90-459c-8794-40fe7999d939}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

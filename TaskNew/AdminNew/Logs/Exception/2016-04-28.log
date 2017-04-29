@@ -1,0 +1,1353 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 11:19:37,497 
+【线程编号】[45] 
+【执行时间】[249]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 11:30:58,271 
+【线程编号】[29] 
+【执行时间】[681022]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 11:57:18,657 
+【线程编号】[6] 
+【执行时间】[99]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 12:02:54,456 
+【线程编号】[10] 
+【执行时间】[335898]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 12:02:54,529 
+【线程编号】[10] 
+【执行时间】[335971]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:0090E6AFA6F877AD452B4B18D57011D9AA265A377810D557D1205FF7AA9417AAEF9404DE66437FEA466561D3D626439B5A662B125F170A448532A04EBDBAAD362E949071DBC2BF58099721338624F1E3C19B502B4EE671408AB2193A92E567B76690E528DF1E1C71976D14F7C68BF505AEB246DBA2FE279CC62F1444C49A30E7C356E2848C2193EBA487C13DD03A1381AAD0D604504F0ED6596959B3FEACBFAB32956ED495AFCB1692A8A18282C1138B1D3136EF0EA2A7EAB02E7A30160BADC7 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 12:04:41,066 
+【线程编号】[17] 
+【执行时间】[442507]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 12:04:41,068 
+【线程编号】[17] 
+【执行时间】[442509]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:0090E6AFA6F877AD452B4B18D57011D9AA265A377810D557D1205FF7AA9417AAEF9404DE66437FEA466561D3D626439B5A662B125F170A448532A04EBDBAAD362E949071DBC2BF58099721338624F1E3C19B502B4EE671408AB2193A92E567B76690E528DF1E1C71976D14F7C68BF505AEB246DBA2FE279CC62F1444C49A30E7C356E2848C2193EBA487C13DD03A1381AAD0D604504F0ED6596959B3FEACBFAB32956ED495AFCB1692A8A18282C1138B1D3136EF0EA2A7EAB02E7A30160BADC7 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 12:05:24,844 
+【线程编号】[8] 
+【执行时间】[486285]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】155 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,taskid:141,platForm:1,activeMethod:1,activeName:cheshi,url:http://baidu.com,guanjianci:1,1,ceshi22,seller:14,productType:5,price:10.00,productNum:5,activeNum:10,commissionPrice:1.00,guaranteePrice:0,productImage:http://localhost:35753/upimg/20160428120339874.jpg,listImage:http://localhost:35753/upimg/20160428120343798.jpg,activeType:2,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 12:06:50,907 
+【线程编号】[24] 
+【执行时间】[572348]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 12:06:50,907 
+【线程编号】[24] 
+【执行时间】[572348]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:0090E6AFA6F877AD452B4B18D57011D9AA265A377810D557D1205FF7AA9417AAEF9404DE66437FEA466561D3D626439B5A662B125F170A448532A04EBDBAAD362E949071DBC2BF58099721338624F1E3C19B502B4EE671408AB2193A92E567B76690E528DF1E1C71976D14F7C68BF505AEB246DBA2FE279CC62F1444C49A30E7C356E2848C2193EBA487C13DD03A1381AAD0D604504F0ED6596959B3FEACBFAB32956ED495AFCB1692A8A18282C1138B1D3136EF0EA2A7EAB02E7A30160BADC7 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 12:08:29,308 
+【线程编号】[10] 
+【执行时间】[670750]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 12:08:29,308 
+【线程编号】[10] 
+【执行时间】[670750]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:CA010781E8CEF527C97B0A9443C38E55B11853517B3FF5F0C14BBAAB92B32361CB2F0B8BD578213E5EFCC1A3C4D70E949282D1671499E5DACE69D0A221A5A59E03F46950B0BA38EDE1FFC1DACF0D8F2CEF6EC2E0887503D9BB58B0B5E513102131044D3DFCE23D4910DE5CBD424183792E45B0183D4BE56D1A13A1C0F28217D9DDC4E850B8BF93FE8FE1AEA9C8673155B37F6DB647E34006B506588205447151B94FFC9EBB86C7DF3AE63AF35E4E6464B5939046862F77E0289D083E2B396F4F 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 12:09:15,096 
+【线程编号】[17] 
+【执行时间】[716537]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 12:09:15,097 
+【线程编号】[17] 
+【执行时间】[716538]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:CA010781E8CEF527C97B0A9443C38E55B11853517B3FF5F0C14BBAAB92B32361CB2F0B8BD578213E5EFCC1A3C4D70E949282D1671499E5DACE69D0A221A5A59E03F46950B0BA38EDE1FFC1DACF0D8F2CEF6EC2E0887503D9BB58B0B5E513102131044D3DFCE23D4910DE5CBD424183792E45B0183D4BE56D1A13A1C0F28217D9DDC4E850B8BF93FE8FE1AEA9C8673155B37F6DB647E34006B506588205447151B94FFC9EBB86C7DF3AE63AF35E4E6464B5939046862F77E0289D083E2B396F4F 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 12:09:45,064 
+【线程编号】[27] 
+【执行时间】[746505]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 12:09:45,065 
+【线程编号】[27] 
+【执行时间】[746506]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:CA010781E8CEF527C97B0A9443C38E55B11853517B3FF5F0C14BBAAB92B32361CB2F0B8BD578213E5EFCC1A3C4D70E949282D1671499E5DACE69D0A221A5A59E03F46950B0BA38EDE1FFC1DACF0D8F2CEF6EC2E0887503D9BB58B0B5E513102131044D3DFCE23D4910DE5CBD424183792E45B0183D4BE56D1A13A1C0F28217D9DDC4E850B8BF93FE8FE1AEA9C8673155B37F6DB647E34006B506588205447151B94FFC9EBB86C7DF3AE63AF35E4E6464B5939046862F77E0289D083E2B396F4F 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 12:10:05,017 
+【线程编号】[28] 
+【执行时间】[766458]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】155 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,taskid:141,platForm:1,activeMethod:1,activeName:cheshi,url:http://baidu.com,guanjianci:1,1,ceshi22,seller:14,productType:5,price:10.00,productNum:5,activeNum:10,commissionPrice:1,guaranteePrice:55,productImage:http://localhost:35753/upimg/20160428120339874.jpg,listImage:http://localhost:35753/upimg/20160428120343798.jpg,activeType:2,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:10:42,299 
+【线程编号】[55] 
+【执行时间】[4403740]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:10:49,093 
+【线程编号】[55] 
+【执行时间】[4410534]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:10:49,096 
+【线程编号】[55] 
+【执行时间】[4410537]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:361C8C1E3D745C2577BB1DB1688A7009E0F0F7360B4763EE4CCAEBF1ED9B629A29F662904A230F31FC4075B1EA2731A8278DEDA10DEFEA933008C13D6B0DF51AD2F5000272C3EE98CEFCDCA277C58457116EC459F5A96CE12F84F57AB26AF5F27E92F8AC169D3B7BBE8115CF1F1CF7EC3B54B1F51D8B4111673AFFEAC856B70D809EB0432FA7139DC40D95AA869229E9595D07F295D2006A4BCE1CAE95C126C1C499089B43C3C550461F728EE4C9ABED69949EDC5B2BF95637B005156D6C1D89 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:11:05,532 
+【线程编号】[46] 
+【执行时间】[4426973]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:11:05,534 
+【线程编号】[46] 
+【执行时间】[4426975]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:361C8C1E3D745C2577BB1DB1688A7009E0F0F7360B4763EE4CCAEBF1ED9B629A29F662904A230F31FC4075B1EA2731A8278DEDA10DEFEA933008C13D6B0DF51AD2F5000272C3EE98CEFCDCA277C58457116EC459F5A96CE12F84F57AB26AF5F27E92F8AC169D3B7BBE8115CF1F1CF7EC3B54B1F51D8B4111673AFFEAC856B70D809EB0432FA7139DC40D95AA869229E9595D07F295D2006A4BCE1CAE95C126C1C499089B43C3C550461F728EE4C9ABED69949EDC5B2BF95637B005156D6C1D89 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:11:20,795 
+【线程编号】[46] 
+【执行时间】[4442236]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:11:20,795 
+【线程编号】[46] 
+【执行时间】[4442236]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:361C8C1E3D745C2577BB1DB1688A7009E0F0F7360B4763EE4CCAEBF1ED9B629A29F662904A230F31FC4075B1EA2731A8278DEDA10DEFEA933008C13D6B0DF51AD2F5000272C3EE98CEFCDCA277C58457116EC459F5A96CE12F84F57AB26AF5F27E92F8AC169D3B7BBE8115CF1F1CF7EC3B54B1F51D8B4111673AFFEAC856B70D809EB0432FA7139DC40D95AA869229E9595D07F295D2006A4BCE1CAE95C126C1C499089B43C3C550461F728EE4C9ABED69949EDC5B2BF95637B005156D6C1D89 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:15:22,192 
+【线程编号】[58] 
+【执行时间】[4683633]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:15:22,194 
+【线程编号】[58] 
+【执行时间】[4683635]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:361C8C1E3D745C2577BB1DB1688A7009E0F0F7360B4763EE4CCAEBF1ED9B629A29F662904A230F31FC4075B1EA2731A8278DEDA10DEFEA933008C13D6B0DF51AD2F5000272C3EE98CEFCDCA277C58457116EC459F5A96CE12F84F57AB26AF5F27E92F8AC169D3B7BBE8115CF1F1CF7EC3B54B1F51D8B4111673AFFEAC856B70D809EB0432FA7139DC40D95AA869229E9595D07F295D2006A4BCE1CAE95C126C1C499089B43C3C550461F728EE4C9ABED69949EDC5B2BF95637B005156D6C1D89 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:15:28,508 
+【线程编号】[46] 
+【执行时间】[4689949]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:15:28,508 
+【线程编号】[46] 
+【执行时间】[4689949]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:361C8C1E3D745C2577BB1DB1688A7009E0F0F7360B4763EE4CCAEBF1ED9B629A29F662904A230F31FC4075B1EA2731A8278DEDA10DEFEA933008C13D6B0DF51AD2F5000272C3EE98CEFCDCA277C58457116EC459F5A96CE12F84F57AB26AF5F27E92F8AC169D3B7BBE8115CF1F1CF7EC3B54B1F51D8B4111673AFFEAC856B70D809EB0432FA7139DC40D95AA869229E9595D07F295D2006A4BCE1CAE95C126C1C499089B43C3C550461F728EE4C9ABED69949EDC5B2BF95637B005156D6C1D89 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:15:44,282 
+【线程编号】[53] 
+【执行时间】[4705724]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:15:44,282 
+【线程编号】[53] 
+【执行时间】[4705724]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:361C8C1E3D745C2577BB1DB1688A7009E0F0F7360B4763EE4CCAEBF1ED9B629A29F662904A230F31FC4075B1EA2731A8278DEDA10DEFEA933008C13D6B0DF51AD2F5000272C3EE98CEFCDCA277C58457116EC459F5A96CE12F84F57AB26AF5F27E92F8AC169D3B7BBE8115CF1F1CF7EC3B54B1F51D8B4111673AFFEAC856B70D809EB0432FA7139DC40D95AA869229E9595D07F295D2006A4BCE1CAE95C126C1C499089B43C3C550461F728EE4C9ABED69949EDC5B2BF95637B005156D6C1D89 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:21:06,841 
+【线程编号】[54] 
+【执行时间】[5028283]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:21:06,846 
+【线程编号】[54] 
+【执行时间】[5028288]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:361C8C1E3D745C2577BB1DB1688A7009E0F0F7360B4763EE4CCAEBF1ED9B629A29F662904A230F31FC4075B1EA2731A8278DEDA10DEFEA933008C13D6B0DF51AD2F5000272C3EE98CEFCDCA277C58457116EC459F5A96CE12F84F57AB26AF5F27E92F8AC169D3B7BBE8115CF1F1CF7EC3B54B1F51D8B4111673AFFEAC856B70D809EB0432FA7139DC40D95AA869229E9595D07F295D2006A4BCE1CAE95C126C1C499089B43C3C550461F728EE4C9ABED69949EDC5B2BF95637B005156D6C1D89 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:21:42,957 
+【线程编号】[48] 
+【执行时间】[5064399]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:21:42,959 
+【线程编号】[48] 
+【执行时间】[5064401]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:C48CA94B35E137D66476DCE79560DEEA07113D9130485E3A1F3158AA6482E6801199FEA8E08A87B1579D0853ABB18CC1706D7FA346CF5CDF5B66314AA9E691AC93114F55F45110639708CF73AF2643D7E6B4229B8FEDA593AA148E15DE7A157302B9CF2FF4687C8F45DBD47CCD28CB2749E9ECBB07EF88B627EA6FEC980F36DE8ED5827C0FA40FA97FE7F33575A540B86C062BE3AF21E296FA262BF4D2948D4E55728E1648DF9FC167357797C8A7D380C2D7C4C7CD9E8D65880F0A9A05D107EB 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:22:00,512 
+【线程编号】[55] 
+【执行时间】[5081953]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:22:00,514 
+【线程编号】[55] 
+【执行时间】[5081955]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:C48CA94B35E137D66476DCE79560DEEA07113D9130485E3A1F3158AA6482E6801199FEA8E08A87B1579D0853ABB18CC1706D7FA346CF5CDF5B66314AA9E691AC93114F55F45110639708CF73AF2643D7E6B4229B8FEDA593AA148E15DE7A157302B9CF2FF4687C8F45DBD47CCD28CB2749E9ECBB07EF88B627EA6FEC980F36DE8ED5827C0FA40FA97FE7F33575A540B86C062BE3AF21E296FA262BF4D2948D4E55728E1648DF9FC167357797C8A7D380C2D7C4C7CD9E8D65880F0A9A05D107EB 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:22:58,922 
+【线程编号】[57] 
+【执行时间】[5140363]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:22:58,928 
+【线程编号】[57] 
+【执行时间】[5140369]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:C48CA94B35E137D66476DCE79560DEEA07113D9130485E3A1F3158AA6482E6801199FEA8E08A87B1579D0853ABB18CC1706D7FA346CF5CDF5B66314AA9E691AC93114F55F45110639708CF73AF2643D7E6B4229B8FEDA593AA148E15DE7A157302B9CF2FF4687C8F45DBD47CCD28CB2749E9ECBB07EF88B627EA6FEC980F36DE8ED5827C0FA40FA97FE7F33575A540B86C062BE3AF21E296FA262BF4D2948D4E55728E1648DF9FC167357797C8A7D380C2D7C4C7CD9E8D65880F0A9A05D107EB 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:23:10,373 
+【线程编号】[53] 
+【执行时间】[5151815]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】155 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,taskid:142,platForm:1,activeMethod:1,activeName:ces,url:http://baidu.com,guanjianci:1,1,sec,seller:14,productType:5,price:10.00,productNum:5,activeNum:20,commissionPrice:1.00,guaranteePrice:0,productImage:http://localhost:35753/upimg/20160428120735722.jpg,listImage:http://localhost:35753/upimg/20160428120739308.jpg,activeType:2,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:27:52,900 
+【线程编号】[56] 
+【执行时间】[5434341]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:27:52,902 
+【线程编号】[56] 
+【执行时间】[5434343]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:C48CA94B35E137D66476DCE79560DEEA07113D9130485E3A1F3158AA6482E6801199FEA8E08A87B1579D0853ABB18CC1706D7FA346CF5CDF5B66314AA9E691AC93114F55F45110639708CF73AF2643D7E6B4229B8FEDA593AA148E15DE7A157302B9CF2FF4687C8F45DBD47CCD28CB2749E9ECBB07EF88B627EA6FEC980F36DE8ED5827C0FA40FA97FE7F33575A540B86C062BE3AF21E296FA262BF4D2948D4E55728E1648DF9FC167357797C8A7D380C2D7C4C7CD9E8D65880F0A9A05D107EB 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:28:28,201 
+【线程编号】[48] 
+【执行时间】[5469642]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:28:28,204 
+【线程编号】[48] 
+【执行时间】[5469645]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:C48CA94B35E137D66476DCE79560DEEA07113D9130485E3A1F3158AA6482E6801199FEA8E08A87B1579D0853ABB18CC1706D7FA346CF5CDF5B66314AA9E691AC93114F55F45110639708CF73AF2643D7E6B4229B8FEDA593AA148E15DE7A157302B9CF2FF4687C8F45DBD47CCD28CB2749E9ECBB07EF88B627EA6FEC980F36DE8ED5827C0FA40FA97FE7F33575A540B86C062BE3AF21E296FA262BF4D2948D4E55728E1648DF9FC167357797C8A7D380C2D7C4C7CD9E8D65880F0A9A05D107EB 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:29:00,198 
+【线程编号】[58] 
+【执行时间】[194]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:29:00,218 
+【线程编号】[58] 
+【执行时间】[214]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:C48CA94B35E137D66476DCE79560DEEA07113D9130485E3A1F3158AA6482E6801199FEA8E08A87B1579D0853ABB18CC1706D7FA346CF5CDF5B66314AA9E691AC93114F55F45110639708CF73AF2643D7E6B4229B8FEDA593AA148E15DE7A157302B9CF2FF4687C8F45DBD47CCD28CB2749E9ECBB07EF88B627EA6FEC980F36DE8ED5827C0FA40FA97FE7F33575A540B86C062BE3AF21E296FA262BF4D2948D4E55728E1648DF9FC167357797C8A7D380C2D7C4C7CD9E8D65880F0A9A05D107EB 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:29:17,533 
+【线程编号】[48] 
+【执行时间】[17529]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】155 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,taskid:142,platForm:1,activeMethod:1,activeName:ces,url:http://baidu.com,guanjianci:1,1,sec,seller:14,productType:5,price:10.00,productNum:5,activeNum:20,commissionPrice:1.00,guaranteePrice:0,productImage:http://localhost:35753/upimg/20160428120735722.jpg,listImage:http://localhost:35753/upimg/20160428120739308.jpg,activeType:2,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:29:26,322 
+【线程编号】[56] 
+【执行时间】[26318]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:29:26,323 
+【线程编号】[56] 
+【执行时间】[26319]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:C48CA94B35E137D66476DCE79560DEEA07113D9130485E3A1F3158AA6482E6801199FEA8E08A87B1579D0853ABB18CC1706D7FA346CF5CDF5B66314AA9E691AC93114F55F45110639708CF73AF2643D7E6B4229B8FEDA593AA148E15DE7A157302B9CF2FF4687C8F45DBD47CCD28CB2749E9ECBB07EF88B627EA6FEC980F36DE8ED5827C0FA40FA97FE7F33575A540B86C062BE3AF21E296FA262BF4D2948D4E55728E1648DF9FC167357797C8A7D380C2D7C4C7CD9E8D65880F0A9A05D107EB 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:46:13,688 
+【线程编号】[57] 
+【执行时间】[1033683]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:46:19,545 
+【线程编号】[57] 
+【执行时间】[1039540]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:46:19,548 
+【线程编号】[57] 
+【执行时间】[1039543]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:62293BE8160B46F57BD9F14D81989DC793EBBAEB42B14949016041CC7F88D779AC436F366ECECD5998CF6200A148B5F944E0D483D0042F40F9E902F2CB74C91B9B7E423A8BE6D70427115A2372006045703F50FE482C5621325DD3862ED96DF094B7F8FF0444B34FC7B823C694CDA6B109B312FCC32CC24EBDF0BC28CEEF7BF8B2798960DCB3867465EB16786800B3B7952B0E79BB12C9649F35F18B4C39B41C4BDE651C7FBB5CC5CF93EBB7A74155DBA57FDCC3CF643EE6CD68AD1B043F3F60 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:56:14,157 
+【线程编号】[57] 
+【执行时间】[1634152]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 13:56:14,160 
+【线程编号】[57] 
+【执行时间】[1634155]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:62293BE8160B46F57BD9F14D81989DC793EBBAEB42B14949016041CC7F88D779AC436F366ECECD5998CF6200A148B5F944E0D483D0042F40F9E902F2CB74C91B9B7E423A8BE6D70427115A2372006045703F50FE482C5621325DD3862ED96DF094B7F8FF0444B34FC7B823C694CDA6B109B312FCC32CC24EBDF0BC28CEEF7BF8B2798960DCB3867465EB16786800B3B7952B0E79BB12C9649F35F18B4C39B41C4BDE651C7FBB5CC5CF93EBB7A74155DBA57FDCC3CF643EE6CD68AD1B043F3F60 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 14:15:31,236 
+【线程编号】[36] 
+【执行时间】[2791232]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 14:15:31,240 
+【线程编号】[36] 
+【执行时间】[2791236]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:E5EBCBBC42F5B4AD6A03AEC0F4D403C9938FE1DB0B9C2EAA0D52238163BAF73FDDD6FC6DAFD2B23702EE9FEE868CE72C2D979CC9F43952E5CD64D77572611D90FA2E39DB905B3B12984F38B3BF9EE9A9D35C956FC3973C40B2C72D3E6FD5A32F8498F69C51231FBD42A91CB81E897F673A5E0404103F1856CCC6A63BDA09D4939C6A92CA03CE4EF71BFB2BA853AE81511562E2CD646800E89D03C168032C44A86FEB61AA2EEE2C97DB3181937891637A638712373BED7B30C8AA5A2F33D24889 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 14:20:13,227 
+【线程编号】[44] 
+【执行时间】[3073222]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 14:20:13,229 
+【线程编号】[44] 
+【执行时间】[3073224]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:0B5A4E3B7B95865F94329862E6D35FB3E5A570CD07EACF455E9403D93A07B041CB5E0FE6158B6D5D62A87B522B1D70C05301A6E9AF0B0E205F6C141AED0287FDC25840125F099D084D03F76611E9EE4D3DDCBB82B5FC24CA2F5E902C074AAF93358EE5EB5880C0E794519A260F6F6F7ED48344F5E1CB990315429BF31528936576757A4E141E317702F0328CA3E65275F5803E69FF100CB5EFFD6B76C2C0CE685DDE191EE5CAB892B7B0B2E2293DDE725693CF1C695C8A117FB54F6305FCEC55 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 14:20:16,876 
+【线程编号】[43] 
+【执行时间】[3076872]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 14:20:16,876 
+【线程编号】[43] 
+【执行时间】[3076872]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:0B5A4E3B7B95865F94329862E6D35FB3E5A570CD07EACF455E9403D93A07B041CB5E0FE6158B6D5D62A87B522B1D70C05301A6E9AF0B0E205F6C141AED0287FDC25840125F099D084D03F76611E9EE4D3DDCBB82B5FC24CA2F5E902C074AAF93358EE5EB5880C0E794519A260F6F6F7ED48344F5E1CB990315429BF31528936576757A4E141E317702F0328CA3E65275F5803E69FF100CB5EFFD6B76C2C0CE685DDE191EE5CAB892B7B0B2E2293DDE725693CF1C695C8A117FB54F6305FCEC55 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 14:31:32,048 
+【线程编号】[40] 
+【执行时间】[3752044]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 14:31:32,051 
+【线程编号】[40] 
+【执行时间】[3752047]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:0B5A4E3B7B95865F94329862E6D35FB3E5A570CD07EACF455E9403D93A07B041CB5E0FE6158B6D5D62A87B522B1D70C05301A6E9AF0B0E205F6C141AED0287FDC25840125F099D084D03F76611E9EE4D3DDCBB82B5FC24CA2F5E902C074AAF93358EE5EB5880C0E794519A260F6F6F7ED48344F5E1CB990315429BF31528936576757A4E141E317702F0328CA3E65275F5803E69FF100CB5EFFD6B76C2C0CE685DDE191EE5CAB892B7B0B2E2293DDE725693CF1C695C8A117FB54F6305FCEC55 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:21:58,134 
+【线程编号】[30] 
+【执行时间】[6778130]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:23:27,399 
+【线程编号】[48] 
+【执行时间】[6867394]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:23:27,402 
+【线程编号】[48] 
+【执行时间】[6867397]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:EEE8DD805368F19A4B11A46F993BA6F8E0E7DA070A21C73BD4AB27CC5CDB21B71817E8163DE9D1FDBA8C91FA32EEAC58D3F186EB57C33C5107537CC93817BAC21197A9C339E2848448F0A53C8613CDE86C86F99667845E90653EF11577E721116635CAE28019C29BEEF2CD39F4D821FD145152E9759C2AD069FCBA947CD0594F794C3E56AB7CB1EABB5DF5E204477B830A7F339E011949A15711ED626E1082FEF61F8C0C2E21B6C3CF8DE1C70C40793F98E1F9E30A467E0C2DEC4E6F1F4E3B48 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:24:33,245 
+【线程编号】[48] 
+【执行时间】[6933241]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】155 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,taskid:141,platForm:1,activeMethod:1,activeName:cheshi,url:http://baidu.com,guanjianci:1,1,ceshi22,seller:14,productType:5,price:10.00,productNum:5,activeNum:20,commissionPrice:1,guaranteePrice:55,productImage:http://localhost:35753/upimg/20160428120339874.jpg,listImage:http://localhost:35753/upimg/20160428120343798.jpg,activeType:2,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:30:40,599 
+【线程编号】[48] 
+【执行时间】[7300595]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】215 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,taskid:143,guanjianci:1,1,ce2123453,productImage:http://localhost:35753/upimg/20160428152753929.jpg,listImage:http://localhost:35753/upimg/20160428152758358.jpg,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:32:39,036 
+【线程编号】[48] 
+【执行时间】[7419031]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】215 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,taskid:143,guanjianci:1,1,ce2123453,productImage:http://localhost:35753/upimg/20160428152753929.jpg,listImage:http://localhost:35753/upimg/20160428152758358.jpg,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:34:51,385 
+【线程编号】[59] 
+【执行时间】[7551381]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】215 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,taskid:143,guanjianci:1,1,cexcv12,productImage:http://localhost:35753/upimg/20160428152753929.jpg,listImage:http://localhost:35753/upimg/20160428152758358.jpg,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：f。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:38:14,833 
+【线程编号】[48] 
+【执行时间】[7754828]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】215 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,taskid:143,guanjianci:1,1,cexcv1221224,productImage:http://localhost:35753/upimg/20160428152753929.jpg,listImage:http://localhost:35753/upimg/20160428152758358.jpg,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：f。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:44:00,198 
+【线程编号】[7] 
+【执行时间】[115]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】215 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,taskid:143,guanjianci:1,1,24,productImage:http://localhost:35753/upimg/20160428152753929.jpg,listImage:http://localhost:35753/upimg/20160428152758358.jpg,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：f。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:49:22,360 
+【线程编号】[7] 
+【执行时间】[322277]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:49:22,362 
+【线程编号】[7] 
+【执行时间】[322279]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:B6F6C0FF309BB537744C14E3B399230BA272612B5CB4EE06313DEAEA8A94760267228FD8AE3024A40422BDEC4FB995432866539A232F6EF14FD7DCCD1E7AA618E099F6CE65F1CD6001CE3F0F23D0D93225F40B82922890547C71045B207799D66773242F1981CE8A78BD077E51623D1FE63304A34DE04538DC221A5F3AE4DBBB7DAAA694E261047207F71C1728DEF114D74F5B0B9D22269142C167D6F2DD4AC0077584D4035C23F4F0CBEC8AD5B4622713AF361E3258962AC608C9FEB9BD219D 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:49:31,595 
+【线程编号】[12] 
+【执行时间】[331512]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:49:31,596 
+【线程编号】[12] 
+【执行时间】[331513]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:B6F6C0FF309BB537744C14E3B399230BA272612B5CB4EE06313DEAEA8A94760267228FD8AE3024A40422BDEC4FB995432866539A232F6EF14FD7DCCD1E7AA618E099F6CE65F1CD6001CE3F0F23D0D93225F40B82922890547C71045B207799D66773242F1981CE8A78BD077E51623D1FE63304A34DE04538DC221A5F3AE4DBBB7DAAA694E261047207F71C1728DEF114D74F5B0B9D22269142C167D6F2DD4AC0077584D4035C23F4F0CBEC8AD5B4622713AF361E3258962AC608C9FEB9BD219D 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:49:37,481 
+【线程编号】[7] 
+【执行时间】[337398]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:49:37,482 
+【线程编号】[7] 
+【执行时间】[337399]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:B6F6C0FF309BB537744C14E3B399230BA272612B5CB4EE06313DEAEA8A94760267228FD8AE3024A40422BDEC4FB995432866539A232F6EF14FD7DCCD1E7AA618E099F6CE65F1CD6001CE3F0F23D0D93225F40B82922890547C71045B207799D66773242F1981CE8A78BD077E51623D1FE63304A34DE04538DC221A5F3AE4DBBB7DAAA694E261047207F71C1728DEF114D74F5B0B9D22269142C167D6F2DD4AC0077584D4035C23F4F0CBEC8AD5B4622713AF361E3258962AC608C9FEB9BD219D 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:50:09,564 
+【线程编号】[20] 
+【执行时间】[369481]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:50:09,564 
+【线程编号】[20] 
+【执行时间】[369481]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:B6F6C0FF309BB537744C14E3B399230BA272612B5CB4EE06313DEAEA8A94760267228FD8AE3024A40422BDEC4FB995432866539A232F6EF14FD7DCCD1E7AA618E099F6CE65F1CD6001CE3F0F23D0D93225F40B82922890547C71045B207799D66773242F1981CE8A78BD077E51623D1FE63304A34DE04538DC221A5F3AE4DBBB7DAAA694E261047207F71C1728DEF114D74F5B0B9D22269142C167D6F2DD4AC0077584D4035C23F4F0CBEC8AD5B4622713AF361E3258962AC608C9FEB9BD219D 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:50:26,483 
+【线程编号】[20] 
+【执行时间】[386400]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:50:26,487 
+【线程编号】[20] 
+【执行时间】[386404]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:B6F6C0FF309BB537744C14E3B399230BA272612B5CB4EE06313DEAEA8A94760267228FD8AE3024A40422BDEC4FB995432866539A232F6EF14FD7DCCD1E7AA618E099F6CE65F1CD6001CE3F0F23D0D93225F40B82922890547C71045B207799D66773242F1981CE8A78BD077E51623D1FE63304A34DE04538DC221A5F3AE4DBBB7DAAA694E261047207F71C1728DEF114D74F5B0B9D22269142C167D6F2DD4AC0077584D4035C23F4F0CBEC8AD5B4622713AF361E3258962AC608C9FEB9BD219D 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:50:33,957 
+【线程编号】[12] 
+【执行时间】[393874]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:50:33,957 
+【线程编号】[12] 
+【执行时间】[393874]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:B6F6C0FF309BB537744C14E3B399230BA272612B5CB4EE06313DEAEA8A94760267228FD8AE3024A40422BDEC4FB995432866539A232F6EF14FD7DCCD1E7AA618E099F6CE65F1CD6001CE3F0F23D0D93225F40B82922890547C71045B207799D66773242F1981CE8A78BD077E51623D1FE63304A34DE04538DC221A5F3AE4DBBB7DAAA694E261047207F71C1728DEF114D74F5B0B9D22269142C167D6F2DD4AC0077584D4035C23F4F0CBEC8AD5B4622713AF361E3258962AC608C9FEB9BD219D 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:50:38,541 
+【线程编号】[7] 
+【执行时间】[398458]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:50:38,542 
+【线程编号】[7] 
+【执行时间】[398459]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:B6F6C0FF309BB537744C14E3B399230BA272612B5CB4EE06313DEAEA8A94760267228FD8AE3024A40422BDEC4FB995432866539A232F6EF14FD7DCCD1E7AA618E099F6CE65F1CD6001CE3F0F23D0D93225F40B82922890547C71045B207799D66773242F1981CE8A78BD077E51623D1FE63304A34DE04538DC221A5F3AE4DBBB7DAAA694E261047207F71C1728DEF114D74F5B0B9D22269142C167D6F2DD4AC0077584D4035C23F4F0CBEC8AD5B4622713AF361E3258962AC608C9FEB9BD219D 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:50:55,336 
+【线程编号】[20] 
+【执行时间】[415253]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:50:55,339 
+【线程编号】[20] 
+【执行时间】[415256]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:B6F6C0FF309BB537744C14E3B399230BA272612B5CB4EE06313DEAEA8A94760267228FD8AE3024A40422BDEC4FB995432866539A232F6EF14FD7DCCD1E7AA618E099F6CE65F1CD6001CE3F0F23D0D93225F40B82922890547C71045B207799D66773242F1981CE8A78BD077E51623D1FE63304A34DE04538DC221A5F3AE4DBBB7DAAA694E261047207F71C1728DEF114D74F5B0B9D22269142C167D6F2DD4AC0077584D4035C23F4F0CBEC8AD5B4622713AF361E3258962AC608C9FEB9BD219D 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:54:10,464 
+【线程编号】[7] 
+【执行时间】[79]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:cdavg3xl13552yqr43mnldos 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:54:10,490 
+【线程编号】[7] 
+【执行时间】[105]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:FE49615D4F201D7BBF382103D97B98651ADB4B3878C22EC28960F650269A0F48B42F9CB7149FCAB33928B54E5028A4974863FE08B1C4CC2552F5407FE179D5BA518DF4916A4856F6EE3F5D93A8D1E8258FE7C152E546FFC5B03D09A5D35CE32934175CDB9186A8ED7FFBD7F52ECEA6F31CFCA2DE29E8423C22AA4CAAD4DA491A5319765B0751F20214B04CF9F74958381770C0328D0CB5327EFC379FC4847F32BF58D1062A2345B1DC11E84D4B13923FFAB4DB8311FFB43F6463158695F5370A 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 15:54:33,427 
+【线程编号】[7] 
+【执行时间】[23042]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】155 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,taskid:147,platForm:1,activeMethod:1,activeName:zhangli,url:http://baidu.com,guanjianci:1,1,zhanglide,seller:14,productType:5,price:10.00,productNum:5,activeNum:7,commissionPrice:1,guaranteePrice:55,productImage:http://localhost:35753/upimg/20160428155132890.jpg,listImage:http://localhost:35753/upimg/20160428155136260.jpg,activeType:2,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：ss。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 16:00:49,815 
+【线程编号】[8] 
+【执行时间】[399430]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 16:03:18,442 
+【线程编号】[8] 
+【执行时间】[75]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】215 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,taskid:147,guanjianci:1,1,zhangli,productImage:http://localhost:35753/upimg/20160428155132890.jpg,listImage:http://localhost:35753/upimg/20160428155136260.jpg,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：ss。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 16:29:19,805 
+【线程编号】[10] 
+【执行时间】[65]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 16:30:23,245 
+【线程编号】[10] 
+【执行时间】[74]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】219 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,taskid:147,guanjianci:1,1,zhangli0632,productImage:http://localhost:35753/upimg/20160428155132890.jpg,listImage:http://localhost:35753/upimg/20160428155136260.jpg,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：ss。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 16:39:22,474 
+【线程编号】[15] 
+【执行时间】[539302]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:vekwbvyuhum2hcegnasdhzdp 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 16:39:22,476 
+【线程编号】[15] 
+【执行时间】[539304]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:D304976D629478A3472BBF7C1CFC30FC099D4B677664819425902B2131B22B60D05DEC97CEA2A7397B4C557189B5DC723DC44D35613ED2B3AF9646871036B2E89688EC7E65C3D476DEF812C94109748906B60D001FCC105AAAF9DD5CB62DA040785A4E12956A44E5BFF59F81ED4E7EE9DCA3791A8A6A1949B34C7C69A91DFBD72F6E70480392A232B9ABA2633E81574CEF5FD38AC69FC57621EC64045DE22FC6EE53ABA96986F38C5082104CD8725FFB7546812EDA7C0D629021DC881E54AA93 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 16:40:13,196 
+【线程编号】[3] 
+【执行时间】[590024]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:vekwbvyuhum2hcegnasdhzdp 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 16:40:13,198 
+【线程编号】[3] 
+【执行时间】[590026]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:91AA2E9D35DDF761309E15BF32F60946638D6A7D55DD2DC1D40678E651B9774A413C41C35FEFC05A3A195D116E3F3A4BBE70B068DE79710FF71AC485B1F54490E9D586EAD453A5D3BC1E9CACB29E29987219108F5F6A5F529A8B1C52D6208D4D0FC0842DB645E9D1DBB74C9ABF461E738341B9FB8320216AE363FBBD4141C1F7169F449200EA5C16F0572068B43B856A7F3A6A4C439B5BD8F24B1F86C4ED1C50D4EB0C5373AA334E76ACEC5DD0E655170CBE68521B82442E449CE27FE3B8726E 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 16:40:20,448 
+【线程编号】[5] 
+【执行时间】[597277]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】155 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,taskid:148,platForm:1,activeMethod:1,activeName:aa,url:http://baidu.com,guanjianci:1,1,哎哎,seller:14,productType:6,price:1.00,productNum:5,activeNum:6,commissionPrice:1,guaranteePrice:10,productImage:http://localhost:35753/upimg/20160428163957643.jpg,listImage:http://localhost:35753/upimg/20160428164000688.jpg,activeType:2,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：哎哎。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 17:07:10,238 
+【线程编号】[34] 
+【执行时间】[2207066]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 17:10:59,326 
+【线程编号】[36] 
+【执行时间】[2436155]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 17:11:10,470 
+【线程编号】[34] 
+【执行时间】[2447298]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:vekwbvyuhum2hcegnasdhzdp 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 17:11:10,470 
+【线程编号】[34] 
+【执行时间】[2447298]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:3DCA0914AFDEFD37C98140D89CD9C31C303AA4531569727549B386AD44F35143497CCFE52C7DCE965DF52EE2E834FCCDFD8560126BE6F94471B8F0FF3A2B52AE645F6B33BEB258B63B393B815E682EBE9A8AD0E4421EE47234315A3F41F833B71C6FA7B0A50107836202E3E35C960BF618194309F66F2D1DA99387D3458FBD5128CC97B63B9676427C619BC5230CE0C827A1F4C4E6BBC5E067BFE787CF2242B5869B78566B7D5667AFDEB54F24178D0FD4367EEE3BE700FF557ECE075562778F 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 17:17:04,682 
+【线程编号】[36] 
+【执行时间】[2801510]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/data/data.aspx
+错误信息：d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs(546): error CS1061: “Task.BLL.tb_MoneyBLL”不包含“XiaoFeiNew”的定义，并且找不到可接受类型为“Task.BLL.tb_MoneyBLL”的第一个参数的扩展方法“XiaoFeiNew”(是否缺少 using 指令或程序集引用?)
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 17:17:37,152 
+【线程编号】[42] 
+【执行时间】[2833981]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/data/data.aspx
+错误信息：d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs(546): error CS1061: “Task.BLL.tb_MoneyBLL”不包含“XiaoFeiNew”的定义，并且找不到可接受类型为“Task.BLL.tb_MoneyBLL”的第一个参数的扩展方法“XiaoFeiNew”(是否缺少 using 指令或程序集引用?)
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 17:19:16,128 
+【线程编号】[36] 
+【执行时间】[87]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 17:35:54,953 
+【线程编号】[27] 
+【执行时间】[998911]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 17:45:09,855 
+【线程编号】[39] 
+【执行时间】[1553814]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 17:45:33,628 
+【线程编号】[39] 
+【执行时间】[1577587]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 17:47:00,947 
+【线程编号】[21] 
+【执行时间】[1664905]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】222 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,taskid:148,guanjianci:1,1,哎哎鞍山,productImage:http://localhost:35753/upimg/20160428163957643.jpg,listImage:http://localhost:35753/upimg/20160428164000688.jpg,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：哎哎。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 17:47:25,405 
+【线程编号】[20] 
+【执行时间】[1689364]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】222 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,taskid:149,guanjianci:1,1,ff在心之所向,productImage:http://localhost:35753/upimg/20160428171146635.jpg,listImage:http://localhost:35753/upimg/20160428171150252.jpg,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：ff。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 17:47:52,719 
+【线程编号】[30] 
+【执行时间】[1716678]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】222 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,taskid:149,guanjianci:1,1,ff在心之所向,productImage:http://localhost:35753/upimg/20160428174750695.jpg,listImage:http://localhost:35753/upimg/20160428171150252.jpg,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：ff。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 17:53:35,560 
+【线程编号】[19] 
+【执行时间】[2059518]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/Details.aspx?id=57
+错误信息：文件“/Details.aspx”不存在。
+堆栈內容：
+   在 System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 17:55:06,729 
+【线程编号】[20] 
+【执行时间】[2150688]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/Details.aspx?id=57
+错误信息：文件“/Details.aspx”不存在。
+堆栈內容：
+   在 System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 17:55:15,801 
+【线程编号】[20] 
+【执行时间】[2159760]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/Details.aspx?id=57
+错误信息：文件“/Details.aspx”不存在。
+堆栈內容：
+   在 System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 18:34:47,393 
+【线程编号】[19] 
+【执行时间】[82]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 18:35:44,280 
+【线程编号】[16] 
+【执行时间】[56969]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 19:01:08,189 
+【线程编号】[34] 
+【执行时间】[1580878]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-04-28 21:11:15,075 
+【线程编号】[31] 
+【执行时间】[206]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】36 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】

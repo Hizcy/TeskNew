@@ -1,0 +1,68 @@
+﻿body {
+}
+.footer_float_box{    background: #6b6b6b;
+    height: 87px;
+    border-bottom: 1px solid #ee7035;
+    filter: alpha(opacity=96);
+    opacity: 0.96;
+    position: fixed;
+    left: 0;
+    z-index: 999;
+    bottom: 0;
+    width: 100%;}
+.footer_float_wrap{    width: 960px;
+    position: relative;
+    margin: 0 auto;}
+.footer_float_img{position: absolute;
+    left: 0;
+    top: -6px;
+    width: 584px;
+    height: 84px;}
+.click_link{    display: block;
+    width: 127px;
+    height: 40px;
+    line-height: 900px;
+    overflow: hidden;
+    position: absolute;
+    background: url(../images/q_btn.png) no-repeat 0 0;
+    right: 210px;
+    
+    top: 25px;}
+    a {
+        text-decoration: none;
+    color: #333;
+    outline: 0 none;
+    }
+    .click_close {
+        width: 8px;
+    height: 8px;
+    line-height: 100px;
+    overflow: hidden;
+    position: absolute;
+    background: url(../images/footer_float_close.png);
+    right: 50px;
+    top: 15px;
+    cursor: pointer;
+    }
+.hide {
+    display:none;
+}
+.oz5 {min-height: 0;overflow: hidden;zoom: 1;}
+.pr {position: relative;margin-top:5px;}
+.oz5 ul{margin-top: 0;}
+.oz5 ul li{list-style: none;float: left;}
+.oz5 .proList {}
+.oz5 .proList li{width: 158px;height: 270px;padding: 13px 10px 15px 9px;line-height: 22px;border: 1px solid #EDEDED;margin:1px}
+.oz5 .proList li:hover{width: 158px;height: 270px;padding: 13px 10px 15px 9px;line-height: 22px;border: 1px solid #c40000;margin:1px}
+.oz5 .proList img{width: 160px;height: 180px;}
+.oz5 .proList li div{height: 49px;margin-top: 11px;padding-left: 11px;}
+.oz5 .proList li .c0{color:#666}
+.oz5 .proList li .f14{font-size: 14px;}
+.oz5 .proList li .c5{color:#555}
+.oz5 .proList li .c3{}
+.oz5 .proList li .b{}
+.oz5 .proList li .n{font-weight: 100;}
+.oz5 .proList li .shenqing{height: 33px;line-height: 33px;color: #fff;border: 1px solid #eeeeee;width: 138px;margin-left: 11px;font-weight: 700;font-size: 14px;text-align:center;background-color:#e81a62}
+.oz5 .proList li .shenqing:hover{height: 33px;line-height: 33px;color:#fff;border: 1px solid #eeeeee;width: 138px;margin-left: 11px;font-weight: 700;font-size: 14px;text-align:center;background-color:#c40000;color:#fff;}
+.oz5 .proList li  a .shenqing{text-decoration:none;color:#fff;width:138px;height:33px;}
+.oz5 .proList li  a:hover .shenqing{text-decoration:none;color:#fff;width:138px;height:33px;}

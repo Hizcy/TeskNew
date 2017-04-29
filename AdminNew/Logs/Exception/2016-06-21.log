@@ -1,0 +1,262 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-21 10:44:53,209 
+【线程编号】[14] 
+【执行时间】[230]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/TaskNew/AddTask2.aspx
+错误信息：指定的网络名不再可用。
+堆栈內容：
+ 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-21 10:46:55,824 
+【线程编号】[27] 
+【执行时间】[122846]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/TaskNew/AddTask2.aspx
+错误信息：找不到网络路径。
+堆栈內容：
+ 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-21 10:47:10,364 
+【线程编号】[31] 
+【执行时间】[137385]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/TaskNew/AddTask2.aspx
+错误信息：找不到网络路径。
+堆栈內容：
+ 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-21 11:42:03,050 
+【线程编号】[36] 
+【执行时间】[182]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160621114202245.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-21 11:42:03,746 
+【线程编号】[36] 
+【执行时间】[877]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-21 11:42:03,746 
+【线程编号】[36] 
+【执行时间】[878]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160621114202245.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-21 11:42:03,904 
+【线程编号】[36] 
+【执行时间】[1035]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-21 11:42:03,904 
+【线程编号】[36] 
+【执行时间】[1036]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160621114202245.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-21 11:42:04,065 
+【线程编号】[36] 
+【执行时间】[1196]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-21 11:44:24,260 
+【线程编号】[25] 
+【执行时间】[141392]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\upload.aspx.cs 
+【出错行号】82 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui3:ak:1G5S7rsUN6OROvmI0tAayz5PC8faGXnqWkcB5HLa,sk:ZJc2Gkv1orA7gwLHTs_JgOqdbpEAvcuV67rS6x0x,name:image91,file:20160621114424226.jpg,originalImagePath:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160621114424226.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-21 11:44:24,282 
+【线程编号】[25] 
+【执行时间】[141413]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160621114424226.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-21 11:44:24,435 
+【线程编号】[25] 
+【执行时间】[141566]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-21 11:44:24,435 
+【线程编号】[25] 
+【执行时间】[141566]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160621114424226.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-21 11:44:24,516 
+【线程编号】[25] 
+【执行时间】[141648]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-21 11:44:24,517 
+【线程编号】[25] 
+【执行时间】[141648]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160621114424226.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-21 11:44:24,623 
+【线程编号】[25] 
+【执行时间】[141754]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-21 11:45:30,975 
+【线程编号】[33] 
+【执行时间】[208106]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】228 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addshiyongtask,userid:4,platForm:1,activeMethod:1,isEvaluate:1,isMessage:1,activeName:rt,url:http://baidu.com,guanjianci:1,1,都是,10,12,guanjianci:1,1,水电费,10,12,guanjianci:1,1,水电费是的,10,12,guanjianci:1,1,,10,12,guanjianci:1,1,,10,12,seller:4,productType:2,price:10,productNum:12,activeNum:5,commissionPrice:0,guaranteePrice:120,productImage:http://localhost:35753/upimg/20160621114202245.jpg,listImage:http://localhost:35753/upimg/20160621114424226.jpg,activeType:3,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-21 13:19:19,022 
+【线程编号】[5] 
+【执行时间】[232]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160621131918053.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-21 13:19:19,731 
+【线程编号】[5] 
+【执行时间】[942]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-21 13:19:19,731 
+【线程编号】[5] 
+【执行时间】[942]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160621131918053.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-21 13:19:19,907 
+【线程编号】[5] 
+【执行时间】[1118]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-21 13:19:19,907 
+【线程编号】[5] 
+【执行时间】[1118]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】209 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui2:D:\zhanglixiangmu\威小宝刷单\Admin\upimg\20160621131918053.jpg 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-21 13:19:20,071 
+【线程编号】[5] 
+【执行时间】[1282]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\App_Code\BasePage.cs 
+【出错行号】212 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】uploadQinui1:Qiniu.IO.PutRet 
+【错误详情】

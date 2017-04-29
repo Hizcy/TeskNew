@@ -1,0 +1,11 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-19 13:08:25,417 
+【线程编号】[5] 
+【执行时间】[225]毫秒 
+【出错文件】e:\Web\Details.aspx.cs 
+【出错行号】128 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】details.aspx,userid:0 
+【错误详情】

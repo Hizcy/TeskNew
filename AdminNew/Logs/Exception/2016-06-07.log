@@ -1,0 +1,187 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-07 14:33:04,217 
+【线程编号】[64] 
+【执行时间】[287]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】175 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission,userid:19,platForm:1,activeMethod:1,isEvaluate:0,isMessage:0,activeName:njg,url:http://baidu.com,guanjianci:1,1,去,1,2,guanjianci:1,1,去,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,我去而且,1,2,seller:1,productType:6,price:10,productNum:50,activeNum:20,commissionPrice:0,guaranteePrice:500,productImage:http://localhost:35753/upimg/20160607141429079.jpg,listImage:http://localhost:35753/upimg/20160607141448669.jpg,activeType:3,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-07 14:34:28,558 
+【线程编号】[75] 
+【执行时间】[84628]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】175 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission,userid:19,platForm:1,activeMethod:1,isEvaluate:0,isMessage:0,activeName:njg,url:http://baidu.com,guanjianci:1,1,去,1,2,guanjianci:1,1,去,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,我去而且,1,2,seller:1,productType:6,price:10,productNum:0,activeNum:20,commissionPrice:0,guaranteePrice:0,productImage:http://localhost:35753/upimg/20160607141429079.jpg,listImage:http://localhost:35753/upimg/20160607141448669.jpg,activeType:3,message: 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-07 14:35:47,003 
+【线程编号】[56] 
+【执行时间】[163073]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】175 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission,userid:19,platForm:1,activeMethod:1,isEvaluate:0,isMessage:0,activeName:njg,url:http://baidu.com,guanjianci:1,1,去,1,2,guanjianci:1,1,去,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,我去而且,1,2,seller:1,productType:6,price:10,productNum:100,activeNum:20,commissionPrice:0,guaranteePrice:1000,productImage:http://localhost:35753/upimg/20160607141429079.jpg,listImage:http://localhost:35753/upimg/20160607141448669.jpg,activeType:3,message: 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-07 14:37:32,419 
+【线程编号】[56] 
+【执行时间】[268489]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】175 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission,userid:19,platForm:1,activeMethod:1,isEvaluate:0,isMessage:0,activeName:njg,url:http://baidu.com,guanjianci:1,1,去,1,2,guanjianci:1,1,去,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,我去而且,1,2,seller:1,productType:6,price:10,productNum:30,activeNum:20,commissionPrice:0,guaranteePrice:300,productImage:http://localhost:35753/upimg/20160607141429079.jpg,listImage:http://localhost:35753/upimg/20160607141448669.jpg,activeType:3,message: 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-07 15:18:23,854 
+【线程编号】[9] 
+【执行时间】[62]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】175 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission,userid:19,platForm:1,activeMethod:1,isEvaluate:0,isMessage:0,activeName:njg,url:http://baidu.com,guanjianci:1,1,去,1,2,guanjianci:1,1,去,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,我去而且,1,2,seller:1,productType:6,price:10,productNum:0,activeNum:20,commissionPrice:0,guaranteePrice:0,productImage:http://localhost:35753/upimg/20160607141429079.jpg,listImage:http://localhost:35753/upimg/20160607141448669.jpg,activeType:3,message: 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-07 16:01:36,184 
+【线程编号】[60] 
+【执行时间】[167]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】175 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission,userid:19,platForm:1,activeMethod:1,isEvaluate:0,isMessage:0,activeName:njg,url:http://baidu.com,guanjianci:1,1,去,1,2,guanjianci:1,1,去,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,我去而且,1,2,seller:1,productType:6,price:10,productNum:0,activeNum:20,commissionPrice:0,guaranteePrice:20,productImage:http://localhost:35753/upimg/20160607141429079.jpg,listImage:http://localhost:35753/upimg/20160607141448669.jpg,activeType:3,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-07 16:04:19,816 
+【线程编号】[82] 
+【执行时间】[163799]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】175 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission,userid:19,platForm:1,activeMethod:1,isEvaluate:0,isMessage:0,activeName:njg,url:http://baidu.com,guanjianci:1,1,去,1,2,guanjianci:1,1,去,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,我去而且,1,2,seller:1,productType:6,price:10,productNum:0,activeNum:20,commissionPrice:0,guaranteePrice:20,productImage:http://localhost:35753/upimg/20160607141429079.jpg,listImage:http://localhost:35753/upimg/20160607141448669.jpg,activeType:3,message: 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-07 16:04:31,389 
+【线程编号】[50] 
+【执行时间】[175372]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】175 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission,userid:19,platForm:1,activeMethod:1,isEvaluate:0,isMessage:0,activeName:njg,url:http://baidu.com,guanjianci:1,1,去,1,2,guanjianci:1,1,去,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,我去而且,1,2,seller:1,productType:6,price:10,productNum:0,activeNum:20,commissionPrice:0,guaranteePrice:20,productImage:http://localhost:35753/upimg/20160607141429079.jpg,listImage:http://localhost:35753/upimg/20160607141448669.jpg,activeType:3,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-07 16:06:35,645 
+【线程编号】[42] 
+【执行时间】[299628]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】175 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission,userid:19,platForm:1,activeMethod:1,isEvaluate:0,isMessage:0,activeName:njg,url:http://baidu.com,guanjianci:1,1,去,1,2,guanjianci:1,1,去,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,我去而且,1,2,seller:1,productType:6,price:10,productNum:0,activeNum:20,commissionPrice:0,guaranteePrice:20,productImage:http://localhost:35753/upimg/20160607141429079.jpg,listImage:http://localhost:35753/upimg/20160607141448669.jpg,activeType:3,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-07 16:10:54,973 
+【线程编号】[42] 
+【执行时间】[558956]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】175 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission,userid:19,platForm:1,activeMethod:1,isEvaluate:0,isMessage:0,activeName:njg,url:http://baidu.com,guanjianci:1,1,去,1,2,guanjianci:1,1,去,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,我去而且,1,2,seller:1,productType:6,price:10,productNum:0,activeNum:20,commissionPrice:0,guaranteePrice:20,productImage:http://localhost:35753/upimg/20160607141429079.jpg,listImage:http://localhost:35753/upimg/20160607141448669.jpg,activeType:3,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-07 16:18:17,622 
+【线程编号】[73] 
+【执行时间】[1001605]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】175 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission,userid:19,platForm:1,activeMethod:1,isEvaluate:0,isMessage:0,activeName:njg,url:http://baidu.com,guanjianci:1,1,去,1,2,guanjianci:1,1,去,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,我去而且,1,2,seller:1,productType:6,price:10,productNum:0,activeNum:20,commissionPrice:0,guaranteePrice:20,productImage:http://localhost:35753/upimg/20160607141429079.jpg,listImage:http://localhost:35753/upimg/20160607141448669.jpg,activeType:3,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-07 16:19:19,660 
+【线程编号】[42] 
+【执行时间】[1063643]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】175 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission,userid:19,platForm:1,activeMethod:1,isEvaluate:0,isMessage:0,activeName:njg,url:http://baidu.com,guanjianci:1,1,去,1,2,guanjianci:1,1,去,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,我去而且,1,2,seller:1,productType:6,price:10,productNum:0,activeNum:20,commissionPrice:0,guaranteePrice:20,productImage:http://localhost:35753/upimg/20160607141429079.jpg,listImage:http://localhost:35753/upimg/20160607141448669.jpg,activeType:3,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-07 16:20:26,659 
+【线程编号】[73] 
+【执行时间】[1130642]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】175 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission,userid:19,platForm:1,activeMethod:1,isEvaluate:0,isMessage:0,activeName:njg,url:http://baidu.com,guanjianci:1,1,去,1,2,guanjianci:1,1,去,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,气味,1,2,guanjianci:1,1,我去而且,1,2,seller:1,productType:6,price:10,productNum:0,activeNum:20,commissionPrice:0,guaranteePrice:20,productImage:http://localhost:35753/upimg/20160607141429079.jpg,listImage:http://localhost:35753/upimg/20160607141448669.jpg,activeType:3,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-07 18:17:57,630 
+【线程编号】[15] 
+【执行时间】[513]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/TaskNew/AddTask2.aspx
+错误信息：d:\zhanglixiangmu\威小宝刷单\Admin\TaskNew\AddTask2.aspx(341): error CS0103: 当前上下文中不存在名称“ddlpaixu”
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-06-07 18:18:12,859 
+【线程编号】[16] 
+【执行时间】[15742]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/TaskNew/AddTask2.aspx
+错误信息：d:\zhanglixiangmu\威小宝刷单\Admin\TaskNew\AddTask2.aspx(341): error CS0103: 当前上下文中不存在名称“ddlpaixu”
+堆栈內容：
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) 
+【错误详情】

@@ -1,0 +1,176 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-11 10:14:17,697 
+【线程编号】[4] 
+【执行时间】[152]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】35 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-11 11:15:21,138 
+【线程编号】[56] 
+【执行时间】[3663593]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】35 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-11 11:35:32,480 
+【线程编号】[39] 
+【执行时间】[4874935]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】35 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-11 12:47:46,699 
+【线程编号】[28] 
+【执行时间】[76]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】35 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-11 13:23:43,615 
+【线程编号】[19] 
+【执行时间】[2156992]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】35 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-11 13:23:50,848 
+【线程编号】[29] 
+【执行时间】[2164224]毫秒 
+【出错文件】e:\localhost_6108\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:2 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-11 13:23:54,214 
+【线程编号】[29] 
+【执行时间】[2167590]毫秒 
+【出错文件】e:\localhost_6108\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:2 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-11 13:23:55,306 
+【线程编号】[30] 
+【执行时间】[2168682]毫秒 
+【出错文件】e:\localhost_6108\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:2 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-11 13:23:56,649 
+【线程编号】[28] 
+【执行时间】[2170025]毫秒 
+【出错文件】e:\localhost_6108\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:2 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-11 13:24:10,864 
+【线程编号】[28] 
+【执行时间】[2184240]毫秒 
+【出错文件】e:\localhost_6108\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-11 13:24:16,851 
+【线程编号】[30] 
+【执行时间】[2190228]毫秒 
+【出错文件】e:\localhost_6108\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:2 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-11 13:24:31,319 
+【线程编号】[28] 
+【执行时间】[2204696]毫秒 
+【出错文件】e:\localhost_6108\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:3 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-11 13:24:39,902 
+【线程编号】[19] 
+【执行时间】[2213278]毫秒 
+【出错文件】e:\localhost_6108\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:3 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-11 13:24:42,217 
+【线程编号】[29] 
+【执行时间】[2215593]毫秒 
+【出错文件】e:\localhost_6108\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:3 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-11 13:24:45,230 
+【线程编号】[19] 
+【执行时间】[2218606]毫秒 
+【出错文件】e:\localhost_6108\busines\TradeShilist.aspx.cs 
+【出错行号】68 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】tradeshilist.aspx.audittongguo,value:3 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-03-11 13:45:59,073 
+【线程编号】[28] 
+【执行时间】[3492450]毫秒 
+【出错文件】e:\localhost_6108\user\Index.aspx.cs 
+【出错行号】35 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】

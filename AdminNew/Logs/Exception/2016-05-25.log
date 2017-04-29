@@ -1,0 +1,372 @@
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 09:38:29,950 
+【线程编号】[7] 
+【执行时间】[114]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】37 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 09:53:44,460 
+【线程编号】[7] 
+【执行时间】[914624]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:on3v0pxjqqbwv4qgrxjfwopo 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 09:53:44,464 
+【线程编号】[7] 
+【执行时间】[914628]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:DD0F81BA934149A41B534A4333D03FCCF905D746B5184036F90ABF93698DDB60F1091C3730F0F459B0F9DC18E500D3EE444D1DC330CD2B6F5C714706D122C4B4A124A15B84AC6777E9078B5F52C3CAE1FC948DE9F65C6E10AAE2FB5ABF0C1D32A1015AF1172C0E2496B461817D8EB351619B962516555DE702512DF18718C002A6FD661C95DE7AAB0C926D286CDD28CEA9764A0579C7B5B5C82954C759A7AC8CAEFF8A11630B636B86EF967AFB1DC64C5CFE8A1601E7B2CF6EB550B53E456DE0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 09:57:38,974 
+【线程编号】[16] 
+【执行时间】[1149138]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:on3v0pxjqqbwv4qgrxjfwopo 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 09:57:38,978 
+【线程编号】[16] 
+【执行时间】[1149142]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:DD0F81BA934149A41B534A4333D03FCCF905D746B5184036F90ABF93698DDB60F1091C3730F0F459B0F9DC18E500D3EE444D1DC330CD2B6F5C714706D122C4B4A124A15B84AC6777E9078B5F52C3CAE1FC948DE9F65C6E10AAE2FB5ABF0C1D32A1015AF1172C0E2496B461817D8EB351619B962516555DE702512DF18718C002A6FD661C95DE7AAB0C926D286CDD28CEA9764A0579C7B5B5C82954C759A7AC8CAEFF8A11630B636B86EF967AFB1DC64C5CFE8A1601E7B2CF6EB550B53E456DE0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 09:58:39,284 
+【线程编号】[7] 
+【执行时间】[1209448]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:on3v0pxjqqbwv4qgrxjfwopo 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 09:58:39,287 
+【线程编号】[7] 
+【执行时间】[1209451]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:DD0F81BA934149A41B534A4333D03FCCF905D746B5184036F90ABF93698DDB60F1091C3730F0F459B0F9DC18E500D3EE444D1DC330CD2B6F5C714706D122C4B4A124A15B84AC6777E9078B5F52C3CAE1FC948DE9F65C6E10AAE2FB5ABF0C1D32A1015AF1172C0E2496B461817D8EB351619B962516555DE702512DF18718C002A6FD661C95DE7AAB0C926D286CDD28CEA9764A0579C7B5B5C82954C759A7AC8CAEFF8A11630B636B86EF967AFB1DC64C5CFE8A1601E7B2CF6EB550B53E456DE0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 09:59:08,927 
+【线程编号】[16] 
+【执行时间】[1239090]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:on3v0pxjqqbwv4qgrxjfwopo 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 09:59:08,929 
+【线程编号】[16] 
+【执行时间】[1239092]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:DD0F81BA934149A41B534A4333D03FCCF905D746B5184036F90ABF93698DDB60F1091C3730F0F459B0F9DC18E500D3EE444D1DC330CD2B6F5C714706D122C4B4A124A15B84AC6777E9078B5F52C3CAE1FC948DE9F65C6E10AAE2FB5ABF0C1D32A1015AF1172C0E2496B461817D8EB351619B962516555DE702512DF18718C002A6FD661C95DE7AAB0C926D286CDD28CEA9764A0579C7B5B5C82954C759A7AC8CAEFF8A11630B636B86EF967AFB1DC64C5CFE8A1601E7B2CF6EB550B53E456DE0 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 10:20:43,793 
+【线程编号】[9] 
+【执行时间】[2533957]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\user\Index.aspx.cs 
+【出错行号】37 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】zcy123123|19|zcy|123123 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 10:22:02,607 
+【线程编号】[14] 
+【执行时间】[2612771]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:on3v0pxjqqbwv4qgrxjfwopo 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 10:22:02,630 
+【线程编号】[14] 
+【执行时间】[2612794]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:D3F00A981593DA9B2152C9FE0638B37E10C24D02E593402E347A93F7C7781605EADEFC8886B481D9DD49E91104AE6A8C7075F96F479F06748920462ADEACA36ED91C925C276099C5B2D3B54D1B8B6C42F8BFFB197CE5110963456D60226E268108F36BCD52E4A0BE23BAC50CC3F32314ACB37E84480BADA24752381519F1B91CB78CEC77EFA68118A900474D7AD9C9CD31D922396BDFFFC45570A522797BA41540C797C853C38FAC0C2A7F4B06FE8FA6310419BBBEAABEADB0D254143A04F284 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 11:32:15,731 
+【线程编号】[8] 
+【执行时间】[178]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】173 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission,userid:19,platForm:1,activeMethod:1,isEvaluate:1,isMessage:2,activeName:asdasdw,url:http://baidu.com,guanjianci:1,1,ww,seller:14,productType:1,price:1,productNum:5,activeNum:5,commissionPrice:0,guaranteePrice:5,productImage:http://localhost:35753/upimg/20160525113151822.jpg,listImage:http://localhost:35753/upimg/20160525113152542.jpg,activeType:3,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 11:33:06,625 
+【线程编号】[8] 
+【执行时间】[51071]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:on3v0pxjqqbwv4qgrxjfwopo 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 11:33:06,626 
+【线程编号】[8] 
+【执行时间】[51072]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:D3F00A981593DA9B2152C9FE0638B37E10C24D02E593402E347A93F7C7781605EADEFC8886B481D9DD49E91104AE6A8C7075F96F479F06748920462ADEACA36ED91C925C276099C5B2D3B54D1B8B6C42F8BFFB197CE5110963456D60226E268108F36BCD52E4A0BE23BAC50CC3F32314ACB37E84480BADA24752381519F1B91CB78CEC77EFA68118A900474D7AD9C9CD31D922396BDFFFC45570A522797BA41540C797C853C38FAC0C2A7F4B06FE8FA6310419BBBEAABEADB0D254143A04F284 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 11:33:52,175 
+【线程编号】[12] 
+【执行时间】[96622]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】173 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission,userid:19,platForm:1,activeMethod:1,isEvaluate:0,isMessage:0,activeName:zxcv,url:http://baidu.com,guanjianci:1,1,qaz,seller:14,productType:2,price:2,productNum:5,activeNum:5,commissionPrice:1,guaranteePrice:15,productImage:http://localhost:35753/upimg/20160525113335719.jpg,listImage:http://localhost:35753/upimg/20160525113338226.jpg,activeType:2,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 11:35:00,658 
+【线程编号】[9] 
+【执行时间】[165104]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】173 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】addCommission,userid:19,platForm:1,activeMethod:1,isEvaluate:0,isMessage:0,activeName:edc,url:http://baidu.com,guanjianci:1,1,wsx,seller:14,productType:1,price:3,productNum:2,activeNum:5,commissionPrice:2,guaranteePrice:10,productImage:http://localhost:35753/upimg/20160525113447355.jpg,listImage:http://localhost:35753/upimg/20160525113449659.jpg,activeType:1,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 11:46:13,504 
+【线程编号】[22] 
+【执行时间】[837950]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】210 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,userid:19,taskid:166,platForm:1,activeMethod:1,isEvaluate:1,isMessage:1,activeName:asdasdw,url:http://baidu.com,guanjianci:1,1,ww,seller:14,productType:1,price:1.00,productNum:5,activeNum:5,commissionPrice:0,guaranteePrice:5,productImage:http://localhost:35753/upimg/20160525113151822.jpg,listImage:http://localhost:35753/upimg/20160525113152542.jpg,activeType:3,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 11:46:35,442 
+【线程编号】[9] 
+【执行时间】[859889]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】210 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,userid:19,taskid:166,platForm:1,activeMethod:1,isEvaluate:2,isMessage:2,activeName:asdasdw,url:http://baidu.com,guanjianci:1,1,ww,seller:14,productType:1,price:1.00,productNum:5,activeNum:5,commissionPrice:0,guaranteePrice:5,productImage:http://localhost:35753/upimg/20160525113151822.jpg,listImage:http://localhost:35753/upimg/20160525113152542.jpg,activeType:3,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 11:49:12,968 
+【线程编号】[34] 
+【执行时间】[1017414]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:on3v0pxjqqbwv4qgrxjfwopo 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 11:49:12,972 
+【线程编号】[34] 
+【执行时间】[1017418]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:D3F00A981593DA9B2152C9FE0638B37E10C24D02E593402E347A93F7C7781605EADEFC8886B481D9DD49E91104AE6A8C7075F96F479F06748920462ADEACA36ED91C925C276099C5B2D3B54D1B8B6C42F8BFFB197CE5110963456D60226E268108F36BCD52E4A0BE23BAC50CC3F32314ACB37E84480BADA24752381519F1B91CB78CEC77EFA68118A900474D7AD9C9CD31D922396BDFFFC45570A522797BA41540C797C853C38FAC0C2A7F4B06FE8FA6310419BBBEAABEADB0D254143A04F284 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 11:49:45,143 
+【线程编号】[33] 
+【执行时间】[1049589]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs:行号 76
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 11:49:46,730 
+【线程编号】[25] 
+【执行时间】[1051176]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs:行号 76
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 11:49:48,200 
+【线程编号】[25] 
+【执行时间】[1052646]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs:行号 76
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 11:49:49,685 
+【线程编号】[33] 
+【执行时间】[1054131]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs:行号 76
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 11:49:50,931 
+【线程编号】[34] 
+【执行时间】[1055377]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs:行号 76
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 11:49:52,497 
+【线程编号】[27] 
+【执行时间】[1056943]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\Global.asax 
+【出错行号】53 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】发生錯誤的网页地址：http://localhost:35753/data/data.aspx
+错误信息：未将对象引用设置到对象的实例。
+堆栈內容：
+   在 data_data.Page_Load(Object sender, EventArgs e) 位置 d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs:行号 76
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 11:51:03,878 
+【线程编号】[16] 
+【执行时间】[1128324]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】28 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:ASPSESSID:on3v0pxjqqbwv4qgrxjfwopo 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 11:51:03,880 
+【线程编号】[16] 
+【执行时间】[1128326]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\busines\addGoodsb.aspx.cs 
+【出错行号】29 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】abdan:AUTHID:D3F00A981593DA9B2152C9FE0638B37E10C24D02E593402E347A93F7C7781605EADEFC8886B481D9DD49E91104AE6A8C7075F96F479F06748920462ADEACA36ED91C925C276099C5B2D3B54D1B8B6C42F8BFFB197CE5110963456D60226E268108F36BCD52E4A0BE23BAC50CC3F32314ACB37E84480BADA24752381519F1B91CB78CEC77EFA68118A900474D7AD9C9CD31D922396BDFFFC45570A522797BA41540C797C853C38FAC0C2A7F4B06FE8FA6310419BBBEAABEADB0D254143A04F284 
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝ 
+【日志级别】ERROR 
+【记录时间】2016-05-25 11:51:18,811 
+【线程编号】[31] 
+【执行时间】[1143257]毫秒 
+【出错文件】d:\zhanglixiangmu\威小宝刷单\Admin\data\data.aspx.cs 
+【出错行号】210 
+【出错的类】Jnwf.Utils.Log.Logger 属性[(null)] 
+【错误描述】updateCommission,userid:19,taskid:167,platForm:1,activeMethod:1,isEvaluate:0,isMessage:0,activeName:zxcv,url:http://baidu.com,guanjianci:1,1,qaz,seller:14,productType:2,price:3,productNum:5,activeNum:5,commissionPrice:1,guaranteePrice:20,productImage:http://localhost:35753/upimg/20160525113335719.jpg,listImage:http://localhost:35753/upimg/20160525113338226.jpg,activeType:2,message:<p>1.打开淘宝网站。</p><p>2.产品大致在第--页。</p><p>3.认准对比图上的主图，下单前假聊产品相关的5-10句。</p><p>4.禁止搜店铺和秒拍。请核对好宝贝和价格，确认好再下单。</p><p>5.快递默认：--。</p><p>6.签收后，请及时到店确认收货并写大约20字与之相关的好评语。</p> 
+【错误详情】
